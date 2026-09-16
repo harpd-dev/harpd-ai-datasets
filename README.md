@@ -170,7 +170,19 @@ Every `data/*.json` is validated in CI against the JSON Schemas in [`schema/`](s
 
 ## Adoption
 
-Real third-party usage is tracked in [`docs/adoption.md`](docs/adoption.md) — no fabricated metrics. Candidate integrations are listed in [`docs/integrations.md`](docs/integrations.md). KPI definitions are in [`docs/metrics.md`](docs/metrics.md).
+Real third-party usage is tracked in [`docs/adoption.md`](docs/adoption.md) — no fabricated metrics. Candidate integrations are listed in [`docs/integrations.md`](docs/integrations.md). KPI definitions are in [`docs/metrics.md`](docs/metrics.md). Verified external citations are in [`docs/citations.md`](docs/citations.md). The full repository audit is in [`docs/github-ecosystem.md`](docs/github-ecosystem.md) and the data flow in [`docs/ecosystem-graph.md`](docs/ecosystem-graph.md).
+
+## Harpd Open AI Data Ecosystem
+
+Every link below points at a repository that exists.
+
+- **AI datasets** — [`harpd-ai-datasets`](https://github.com/harpd-dev/harpd-ai-datasets) (this repo)
+- **AI research** — [`harpd-ai-research-notebooks`](https://github.com/harpd-dev/harpd-ai-research-notebooks)
+- **AI benchmarks** — [`llm-cost-benchmark`](https://github.com/harpd-dev/llm-cost-benchmark) · [`model-replacement-benchmark`](https://github.com/harpd-dev/model-replacement-benchmark) · [`cost-per-successful-task`](https://github.com/harpd-dev/cost-per-successful-task)
+- **AI product rankings** — [`harpd-rank-dataset`](https://github.com/harpd-dev/harpd-rank-dataset) · [`harpd-discovery-dataset`](https://github.com/harpd-dev/harpd-discovery-dataset)
+- **AI data explorer** — [`harpd-ai-data-explorer`](https://github.com/harpd-dev/harpd-ai-data-explorer)
+- **AI ranking dashboard** — [`harpd-ai-ranking-dashboard`](https://github.com/harpd-dev/harpd-ai-ranking-dashboard)
+- **MCP / AI agent integrations** — [`harpd-mcp`](https://github.com/harpd-dev/harpd-mcp)
 
 ## Cross-links
 
@@ -178,6 +190,7 @@ Real third-party usage is tracked in [`docs/adoption.md`](docs/adoption.md) — 
 - **Harpd Research**: https://harpd.com/research/
 - **Harpd Rank**: https://harpd.com/rank/
 - **Harpd Methodology / Evidence**: https://harpd.com/data/evidence.json
+- **Organization profile**: https://github.com/harpd-dev
 - **GitHub repo**: https://github.com/harpd-dev/harpd-ai-datasets
 
 ## Contributing
