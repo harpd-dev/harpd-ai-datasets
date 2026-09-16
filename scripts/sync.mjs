@@ -100,7 +100,7 @@ const main = async () => {
       'data/rankings/monthly.json', 'data/rankings/weekly.json',
       'data/research/ai-agent-index.json', 'data/research/developer-tools-index.json',
       'data/research/ai-tools-index.json', 'data/evidence/evidence-claims.csv',
-      'manifest.json',
+      'data/manifest.json',
     ]
     for (const f of files) {
       try {
@@ -256,7 +256,7 @@ const main = async () => {
     })),
     files: manifestFiles,
   }
-  await write('manifest.json', JSON.stringify(manifest, null, 2) + '\n')
+  await write('data/manifest.json', JSON.stringify(manifest, null, 2) + '\n')
 
   // Clean any temp discovery file if accidentally written (it is not).
   console.log(`\ndone — ${datasets.length} datasets, ${manifestFiles.length} files`)

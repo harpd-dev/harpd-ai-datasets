@@ -5,7 +5,7 @@
  */
 import { readFileSync } from 'node:fs'
 
-const m = JSON.parse(readFileSync('manifest.json', 'utf8'))
+const m = JSON.parse(readFileSync('data/manifest.json', 'utf8'))
 const total = m.datasets.reduce((a, d) => a + (d.recordCount || 0), 0)
 
 const rows = m.datasets

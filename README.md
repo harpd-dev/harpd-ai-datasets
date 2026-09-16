@@ -32,7 +32,7 @@ Every dataset is attributed to Harpd and links back to its canonical source page
 | [Research Index](data/research/research.json) | JSON / [CSV](data/research/research.csv) | 5 | Published monthly Harpd research families. |
 | [Evidence](data/evidence/evidence.json) | JSON / [CSV](data/evidence/evidence-claims.csv) | 5 | Evidence-linked claims behind Harpd rankings. |
 
-Each row links to its **GitHub file**, **Harpd source page** and **raw URL** — see [`manifest.json`](manifest.json) for the machine-readable index (schema, source URL, record count, sha256 per file).
+Each row links to its **GitHub file**, **Harpd source page** and **raw URL** — see [`data/manifest.json`](data/manifest.json) for the machine-readable index (schema, source URL, record count, sha256 per file).
 
 ## How to use it?
 

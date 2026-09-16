@@ -82,7 +82,7 @@ const parseCsv = (text) => {
 
 const main = async () => {
   console.log('Harpd AI Datasets — quality gate')
-  const manifest = await readJsonFile('manifest.json')
+  const manifest = await readJsonFile('data/manifest.json')
 
   // 10. attribution present (top-level)
   if (!/CC BY 4\.0/i.test(manifest.license || '')) fatal('manifest.license must be CC BY 4.0')
