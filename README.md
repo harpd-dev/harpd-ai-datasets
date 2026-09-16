@@ -8,6 +8,12 @@ Open datasets for AI products, rankings, research and evidence.
 **Canonical / citation:** [https://harpd.com/data/](https://harpd.com/data/)
 **License:** CC BY 4.0 — attribution required (see [Attribution](#attribution))
 
+> **Single source of truth.** Every count in this repository is derived from one
+> file — [`DATASET_TRUTH.json`](DATASET_TRUTH.json) — re-derived from the raw data
+> on every sync and enforced by [`scripts/verify-truth.mjs`](scripts/verify-truth.mjs).
+> If any artifact here disagrees with it, CI fails. Current canonical:
+> **1,122 products / 28 category boards**.
+
 ---
 
 ## What is this?
@@ -192,6 +198,14 @@ Every link below points at a repository that exists.
 - **Harpd Methodology / Evidence**: https://harpd.com/data/evidence.json
 - **Organization profile**: https://github.com/harpd-dev
 - **GitHub repo**: https://github.com/harpd-dev/harpd-ai-datasets
+
+## Documentation
+
+- **[Quickstart](docs/quickstart.md)** — read real data in 30 seconds, no API key.
+- **[Citation kit](docs/citation-kit.md)** — copy-paste BibTeX / APA / attribution / badge.
+- **[Provenance](docs/provenance.md)** — how every count is traced to its origin (DATASET_TRUTH + per-file sha256).
+- **[Releases](releases/)** — immutable monthly snapshots for citations and reproducible research.
+- **[Adoption](docs/adoption.md)** · **[Integrations](docs/integrations.md)** · **[Metrics](docs/metrics.md)** · **[Citations](docs/citations.md)**
 
 ## Contributing
 
