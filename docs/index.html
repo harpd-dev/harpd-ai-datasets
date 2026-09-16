@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Harpd AI Datasets — Explorer</title>
+<meta name="description" content="Open datasets for AI products, rankings, research and evidence from Harpd." />
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin:0; font:15px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+         background:#0e0e12; color:#e8e8ee; }
+  header { padding:2.5rem 1.5rem 1.5rem; border-bottom:1px solid #222; background:#121219; }
+  .wrap { max-width:960px; margin:0 auto; padding:0 1.5rem; }
+  h1 { margin:0 0 .4rem; font-size:1.7rem; letter-spacing:-.02em; }
+  h2 { margin:2rem 0 .6rem; font-size:1.15rem; }
+  a { color:#8a7bff; text-decoration:none; }
+  a:hover { text-decoration:underline; }
+  p.lead { color:#a6a6b4; margin:.2rem 0; max-width:60ch; }
+  .meta { color:#7d7d8c; font-size:.85rem; margin-top:.8rem; }
+  .badge { display:inline-block; vertical-align:middle; margin-left:.5rem; }
+  table { width:100%; border-collapse:collapse; margin:1rem 0 2rem; }
+  th, td { text-align:left; padding:.7rem .6rem; border-bottom:1px solid #23232c; vertical-align:top; }
+  th { color:#8a8a98; font-weight:600; font-size:.8rem; text-transform:uppercase; letter-spacing:.04em; }
+  td.rec { font-variant-numeric:tabular-nums; color:#fff; font-weight:600; }
+  .fmt a { margin-right:.5rem; white-space:nowrap; }
+  .src { color:#7d7d8c; font-size:.85rem; }
+  code { background:#1b1b24; padding:.1rem .35rem; border-radius:4px; font-size:.85em; }
+  footer { border-top:1px solid #222; padding:1.5rem; color:#7d7d8c; font-size:.85rem; margin-top:2rem; }
+  .pill { display:inline-block; background:#1b1b24; border:1px solid #2c2c38; border-radius:999px;
+          padding:.1rem .55rem; font-size:.75rem; color:#b9b9c6; margin-left:.4rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>Harpd AI Datasets
+      <img class="badge" alt="Powered by Harpd Data"
+           src="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/assets/powered-by-harpd-data.svg" />
+    </h1>
+    <p class="lead">Open datasets for AI products, rankings, research and evidence.</p>
+    <p class="lead">Source: <a href="https://harpd.com/">harpd.com</a> ·
+       Canonical: <a href="https://harpd.com/data/">harpd.com/data</a> ·
+       License: CC BY 4.0</p>
+    <p class="meta">Version 2026.9 · Snapshot 2026-09-16 · 7,498 total records · mirrored daily from harpd.com</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <h2>Datasets</h2>
+  <table>
+    <thead><tr><th>Dataset</th><th>Records</th><th>Format</th><th>Schema</th><th>Source</th></tr></thead>
+    <tbody>
+      <tr><td>Products</td><td class="rec">1,122</td>
+        <td class="fmt"><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/products/products.json">JSON</a><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/products/products.csv">CSV</a></td>
+        <td><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/schema/product.schema.json">schema</a></td>
+        <td class="src"><a href="https://harpd.com/data/products.json">harpd.com/data/products.json</a></td></tr>
+
+      <tr><td>Rankings (overall)</td><td class="rec">1,122</td>
+        <td class="fmt"><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/rankings/overall.json">JSON</a><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/rankings/overall.csv">CSV</a></td>
+        <td><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/schema/ranking.schema.json">schema</a></td>
+        <td class="src"><a href="https://harpd.com/data/rank.json">harpd.com/data/rank.json</a></td></tr>
+
+      <tr><td>Rankings (monthly)</td><td class="rec">1,122</td>
+        <td class="fmt"><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/rankings/monthly.json">JSON</a><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/rankings/monthly.csv">CSV</a></td>
+        <td><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/schema/ranking.schema.json">schema</a></td>
+        <td class="src"><a href="https://harpd.com/rank/">harpd.com/rank/</a></td></tr>
+
+      <tr><td>Rankings (weekly)</td><td class="rec">1,122</td>
+        <td class="fmt"><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/rankings/weekly.json">JSON</a><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/rankings/weekly.csv">CSV</a></td>
+        <td><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/schema/ranking.schema.json">schema</a></td>
+        <td class="src"><a href="https://harpd.com/rank/">harpd.com/rank/</a></td></tr>
+
+      <tr><td>Category Boards</td><td class="rec">28</td>
+        <td class="fmt"><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/rankings/categories.json">JSON</a></td>
+        <td><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/schema/ranking.schema.json">schema</a></td>
+        <td class="src"><a href="https://harpd.com/data/categories.json">harpd.com/data/categories.json</a></td></tr>
+
+      <tr><td>AI Market Index</td><td class="rec">27</td>
+        <td class="fmt"><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/research/ai-market-index.json">JSON</a><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/research/ai-market-index.csv">CSV</a></td>
+        <td><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/schema/research.schema.json">schema</a></td>
+        <td class="src"><a href="https://harpd.com/data/market-index.json">harpd.com/data/market-index.json</a></td></tr>
+
+      <tr><td>AI Agent Index</td><td class="rec">334</td>
+        <td class="fmt"><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/research/ai-agent-index.json">JSON</a><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/research/ai-agent-index.csv">CSV</a></td>
+        <td><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/schema/research.schema.json">schema</a></td>
+        <td class="src"><a href="https://harpd.com/discovery/">harpd.com/discovery/</a></td></tr>
+
+      <tr><td>Developer Tools Index</td><td class="rec">1,918</td>
+        <td class="fmt"><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/research/developer-tools-index.json">JSON</a><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/research/developer-tools-index.csv">CSV</a></td>
+        <td><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/schema/research.schema.json">schema</a></td>
+        <td class="src"><a href="https://harpd.com/discovery/">harpd.com/discovery/</a></td></tr>
+
+      <tr><td>AI Tools Index</td><td class="rec">693</td>
+        <td class="fmt"><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/research/ai-tools-index.json">JSON</a><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/research/ai-tools-index.csv">CSV</a></td>
+        <td><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/schema/research.schema.json">schema</a></td>
+        <td class="src"><a href="https://harpd.com/discovery/">harpd.com/discovery/</a></td></tr>
+
+      <tr><td>Research Index</td><td class="rec">5</td>
+        <td class="fmt"><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/research/research.json">JSON</a><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/research/research.csv">CSV</a></td>
+        <td><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/schema/research.schema.json">schema</a></td>
+        <td class="src"><a href="https://harpd.com/research/">harpd.com/research/</a></td></tr>
+
+      <tr><td>Evidence</td><td class="rec">5</td>
+        <td class="fmt"><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/evidence/evidence.json">JSON</a><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/evidence/evidence-claims.csv">CSV</a></td>
+        <td><a href="https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/schema/evidence.schema.json">schema</a></td>
+        <td class="src"><a href="https://harpd.com/data/evidence.json">harpd.com/data/evidence.json</a></td></tr>
+    </tbody>
+  </table>
+
+  <h2>Quick start</h2>
+  <p class="src">Raw entry point:</p>
+  <p><code>curl -L https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/data/manifest.json</code></p>
+
+  <h2>Attribution</h2>
+  <p>Data from Harpd (<a href="https://harpd.com/">https://harpd.com/</a>) — CC BY 4.0.
+     Canonical source: <a href="https://harpd.com/data/">https://harpd.com/data/</a></p>
+
+  <h2>Repository</h2>
+  <p><a href="https://github.com/harpd-dev/harpd-ai-datasets">github.com/harpd-dev/harpd-ai-datasets</a>
+     · <a href="https://github.com/harpd-dev/harpd-ai-datasets/blob/main/README.md">README</a>
+     · <a href="https://github.com/harpd-dev/harpd-ai-datasets/blob/main/CITATION.cff">CITATION.cff</a>
+     · <a href="https://github.com/harpd-dev/harpd-ai-datasets/blob/main/examples/README.md">examples</a></p>
+</main>
+
+<footer>
+  <div class="wrap">
+    Harpd AI Datasets is a mirrored distribution layer. harpd.com remains the canonical source.
+    Licensed CC BY 4.0.
+  </div>
+</footer>
+</body>
+</html>

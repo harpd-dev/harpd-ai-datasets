@@ -1,0 +1,39 @@
+name: Daily sync
+# Re-syncs real public data from harpd.com. Commits ONLY when the data content
+# materially changed (timestamps alone never trigger a commit).
+on:
+  schedule:
+    - cron: "17 9 * * *" # 09:17 UTC, daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Sync from harpd.com
+        run: node scripts/sync.mjs
+      - name: Quality gate
+        run: node scripts/validate.mjs
+      - name: Detect material change (ignores timestamps)
+        id: changed
+        run: node scripts/is-changed.mjs
+      - name: Commit & push
+        if: steps.changed.outcome == 'success'
+        run: |
+          git config user.name "harpd-bot"
+          git config user.email "harpdsupport@gmail.com"
+          git add -A
+          git commit -m "data: sync $(date -u +%F)"
+          git push
+      - name: No material change
+        if: steps.changed.outcome == 'failure'
+        run: echo "Upstream data unchanged (timestamps only) — no commit."

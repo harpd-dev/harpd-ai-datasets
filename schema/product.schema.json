@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/schema/product.schema.json",
+  "title": "Harpd Product",
+  "description": "A single product record in the Harpd product catalog / rank board. Stable schema — fields are never renamed without a deprecation cycle (see CHANGELOG).",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["id", "name", "slug", "url", "category", "categoryName", "updatedAt"],
+  "properties": {
+    "id": { "type": "string", "description": "Stable unique product id (slug-like, never reused)." },
+    "name": { "type": "string" },
+    "slug": { "type": "string" },
+    "url": { "type": "string", "format": "uri" },
+    "category": { "type": "string" },
+    "categoryName": { "type": "string" },
+    "rank": { "type": ["integer", "null"] },
+    "rankPoints": { "type": ["number", "null"] },
+    "verified": { "type": ["boolean", "null"] },
+    "updatedAt": { "type": "string", "format": "date-time" },
+    "website": { "type": ["string", "null"] },
+    "description": { "type": ["string", "null"] },
+    "productType": { "type": ["string", "null"] }
+  }
+}

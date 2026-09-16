@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-09-16T09:24:16.849Z",
+  "source": "Harpd Rank",
+  "methodology": "https://harpd.com/rank/methodology/",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "count": 5,
+  "scope": "published-research",
+  "note": "One record per published monthly research report. Reports exist only for closed months with enough ranked products in the family scope.",
+  "lastUpdated": "2026-08",
+  "research": [
+    {
+      "family": "ai-agent-index",
+      "familyTitle": "AI agent index",
+      "monthKey": "2026-08",
+      "url": "https://harpd.com/research/ai-agent-index/2026/08/",
+      "listingCount": 13
+    },
+    {
+      "family": "ai-market-index",
+      "familyTitle": "AI market index",
+      "monthKey": "2026-08",
+      "url": "https://harpd.com/research/ai-market-index/2026/08/",
+      "listingCount": 89
+    },
+    {
+      "family": "ai-tools-index",
+      "familyTitle": "AI tools index",
+      "monthKey": "2026-08",
+      "url": "https://harpd.com/research/ai-tools-index/2026/08/",
+      "listingCount": 54
+    },
+    {
+      "family": "ai-tools-trends",
+      "familyTitle": "AI tools trends",
+      "monthKey": "2026-08",
+      "url": "https://harpd.com/research/ai-tools-trends/2026/08/",
+      "listingCount": 54
+    },
+    {
+      "family": "developer-tools-index",
+      "familyTitle": "Developer tools index",
+      "monthKey": "2026-08",
+      "url": "https://harpd.com/research/developer-tools-index/2026/08/",
+      "listingCount": 24
+    }
+  ]
+}

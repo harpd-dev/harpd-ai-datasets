@@ -1,0 +1,27 @@
+name: Dataset request
+description: Propose a new dataset or data dimension for Harpd AI Datasets.
+title: "[dataset-request] "
+labels: [dataset-request]
+body:
+  - type: input
+    id: dataset
+    attributes:
+      label: Proposed dataset
+      description: Short name (e.g. "AI Image Generator Index").
+    valid: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it useful?
+      description: What could developers build with it?
+    valid: true
+  - type: input
+    id: source
+    attributes:
+      label: Source (if known)
+      description: Public harpd.com page or endpoint this could mirror.
+  - type: dropdown
+    id: format
+    attributes:
+      label: Preferred format
+      options: [JSON, CSV, Both]

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/schema/evidence.schema.json",
+  "title": "Harpd Evidence Package",
+  "description": "Envelope for the Harpd evidence dataset: an evidence-linked set of claims, source datasets, audit chain and rules. Published under CC BY 4.0, attribution Harpd (https://harpd.com).",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["name", "license", "claims", "datasets"],
+  "properties": {
+    "name": { "type": "string" },
+    "description": { "type": "string" },
+    "canonical": { "type": "string", "format": "uri" },
+    "license": { "type": "string" },
+    "licenseUrl": { "type": "string", "format": "uri" },
+    "schemaVersion": { "type": "string" },
+    "lastUpdated": { "type": "string", "format": "date-time" },
+    "counts": { "type": "object" },
+    "datasets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name"],
+        "additionalProperties": true
+      }
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "claim", "claimType", "datasetId"],
+        "additionalProperties": true
+      }
+    },
+    "chain": { "type": "array" },
+    "rules": { "type": "array" },
+    "notClaimed": { "type": "array" }
+  }
+}

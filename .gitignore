@@ -1,0 +1,13 @@
+# Editor / OS
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Node (scripts are zero-dep, but keep it clean)
+node_modules/
+npm-debug.log*
+
+# Local scratch
+*.tmp
+tmp/

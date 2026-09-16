@@ -1,0 +1,28 @@
+name: Data correction
+description: Report outdated or wrong data in a dataset (pricing, link, category, etc.).
+title: "[data-correction] "
+labels: [data-correction]
+body:
+  - type: input
+    id: dataset
+    attributes:
+      label: Dataset / file
+      description: Which file? e.g. data/products/products.json
+    valid: true
+  - type: input
+    id: record
+    attributes:
+      label: Record id / name
+      description: The product or row id (or name) that is wrong.
+    valid: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong?
+      description: Current value vs. what it should be.
+    valid: true
+  - type: input
+    id: source
+    attributes:
+      label: Correct source
+      description: Link proving the correction (official site, etc.).

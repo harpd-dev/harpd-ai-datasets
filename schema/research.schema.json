@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/schema/research.schema.json",
+  "title": "Harpd Research Dataset Record",
+  "description": "Record shape shared across Harpd research datasets. Three real shapes exist: (1) category-level market rows, (2) discovery-derived product index rows, (3) published research-family rows. All are plain objects; this schema enforces that and types the common fields. additionalProperties is true because the three shapes carry different optional fields.",
+  "type": "object",
+  "additionalProperties": true,
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "domain": { "type": "string" },
+    "url": { "type": "string", "format": "uri" },
+    "category": { "type": "string" },
+    "categoryName": { "type": "string" },
+    "productCount": { "type": "integer" },
+    "totalRankPoints": { "type": "number" },
+    "productShare": { "type": "number" },
+    "pointsShare": { "type": "number" },
+    "topProduct": {
+      "type": ["object", "null"],
+      "properties": {
+        "name": { "type": "string" },
+        "slug": { "type": "string" },
+        "url": { "type": "string", "format": "uri" },
+        "rankPoints": { "type": "number" }
+      }
+    },
+    "boardUrl": { "type": ["string", "null"] },
+    "family": { "type": "string" },
+    "familyTitle": { "type": "string" },
+    "monthKey": { "type": "string" },
+    "listingCount": { "type": "integer" },
+    "title": { "type": ["string", "null"] },
+    "description": { "type": ["string", "null"] },
+    "observed_at": { "type": ["string", "null"] },
+    "on_rank_board": { "type": ["boolean", "null"] }
+  }
+}

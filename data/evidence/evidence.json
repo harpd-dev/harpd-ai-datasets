@@ -1,0 +1,628 @@
+{
+  "name": "Harpd Evidence Graph",
+  "description": "Every published Harpd claim resolved to its evidence, dataset, methodology, source and data timestamp. Claims that fail the chain are listed with the reason instead of being removed.",
+  "canonical": "https://harpd.com/evidence/",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "schemaVersion": "1.0",
+  "chain": [
+    "CLAIM",
+    "EVIDENCE",
+    "DATASET",
+    "METHODOLOGY",
+    "SOURCE",
+    "TIMESTAMP"
+  ],
+  "claimTypes": {
+    "MEASURED": {
+      "label": "Measured",
+      "badge": "measured",
+      "factSurface": true,
+      "note": "Produced by a recorded Harpd run against a published task and success definition."
+    },
+    "OBSERVED": {
+      "label": "Observed",
+      "badge": "observed",
+      "factSurface": true,
+      "note": "Read directly out of a first-party Harpd record at a recorded time."
+    },
+    "CALCULATED": {
+      "label": "Calculated",
+      "badge": "calculated",
+      "factSurface": true,
+      "note": "Derived arithmetically from a published dataset; the calculation is stated in the methodology."
+    },
+    "MODELED": {
+      "label": "Modeled estimate",
+      "badge": "modeled",
+      "factSurface": true,
+      "note": "An estimate, not a measurement. Must be labelled \"estimated\" wherever it appears."
+    },
+    "EDITORIAL": {
+      "label": "Editorial",
+      "badge": "editorial",
+      "factSurface": false,
+      "note": "Harpd framing or opinion. Never presented as an independent measurement."
+    },
+    "USER_SUBMITTED": {
+      "label": "User submitted",
+      "badge": "user",
+      "factSurface": false,
+      "note": "Supplied by the product owner or a visitor. Must be attributed to its submitter."
+    }
+  },
+  "lastUpdated": "2026-09-16",
+  "counts": {
+    "claims": 5,
+    "publishable": 5,
+    "blocked": 0,
+    "datasets": 4
+  },
+  "datasets": [
+    {
+      "id": "rank",
+      "name": "Harpd Product Ranking Dataset",
+      "description": "One record per approved product on Harpd Rank: rank position, Rank Points (promotional placement), category, verification state and per-record updatedAt.",
+      "jsonUrl": "https://harpd.com/data/rank.json",
+      "csvUrl": "https://harpd.com/data/rank.csv",
+      "pageUrl": "https://harpd.com/data/",
+      "methodologyUrl": "https://harpd.com/rank/methodology/",
+      "schemaUrl": "https://harpd.com/data/schema.json",
+      "sourceType": "FIRST_PARTY_DATABASE",
+      "updateFrequency": "Continuous — regenerated from live Rank data on request.",
+      "coverage": "All approved Harpd Rank listings across all categories.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "rank-history",
+      "name": "Harpd Historical Ranking Dataset",
+      "description": "Immutable closed-period snapshots of Harpd Rank, used to derive movement, new entrants and category shifts in research reports.",
+      "jsonUrl": "https://harpd.com/data/rank-history.json",
+      "pageUrl": "https://harpd.com/data/",
+      "methodologyUrl": "https://harpd.com/rank/methodology/",
+      "sourceType": "HARPD_DATASET",
+      "updateFrequency": "Monthly — a period is written once, after it closes, and never edited.",
+      "coverage": "Closed monthly snapshots of the ranking board.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "products",
+      "name": "Harpd Product Directory Dataset",
+      "description": "Product entities in the Harpd dataset: name, slug, category, capabilities, verification state, profile URL.",
+      "jsonUrl": "https://harpd.com/data/products.json",
+      "pageUrl": "https://harpd.com/data/",
+      "methodologyUrl": "https://harpd.com/rank/methodology/",
+      "schemaUrl": "https://harpd.com/data/schema.json",
+      "sourceType": "FIRST_PARTY_DATABASE",
+      "updateFrequency": "Continuous — mirrors approved listings.",
+      "coverage": "Every approved product entity.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "categories",
+      "name": "Harpd Category Dataset",
+      "description": "Harpd categories with product counts and board URLs.",
+      "jsonUrl": "https://harpd.com/data/categories.json",
+      "pageUrl": "https://harpd.com/data/",
+      "methodologyUrl": "https://harpd.com/rank/methodology/",
+      "sourceType": "FIRST_PARTY_DATABASE",
+      "updateFrequency": "Continuous — mirrors approved listings.",
+      "coverage": "All Harpd Rank categories.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "rank-open-data",
+      "name": "Harpd Rank Open Data (non-sponsored signals)",
+      "description": "Deliberately excludes Rank Points and ranking position. Publishes only signals that cannot be bought: verification state, listing age, first-party referred visits, declared repository stars.",
+      "jsonUrl": "https://harpd.com/data/rank-open-data.json",
+      "pageUrl": "https://harpd.com/data/",
+      "methodologyUrl": "https://harpd.com/rank/methodology/",
+      "sourceType": "HARPD_DATASET",
+      "updateFrequency": "Daily refresh of declared repository stars; other fields continuous.",
+      "coverage": "Approved listings, non-sponsored fields only.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "llm-pricing",
+      "name": "Harpd Model Pricing Dataset",
+      "description": "One record per model with input/output token price, the official provider pricing page it was read from, and the date it was verified.",
+      "jsonUrl": "https://harpd.com/data/llm-pricing.json",
+      "csvUrl": "https://harpd.com/data/llm-pricing.csv",
+      "pageUrl": "https://harpd.com/llm-pricing/",
+      "methodologyUrl": "https://harpd.com/methodology/model-pricing/",
+      "sourceType": "OFFICIAL_PRICING",
+      "updateFrequency": "Re-verified against official provider pages; each record carries its own verification date.",
+      "coverage": "Public list prices for the models Harpd tools cost out.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "benchmarks",
+      "name": "Harpd Benchmark Dataset",
+      "description": "Long-format benchmark records (model, task, metric, score, cost, timestamp) with an explicit isModeled flag separating measured runs from modeled estimates.",
+      "jsonUrl": "https://harpd.com/data/benchmarks.json",
+      "csvUrl": "https://harpd.com/data/benchmarks.csv",
+      "pageUrl": "https://harpd.com/benchmarks/",
+      "methodologyUrl": "https://harpd.com/methodology/benchmarks/",
+      "sourceType": "HARPD_BENCHMARK",
+      "updateFrequency": "Per benchmark run. Historical runs are never overwritten.",
+      "coverage": "Published benchmark tasks; measured and modeled records are flagged separately.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "research",
+      "name": "Harpd Research Dataset",
+      "description": "One record per published monthly research report: research family, the closed UTC month it covers, the report URL and the number of ranked products in scope. Every figure inside a report is derived from that month's closed rank snapshot; nothing is authored by hand.",
+      "jsonUrl": "https://harpd.com/data/research.json",
+      "pageUrl": "https://harpd.com/data/",
+      "methodologyUrl": "https://harpd.com/rank/methodology/",
+      "sourceType": "HARPD_DATASET",
+      "updateFrequency": "Monthly: a report is generated once its UTC month has closed and is never rewritten.",
+      "coverage": "Published Harpd Research reports across all research families.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "methodology",
+      "name": "Harpd Methodology Dataset",
+      "description": "Machine-readable export of the Harpd Rank rules, boards, entry conditions and disclosure.",
+      "jsonUrl": "https://harpd.com/data/methodology.json",
+      "pageUrl": "https://harpd.com/methodology/",
+      "methodologyUrl": "https://harpd.com/rank/methodology/",
+      "sourceType": "HARPD_METHODOLOGY",
+      "updateFrequency": "On rule change, with the change recorded on /changelog/.",
+      "coverage": "The documented Harpd methodologies.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "claims": [
+    {
+      "id": "pricing:list-prices-verified",
+      "claim": "Every model price published on harpd.com is a public list price read from the provider's official pricing page, and each of the 16 records carries its own source URL and verification date (most recent verification 2026-08-18).",
+      "claimType": "OBSERVED",
+      "supported": true,
+      "violations": [],
+      "confidence": 1,
+      "observedAt": "2026-08-18",
+      "datasetId": "llm-pricing",
+      "datasetUrl": "https://harpd.com/data/llm-pricing.json",
+      "methodologyUrl": "https://harpd.com/methodology/model-pricing/",
+      "source": {
+        "name": "Harpd Model Pricing Dataset",
+        "url": "https://harpd.com/data/llm-pricing.json",
+        "type": "OFFICIAL_PRICING"
+      },
+      "citation": "Harpd. \"Harpd Model Pricing Dataset.\" harpd.com/llm-pricing/ Accessed: 2026-08-18. License: CC BY 4.0."
+    },
+    {
+      "id": "benchmark:json-extraction-v1",
+      "claim": "The Structured JSON extraction from messy natural-language input (en + ja + zh) benchmark dataset covering 8 models is a modeled estimate, not a measured result: it shows how the live benchmark will be scored and must not be cited as measured output (dataset generated 2026-08-18).",
+      "claimType": "MODELED",
+      "supported": true,
+      "violations": [],
+      "confidence": 0.5,
+      "observedAt": "2026-08-18",
+      "datasetId": "benchmarks",
+      "datasetUrl": "https://harpd.com/data/benchmarks.json",
+      "methodologyUrl": "https://harpd.com/methodology/benchmarks/",
+      "source": {
+        "name": "Harpd benchmark json-extraction-v1",
+        "url": "https://harpd.com/data/benchmarks.json",
+        "type": "HARPD_BENCHMARK"
+      },
+      "citation": "Harpd. \"Harpd Benchmark Dataset.\" harpd.com/benchmarks/ Accessed: 2026-08-18. License: CC BY 4.0."
+    },
+    {
+      "id": "rank:points-rule",
+      "claim": "Rank Points published for a product equal the Rank Credit spend that product completed (one completed Credit creates one permanent Rank Point). Rank Points are promotional placement, not an editorial quality score.",
+      "claimType": "OBSERVED",
+      "supported": true,
+      "violations": [],
+      "confidence": 1,
+      "observedAt": "2026-09-15",
+      "datasetId": "rank",
+      "datasetUrl": "https://harpd.com/data/rank.json",
+      "methodologyUrl": "https://harpd.com/rank/methodology/",
+      "source": {
+        "name": "Harpd Product Ranking Dataset",
+        "url": "https://harpd.com/data/rank.json",
+        "type": "FIRST_PARTY_DATABASE"
+      },
+      "citation": "Harpd. \"Harpd Product Ranking Dataset.\" harpd.com/data/ Accessed: 2026-09-15. License: CC BY 4.0."
+    },
+    {
+      "id": "rank:dataset-coverage",
+      "claim": "The Harpd ranking dataset contained 1122 approved products across 27 categories when it was last regenerated (2026-09-15); every record carries its own updatedAt timestamp.",
+      "claimType": "OBSERVED",
+      "supported": true,
+      "violations": [],
+      "confidence": 1,
+      "observedAt": "2026-09-15",
+      "datasetId": "rank",
+      "datasetUrl": "https://harpd.com/data/rank.json",
+      "methodologyUrl": "https://harpd.com/rank/methodology/",
+      "source": {
+        "name": "Harpd Product Ranking Dataset",
+        "url": "https://harpd.com/data/rank.json",
+        "type": "FIRST_PARTY_DATABASE"
+      },
+      "citation": "Harpd. \"Harpd Product Ranking Dataset.\" harpd.com/data/ Accessed: 2026-09-15. License: CC BY 4.0."
+    },
+    {
+      "id": "methodology:rules-published",
+      "claim": "Harpd publishes its complete ranking rules, board definitions, entry conditions and disclosure statement as a machine-readable methodology dataset. The rules are versioned: every change is recorded with a date so a citation can reference the exact rule set in effect at citation time.",
+      "claimType": "OBSERVED",
+      "supported": true,
+      "violations": [],
+      "confidence": 1,
+      "observedAt": "2026-09-16",
+      "datasetId": "methodology",
+      "datasetUrl": "https://harpd.com/data/methodology.json",
+      "methodologyUrl": "https://harpd.com/rank/methodology/",
+      "source": {
+        "name": "Harpd Methodology Dataset",
+        "url": "https://harpd.com/data/methodology.json",
+        "type": "HARPD_METHODOLOGY"
+      },
+      "citation": "Harpd. \"Harpd Methodology Dataset.\" harpd.com/methodology/ Accessed: 2026-09-16. License: CC BY 4.0."
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "claim:pricing:list-prices-verified",
+        "type": "CLAIM",
+        "label": "Every model price published on harpd.com is a public list price read from the provider's official pricing page, and each of the 16 records carries its own source URL and verification date (most recent verification 2026-08-18).",
+        "meta": {
+          "claimType": "OBSERVED",
+          "supported": true,
+          "violations": [],
+          "confidence": 1,
+          "timestamp": "2026-08-18"
+        }
+      },
+      {
+        "id": "evidence:pricing:list-prices-verified",
+        "type": "EVIDENCE",
+        "label": "Observed evidence for pricing:list-prices-verified",
+        "url": "https://harpd.com/data/llm-pricing.json",
+        "meta": {
+          "claimType": "OBSERVED",
+          "observedAt": "2026-08-18",
+          "status": "verified"
+        }
+      },
+      {
+        "id": "dataset:llm-pricing",
+        "type": "DATASET",
+        "label": "Harpd Model Pricing Dataset",
+        "url": "https://harpd.com/data/llm-pricing.json",
+        "meta": {
+          "csvUrl": "https://harpd.com/data/llm-pricing.csv",
+          "pageUrl": "https://harpd.com/llm-pricing/",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "updateFrequency": "Re-verified against official provider pages; each record carries its own verification date.",
+          "coverage": "Public list prices for the models Harpd tools cost out."
+        }
+      },
+      {
+        "id": "methodology:https://harpd.com/methodology/model-pricing/",
+        "type": "METHODOLOGY",
+        "label": "Methodology for Harpd Model Pricing Dataset",
+        "url": "https://harpd.com/methodology/model-pricing/"
+      },
+      {
+        "id": "source:OFFICIAL_PRICING",
+        "type": "SOURCE",
+        "label": "Harpd Model Pricing Dataset",
+        "url": "https://harpd.com/data/llm-pricing.json",
+        "meta": {
+          "sourceType": "OFFICIAL_PRICING"
+        }
+      },
+      {
+        "id": "claim:benchmark:json-extraction-v1",
+        "type": "CLAIM",
+        "label": "The Structured JSON extraction from messy natural-language input (en + ja + zh) benchmark dataset covering 8 models is a modeled estimate, not a measured result: it shows how the live benchmark will be scored and must not be cited as measured output (dataset generated 2026-08-18).",
+        "meta": {
+          "claimType": "MODELED",
+          "supported": true,
+          "violations": [],
+          "confidence": 0.5,
+          "timestamp": "2026-08-18"
+        }
+      },
+      {
+        "id": "evidence:benchmark:json-extraction-v1",
+        "type": "EVIDENCE",
+        "label": "Modeled estimate evidence for benchmark:json-extraction-v1",
+        "url": "https://harpd.com/data/benchmarks.json",
+        "meta": {
+          "claimType": "MODELED",
+          "observedAt": "2026-08-18",
+          "status": "verified"
+        }
+      },
+      {
+        "id": "dataset:benchmarks",
+        "type": "DATASET",
+        "label": "Harpd Benchmark Dataset",
+        "url": "https://harpd.com/data/benchmarks.json",
+        "meta": {
+          "csvUrl": "https://harpd.com/data/benchmarks.csv",
+          "pageUrl": "https://harpd.com/benchmarks/",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "updateFrequency": "Per benchmark run. Historical runs are never overwritten.",
+          "coverage": "Published benchmark tasks; measured and modeled records are flagged separately."
+        }
+      },
+      {
+        "id": "methodology:https://harpd.com/methodology/benchmarks/",
+        "type": "METHODOLOGY",
+        "label": "Methodology for Harpd Benchmark Dataset",
+        "url": "https://harpd.com/methodology/benchmarks/"
+      },
+      {
+        "id": "source:HARPD_BENCHMARK",
+        "type": "SOURCE",
+        "label": "Harpd benchmark json-extraction-v1",
+        "url": "https://harpd.com/data/benchmarks.json",
+        "meta": {
+          "sourceType": "HARPD_BENCHMARK"
+        }
+      },
+      {
+        "id": "claim:rank:points-rule",
+        "type": "CLAIM",
+        "label": "Rank Points published for a product equal the Rank Credit spend that product completed (one completed Credit creates one permanent Rank Point). Rank Points are promotional placement, not an editorial quality score.",
+        "meta": {
+          "claimType": "OBSERVED",
+          "supported": true,
+          "violations": [],
+          "confidence": 1,
+          "timestamp": "2026-09-15"
+        }
+      },
+      {
+        "id": "evidence:rank:points-rule",
+        "type": "EVIDENCE",
+        "label": "Observed evidence for rank:points-rule",
+        "url": "https://harpd.com/data/rank.json",
+        "meta": {
+          "claimType": "OBSERVED",
+          "observedAt": "2026-09-15",
+          "status": "verified"
+        }
+      },
+      {
+        "id": "dataset:rank",
+        "type": "DATASET",
+        "label": "Harpd Product Ranking Dataset",
+        "url": "https://harpd.com/data/rank.json",
+        "meta": {
+          "csvUrl": "https://harpd.com/data/rank.csv",
+          "pageUrl": "https://harpd.com/data/",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "updateFrequency": "Continuous — regenerated from live Rank data on request.",
+          "coverage": "All approved Harpd Rank listings across all categories.",
+          "schemaUrl": "https://harpd.com/data/schema.json"
+        }
+      },
+      {
+        "id": "methodology:https://harpd.com/rank/methodology/",
+        "type": "METHODOLOGY",
+        "label": "Methodology for Harpd Product Ranking Dataset",
+        "url": "https://harpd.com/rank/methodology/"
+      },
+      {
+        "id": "source:FIRST_PARTY_DATABASE",
+        "type": "SOURCE",
+        "label": "Harpd Product Ranking Dataset",
+        "url": "https://harpd.com/data/rank.json",
+        "meta": {
+          "sourceType": "FIRST_PARTY_DATABASE"
+        }
+      },
+      {
+        "id": "claim:rank:dataset-coverage",
+        "type": "CLAIM",
+        "label": "The Harpd ranking dataset contained 1122 approved products across 27 categories when it was last regenerated (2026-09-15); every record carries its own updatedAt timestamp.",
+        "meta": {
+          "claimType": "OBSERVED",
+          "supported": true,
+          "violations": [],
+          "confidence": 1,
+          "timestamp": "2026-09-15"
+        }
+      },
+      {
+        "id": "evidence:rank:dataset-coverage",
+        "type": "EVIDENCE",
+        "label": "Observed evidence for rank:dataset-coverage",
+        "url": "https://harpd.com/data/rank.json",
+        "meta": {
+          "claimType": "OBSERVED",
+          "observedAt": "2026-09-15",
+          "status": "verified"
+        }
+      },
+      {
+        "id": "claim:methodology:rules-published",
+        "type": "CLAIM",
+        "label": "Harpd publishes its complete ranking rules, board definitions, entry conditions and disclosure statement as a machine-readable methodology dataset. The rules are versioned: every change is recorded with a date so a citation can reference the exact rule set in effect at citation time.",
+        "meta": {
+          "claimType": "OBSERVED",
+          "supported": true,
+          "violations": [],
+          "confidence": 1,
+          "timestamp": "2026-09-16"
+        }
+      },
+      {
+        "id": "evidence:methodology:rules-published",
+        "type": "EVIDENCE",
+        "label": "Observed evidence for methodology:rules-published",
+        "url": "https://harpd.com/data/methodology.json",
+        "meta": {
+          "claimType": "OBSERVED",
+          "observedAt": "2026-09-16",
+          "status": "verified"
+        }
+      },
+      {
+        "id": "dataset:methodology",
+        "type": "DATASET",
+        "label": "Harpd Methodology Dataset",
+        "url": "https://harpd.com/data/methodology.json",
+        "meta": {
+          "pageUrl": "https://harpd.com/methodology/",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "updateFrequency": "On rule change, with the change recorded on /changelog/.",
+          "coverage": "The documented Harpd methodologies."
+        }
+      },
+      {
+        "id": "source:HARPD_METHODOLOGY",
+        "type": "SOURCE",
+        "label": "Harpd Methodology Dataset",
+        "url": "https://harpd.com/data/methodology.json",
+        "meta": {
+          "sourceType": "HARPD_METHODOLOGY"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "from": "claim:pricing:list-prices-verified",
+        "to": "evidence:pricing:list-prices-verified",
+        "relation": "SUPPORTED_BY"
+      },
+      {
+        "from": "evidence:pricing:list-prices-verified",
+        "to": "dataset:llm-pricing",
+        "relation": "STORED_IN"
+      },
+      {
+        "from": "dataset:llm-pricing",
+        "to": "methodology:https://harpd.com/methodology/model-pricing/",
+        "relation": "PRODUCED_BY"
+      },
+      {
+        "from": "evidence:pricing:list-prices-verified",
+        "to": "source:OFFICIAL_PRICING",
+        "relation": "PUBLISHED_BY"
+      },
+      {
+        "from": "claim:benchmark:json-extraction-v1",
+        "to": "evidence:benchmark:json-extraction-v1",
+        "relation": "SUPPORTED_BY"
+      },
+      {
+        "from": "evidence:benchmark:json-extraction-v1",
+        "to": "dataset:benchmarks",
+        "relation": "STORED_IN"
+      },
+      {
+        "from": "dataset:benchmarks",
+        "to": "methodology:https://harpd.com/methodology/benchmarks/",
+        "relation": "PRODUCED_BY"
+      },
+      {
+        "from": "evidence:benchmark:json-extraction-v1",
+        "to": "source:HARPD_BENCHMARK",
+        "relation": "PUBLISHED_BY"
+      },
+      {
+        "from": "claim:rank:points-rule",
+        "to": "evidence:rank:points-rule",
+        "relation": "SUPPORTED_BY"
+      },
+      {
+        "from": "evidence:rank:points-rule",
+        "to": "dataset:rank",
+        "relation": "STORED_IN"
+      },
+      {
+        "from": "dataset:rank",
+        "to": "methodology:https://harpd.com/rank/methodology/",
+        "relation": "PRODUCED_BY"
+      },
+      {
+        "from": "evidence:rank:points-rule",
+        "to": "source:FIRST_PARTY_DATABASE",
+        "relation": "PUBLISHED_BY"
+      },
+      {
+        "from": "claim:rank:dataset-coverage",
+        "to": "evidence:rank:dataset-coverage",
+        "relation": "SUPPORTED_BY"
+      },
+      {
+        "from": "evidence:rank:dataset-coverage",
+        "to": "dataset:rank",
+        "relation": "STORED_IN"
+      },
+      {
+        "from": "evidence:rank:dataset-coverage",
+        "to": "source:FIRST_PARTY_DATABASE",
+        "relation": "PUBLISHED_BY"
+      },
+      {
+        "from": "claim:methodology:rules-published",
+        "to": "evidence:methodology:rules-published",
+        "relation": "SUPPORTED_BY"
+      },
+      {
+        "from": "evidence:methodology:rules-published",
+        "to": "dataset:methodology",
+        "relation": "STORED_IN"
+      },
+      {
+        "from": "dataset:methodology",
+        "to": "methodology:https://harpd.com/rank/methodology/",
+        "relation": "PRODUCED_BY"
+      },
+      {
+        "from": "evidence:methodology:rules-published",
+        "to": "source:HARPD_METHODOLOGY",
+        "relation": "PUBLISHED_BY"
+      }
+    ]
+  },
+  "rules": [
+    "A claim is publishable only when it resolves to a registered dataset, a methodology URL and a real data timestamp.",
+    "MODELED claims must be labelled as estimates wherever they appear and are never presented as measured results.",
+    "EDITORIAL and USER_SUBMITTED claims never appear on a fact surface; user-submitted content must be attributed.",
+    "Harpd Rank Points are promotional placement, not an editorial quality score, and may not be described with editorial-quality wording.",
+    "Nothing here is back-filled: a missing dataset or timestamp produces a violation, not a default value."
+  ],
+  "notClaimed": [
+    {
+      "statement": "That any model is \"safe to switch to\" for a production workload.",
+      "why": "A switch decision requires a real-task quality gate on the specific workload. No dataset covers that yet.",
+      "methodologyUrl": "https://harpd.com/methodology/model-replacement/",
+      "note": "We publish the method, not a result."
+    },
+    {
+      "statement": "That a higher-ranked product on Harpd Rank is a better product.",
+      "why": "Rank Points are promotional placement bought with Credits. Harpd holds no quality measurement that would support an ordering by merit.",
+      "methodologyUrl": "https://harpd.com/rank/methodology/"
+    },
+    {
+      "statement": "Monthly visit counts or user review scores for listed products.",
+      "why": "Harpd has no first-party measurement of third-party traffic or reviews, and does not republish vendor-supplied figures as facts.",
+      "note": "The non-sponsored signals Harpd can verify are published in /data/rank-open-data.json instead."
+    }
+  ]
+}

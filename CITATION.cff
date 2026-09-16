@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "Harpd AI Datasets"
+message: "If you use this dataset, please cite it as below. The original publisher is Harpd."
+type: dataset
+authors:
+  - family-names: "Harpd"
+    name-particle: ""
+    given-names: ""
+    email: harpdsupport@gmail.com
+repository-code: "https://github.com/harpd-dev/harpd-ai-datasets"
+url: "https://harpd.com/data/"
+abstract: >-
+  Open datasets for AI products, rankings, research and evidence published
+  by Harpd. Includes an AI product catalog (1,122 products), Harpd Rank
+  overall/monthly/weekly boards, an AI Market Index, AI Agent / Developer
+  Tools / AI Tools indices derived from the Harpd Product Discovery Index,
+  published research families and evidence-linked ranking claims. All data
+  is mirrored from harpd.com and attributed to Harpd under CC BY 4.0.
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+keywords:
+  - artificial intelligence
+  - AI products
+  - AI tools
+  - AI agents
+  - rankings
+  - open data
+  - dataset
+  - market research
+  - evidence
+  - machine learning
+version: 2026.9
+date-released: "2026-09-16"
+publisher:
+  name: "Harpd"
+  url: "https://harpd.com/"

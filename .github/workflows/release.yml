@@ -1,0 +1,56 @@
+name: Monthly snapshot release
+# Creates a tagged DATA SNAPSHOT release on the 1st of each month (and manually).
+# Never a software version — it freezes the current data state with counts + methodology.
+on:
+  schedule:
+    - cron: "0 10 1 * *" # 10:00 UTC on the 1st
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Sync + validate
+        run: |
+          node scripts/sync.mjs
+          node scripts/validate.mjs
+      - name: Compute tag
+        id: tag
+        run: echo "tag=v$(date -u +%Y.%-m)" >> "$GITHUB_OUTPUT"
+      - name: Skip if tag exists
+        id: exists
+        run: |
+          if git rev-parse "${{ steps.tag.outputs.tag }}" >/dev/null 2>&1; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Commit any data changes
+        if: steps.exists.outputs.exists == 'false'
+        run: |
+          git config user.name "harpd-bot"
+          git config user.email "harpdsupport@gmail.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "data: pre-release sync $(date -u +%F)"
+          git push || true
+      - name: Generate release notes
+        if: steps.exists.outputs.exists == 'false'
+        id: notes
+        run: node scripts/release-notes.mjs > release-body.md
+      - name: Create release
+        if: steps.exists.outputs.exists == 'false'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${{ steps.tag.outputs.tag }}" \
+            --title "Data Snapshot ${{ steps.tag.outputs.tag }}" \
+            --notes-file release-body.md

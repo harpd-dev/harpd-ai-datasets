@@ -1,0 +1,38 @@
+name: Integration / adoption
+description: Share a project, dashboard, paper or app that uses Harpd AI Datasets.
+title: "[integration] "
+labels: [integration]
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project name
+    valid: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options: [Dashboard, Directory, Research, Blog post, App, MCP server, Other]
+  - type: input
+    id: url
+    attributes:
+      label: Public URL
+    valid: true
+  - type: checkboxes
+    id: datasets
+    attributes:
+      label: Datasets used
+      options:
+        - label: Products
+        - label: Rankings
+        - label: AI Market Index
+        - label: AI Agent Index
+        - label: Developer Tools Index
+        - label: AI Tools Index
+        - label: Research Index
+        - label: Evidence
+  - type: textarea
+    id: desc
+    attributes:
+      label: Description
+      description: What does it do, and how does it use Harpd data?

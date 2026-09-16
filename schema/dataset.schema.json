@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/harpd-dev/harpd-ai-datasets/main/schema/dataset.schema.json",
+  "title": "Harpd Dataset Manifest Entry",
+  "description": "A single entry in manifest.json. The manifest is the machine-readable entry point for the whole dataset collection. Every entry must carry stable ids, file paths, source attribution and a record count.",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["id", "name", "description", "json", "sourceUrl", "recordCount", "license", "attribution", "canonicalUrl"],
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "description": { "type": "string" },
+    "json": { "type": "string" },
+    "csv": { "type": "string" },
+    "schema": { "type": "string" },
+    "sourceUrl": { "type": "string", "format": "uri" },
+    "recordCount": { "type": "integer", "minimum": 0 },
+    "license": { "type": "string" },
+    "attribution": { "type": "string" },
+    "canonicalUrl": { "type": "string", "format": "uri" },
+    "citationUrl": { "type": "string", "format": "uri" },
+    "updatedAt": { "type": "string", "format": "date-time" }
+  }
+}

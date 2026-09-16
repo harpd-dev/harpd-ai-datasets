@@ -1,0 +1,23 @@
+name: Bug report
+description: Report a problem with the repo, scripts, CI, or a broken file.
+title: "[bug] "
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+    valid: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    valid: true
+  - type: input
+    id: file
+    attributes:
+      label: Affected file / workflow (if known)
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
