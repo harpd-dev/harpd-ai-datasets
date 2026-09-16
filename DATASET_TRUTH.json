@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-09-16T15:52:54.930Z",
+  "source": "https://harpd.com/",
+  "canonical": "https://harpd.com/data/",
+  "license": "CC BY 4.0",
+  "attribution": "Harpd (https://harpd.com)",
+  "groundTruth": {
+    "products": 1122,
+    "categories": 28,
+    "rankBoards": 3,
+    "discoveryTotal": 8637,
+    "discoveryOnRankBoard": 0
+  },
+  "derivedArtifacts": [
+    {
+      "file": "data/manifest.json",
+      "field": "datasets[].recordCount (products & rankings-*)",
+      "mustEqual": "groundTruth.products"
+    },
+    {
+      "file": "data/rankings/categories.json",
+      "field": "totalProducts",
+      "mustEqual": "groundTruth.products"
+    },
+    {
+      "file": "../harpd-rank-dataset/manifest.json",
+      "field": "products",
+      "mustEqual": "groundTruth.products"
+    },
+    {
+      "file": "data/rankings/overall.json",
+      "field": "products.length",
+      "mustEqual": "groundTruth.products"
+    },
+    {
+      "file": "data/rankings/monthly.json",
+      "field": "products.length",
+      "mustEqual": "groundTruth.products"
+    },
+    {
+      "file": "data/rankings/weekly.json",
+      "field": "products.length",
+      "mustEqual": "groundTruth.products"
+    }
+  ],
+  "documentedCounts": {
+    "harpd-ai-ranking-dashboard/README.md": 1122,
+    "harpd-mcp/README.md": 1122,
+    "output/readmes/harpd-ai-research-notebooks.md": 1122,
+    "output/readmes/harpd-mcp.md": 1122
+  },
+  "artifacts": [
+    {
+      "file": "data/products/products.json",
+      "count": 1122,
+      "sha256": "a181d8f68cd5c08e3d2b046601f0bc2c1179a84ad03429f36e2683adfdc23ad5",
+      "derivedFrom": "groundTruth.products"
+    },
+    {
+      "file": "data/products/products.csv",
+      "count": null,
+      "sha256": "83c3c206d310e75dde77f7a914b59b4b5d9e0d1a252f2f219f6060d50f060a7e",
+      "derivedFrom": "groundTruth.products"
+    },
+    {
+      "file": "data/rankings/overall.json",
+      "count": 1122,
+      "sha256": "ad885438a73c33620069d277fe1ad298b2aaac2f12a78d471be08118cc8d0da1",
+      "derivedFrom": "groundTruth.products"
+    },
+    {
+      "file": "data/rankings/overall.csv",
+      "count": null,
+      "sha256": "ed7b7a27e7bccefb06b05ac78b33982d6d061fbecc2c80e4d32bbf6933e1360a",
+      "derivedFrom": "groundTruth.products"
+    },
+    {
+      "file": "data/rankings/monthly.json",
+      "count": 1122,
+      "sha256": "c2e61cfb51096862786d10f5df992ff997534ebe12f17f28be2025d4e65fce8c",
+      "derivedFrom": "canonical input"
+    },
+    {
+      "file": "data/rankings/monthly.csv",
+      "count": null,
+      "sha256": "ed7b7a27e7bccefb06b05ac78b33982d6d061fbecc2c80e4d32bbf6933e1360a",
+      "derivedFrom": "canonical input"
+    },
+    {
+      "file": "data/rankings/weekly.json",
+      "count": 1122,
+      "sha256": "ccefab0aac5061ad866b37fd0c53072563a1d30410cbffba9832caaed12fcd90",
+      "derivedFrom": "canonical input"
+    },
+    {
+      "file": "data/rankings/weekly.csv",
+      "count": null,
+      "sha256": "ed7b7a27e7bccefb06b05ac78b33982d6d061fbecc2c80e4d32bbf6933e1360a",
+      "derivedFrom": "canonical input"
+    },
+    {
+      "file": "data/rankings/categories.json",
+      "count": 28,
+      "sha256": "1facb6f5a817229c8afdd93df551ea0fbf193587ba91599e423f563c6e1eb5ce",
+      "derivedFrom": "canonical input"
+    },
+    {
+      "file": "data/research/ai-market-index.json",
+      "count": 27,
+      "sha256": "8be43ecaeb9820453a49764ffc8dd0dc38e144e50628a813e548b042f9e221d3",
+      "derivedFrom": "canonical input"
+    },
+    {
+      "file": "data/research/ai-agent-index.json",
+      "count": 334,
+      "sha256": "d5701916f7ac1744ee0e9800e8a2660557010e53fdd3ab44e352fd30dd906728",
+      "derivedFrom": "canonical input"
+    },
+    {
+      "file": "data/research/developer-tools-index.json",
+      "count": 1918,
+      "sha256": "6a3a9ce04471085e0cc3464d2d95a0e933265b86d982df7c1d6379cda6f78f67",
+      "derivedFrom": "canonical input"
+    },
+    {
+      "file": "data/research/ai-tools-index.json",
+      "count": 693,
+      "sha256": "508128705af4bcd3170359c37ec11993cc5c9ff056c0768a34e0040813895c2f",
+      "derivedFrom": "canonical input"
+    },
+    {
+      "file": "data/research/research.json",
+      "count": 5,
+      "sha256": "503d7ef2c7832f65e1cbd1dd5696a5a8ca90099854a878103968de6f4ba59601",
+      "derivedFrom": "canonical input"
+    },
+    {
+      "file": "data/evidence/evidence.json",
+      "count": 5,
+      "sha256": "2011c076ccf41fcab1b944e570868965edf141da487b591152d28ec95c5a4348",
+      "derivedFrom": "canonical input"
+    }
+  ],
+  "checksums": {
+    "data/products/products.json": "a181d8f68cd5c08e3d2b046601f0bc2c1179a84ad03429f36e2683adfdc23ad5",
+    "data/products/products.csv": "83c3c206d310e75dde77f7a914b59b4b5d9e0d1a252f2f219f6060d50f060a7e",
+    "data/rankings/overall.json": "ad885438a73c33620069d277fe1ad298b2aaac2f12a78d471be08118cc8d0da1",
+    "data/rankings/overall.csv": "ed7b7a27e7bccefb06b05ac78b33982d6d061fbecc2c80e4d32bbf6933e1360a",
+    "data/rankings/monthly.json": "c2e61cfb51096862786d10f5df992ff997534ebe12f17f28be2025d4e65fce8c",
+    "data/rankings/monthly.csv": "ed7b7a27e7bccefb06b05ac78b33982d6d061fbecc2c80e4d32bbf6933e1360a",
+    "data/rankings/weekly.json": "ccefab0aac5061ad866b37fd0c53072563a1d30410cbffba9832caaed12fcd90",
+    "data/rankings/weekly.csv": "ed7b7a27e7bccefb06b05ac78b33982d6d061fbecc2c80e4d32bbf6933e1360a",
+    "data/rankings/categories.json": "1facb6f5a817229c8afdd93df551ea0fbf193587ba91599e423f563c6e1eb5ce",
+    "data/research/ai-market-index.json": "8be43ecaeb9820453a49764ffc8dd0dc38e144e50628a813e548b042f9e221d3",
+    "data/research/ai-agent-index.json": "d5701916f7ac1744ee0e9800e8a2660557010e53fdd3ab44e352fd30dd906728",
+    "data/research/developer-tools-index.json": "6a3a9ce04471085e0cc3464d2d95a0e933265b86d982df7c1d6379cda6f78f67",
+    "data/research/ai-tools-index.json": "508128705af4bcd3170359c37ec11993cc5c9ff056c0768a34e0040813895c2f",
+    "data/research/research.json": "503d7ef2c7832f65e1cbd1dd5696a5a8ca90099854a878103968de6f4ba59601",
+    "data/evidence/evidence.json": "2011c076ccf41fcab1b944e570868965edf141da487b591152d28ec95c5a4348"
+  },
+  "notes": "This file is the ONLY hand-free source of truth. Regenerate with scripts/generate-truth.mjs after any upstream data change. Never edit counts by hand in manifests, READMEs or schemas — derive them from here."
+}
