@@ -1,0 +1,37 @@
+name: Dataset Truth Gate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+concurrency:
+  group: dataset-truth-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  data-truth:
+    name: DATASET_TRUTH consistency
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # P0 DATA TRUTH gate — the parent repo records harpd-ai-datasets as a
+      # gitlink (mode 160000) without a .gitmodules entry, so `actions/checkout`
+      # in the parent workflow leaves this directory empty and the gate fails.
+      # The gate therefore lives HERE, where the checkout IS the dataset. It
+      # kills "143 vs 1,122"-style drift between the published catalog, the
+      # website, the API, GitHub and research — re-derives the single source
+      # of truth from the raw files and fails on ANY artifact that disagrees.
+      # Zero deps; exits non-zero on any inconsistency.
+      - name: Verify dataset truth (drift guard)
+        run: node scripts/verify-truth.mjs
+
+      # Same assertions as a formal test suite, run via node:test.
+      - name: Run consistency tests
+        run: node tests/data-truth.test.mjs
