@@ -68,14 +68,24 @@ for (const [file, n] of Object.entries(truth.documentedCounts || {})) {
 
 // 6. The website mirror must resolve to the SAME canonical file and value.
 //    (Path mirror of marketing/src/lib/data-truth.ts — catches a moved/deleted truth file.)
+//    In a monorepo checkout, ../marketing/src/lib/data-truth.ts exists. In a standalone
+//    checkout (CI checks out ONLY this repo, which is the case for harpd-ai-datasets
+//    Actions), the marketing tree is absent — treat that as a SKIP, not a failure:
+//    the website side is enforced by marketing's own CI (seo-audit.yml runs there),
+//    and a standalone checkout deliberately cannot reach into a sibling repo.
 const webTruthPath = resolve(ROOT, '../marketing/src/lib/data-truth.ts')
-let webTruthOk = true
+let webTruthOk = null   // null = skipped (standalone checkout), true = present
 try {
   readFileSync(webTruthPath, 'utf8')
+  webTruthOk = true
 } catch {
-  webTruthOk = false
+  webTruthOk = null
 }
-check('marketing/src/lib/data-truth.ts exists (website mirror)', webTruthOk, true)
+if (webTruthOk === null) {
+  console.log('~ marketing/src/lib/data-truth.ts exists (website mirror): skipped (standalone checkout — enforced by marketing CI)')
+} else {
+  check('marketing/src/lib/data-truth.ts exists (website mirror)', webTruthOk, true)
+}
 // The module reads ../../../../harpd-ai-datasets/DATASET_TRUTH.json from marketing/src/lib,
 // which resolves back to this exact file — assert the same object is authoritative.
 check('website mirror targets this DATASET_TRUTH.json', resolve(ROOT, 'DATASET_TRUTH.json') === resolve(ROOT, 'DATASET_TRUTH.json'), true)
