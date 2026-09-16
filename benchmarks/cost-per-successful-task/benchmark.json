@@ -1,0 +1,12 @@
+{
+  "name": "Cost Per Successful Task",
+  "version": "0.1.0",
+  "publisher": "Harpd",
+  "metric": "USD cost to reach a successful task completion (outcome-based, not raw token spend) across AI products",
+  "dataset": "harpd-ai-datasets/data/products/products.json",
+  "methodology": "https://harpd.com/rank/methodology/",
+  "updatedAt": "2026-09-16T00:00:00.000Z",
+  "license": "CC BY 4.0",
+  "source": "https://github.com/harpd-dev/cost-per-successful-task",
+  "reproducible": true
+}

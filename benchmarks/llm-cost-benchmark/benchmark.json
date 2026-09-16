@@ -1,0 +1,12 @@
+{
+  "name": "LLM Cost Benchmark",
+  "version": "0.1.0",
+  "publisher": "Harpd",
+  "metric": "Blended list-price cost per 1M input+output tokens and per task, across AI products in the Harpd catalog",
+  "dataset": "harpd-ai-datasets/data/products/products.json",
+  "methodology": "https://harpd.com/rank/methodology/",
+  "updatedAt": "2026-09-16T00:00:00.000Z",
+  "license": "CC BY 4.0",
+  "source": "https://github.com/harpd-dev/llm-cost-benchmark",
+  "reproducible": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Model Replacement Benchmark",
+  "version": "0.1.0",
+  "publisher": "Harpd",
+  "metric": "Substitution rate and capability parity between candidate models, with the associated cost delta",
+  "dataset": "harpd-ai-datasets/data/products/products.json",
+  "methodology": "https://harpd.com/rank/methodology/",
+  "updatedAt": "2026-09-16T00:00:00.000Z",
+  "license": "CC BY 4.0",
+  "source": "https://github.com/harpd-dev/model-replacement-benchmark",
+  "reproducible": true
+}
