@@ -10,7 +10,7 @@
     "periodKey": "2026-W38",
     "periodStart": "2026-09-14T00:00:00.000Z",
     "periodEnd": "2026-09-21T00:00:00.000Z",
-    "generatedAt": "2026-09-16T10:37:21.290Z",
+    "generatedAt": "2026-09-17T14:19:45.003Z",
     "recordCount": 1122,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
@@ -2304,7 +2304,7 @@
       "categoryName": "Productivity",
       "rank": 191,
       "rankPoints": 0,
-      "verified": false,
+      "verified": true,
       "updatedAt": "2026-09-15T00:44:54.170Z"
     },
     {
