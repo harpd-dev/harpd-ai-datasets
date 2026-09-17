@@ -75,20 +75,33 @@ for (const [file, n] of Object.entries(truth.documentedCounts || {})) {
 //    and a standalone checkout deliberately cannot reach into a sibling repo.
 const webTruthPath = resolve(ROOT, '../marketing/src/lib/data-truth.ts')
 let webTruthOk = null   // null = skipped (standalone checkout), true = present
+let webTruthTargetsThis = null  // null = skipped, true = mirrors THIS file
 try {
-  readFileSync(webTruthPath, 'utf8')
+  const webText = readFileSync(webTruthPath, 'utf8')
   webTruthOk = true
+  // The module must resolve to THIS repo's DATASET_TRUTH.json, not a stale copy.
+  // marketing/src/lib/data-truth.ts declares:
+  //   const TRUTH_PATH = resolve(__dirname, '../../../harpd-ai-datasets/DATASET_TRUTH.json')
+  // Its absolute resolution must equal THIS file's resolved path. Anything else
+  // is exactly the kind of drift that produced the "143 vs 1,122" split.
+  const m = webText.match(/TRUTH_PATH\s*=\s*resolve\(\s*__dirname\s*,\s*['"]([^'"]+)['"]\s*\)/)
+  if (m) {
+    const declared = m[1]
+    const fromMarketing = resolve(resolve(ROOT, '../marketing/src/lib'), declared)
+    webTruthTargetsThis = resolve(fromMarketing) === resolve(ROOT, 'DATASET_TRUTH.json')
+  } else {
+    webTruthTargetsThis = false  // present but unrecognised — treat as drift
+  }
 } catch {
   webTruthOk = null
+  webTruthTargetsThis = null
 }
 if (webTruthOk === null) {
   console.log('~ marketing/src/lib/data-truth.ts exists (website mirror): skipped (standalone checkout — enforced by marketing CI)')
 } else {
   check('marketing/src/lib/data-truth.ts exists (website mirror)', webTruthOk, true)
+  check('website mirror targets this DATASET_TRUTH.json', webTruthTargetsThis, true)
 }
-// The module reads ../../../../harpd-ai-datasets/DATASET_TRUTH.json from marketing/src/lib,
-// which resolves back to this exact file — assert the same object is authoritative.
-check('website mirror targets this DATASET_TRUTH.json', resolve(ROOT, 'DATASET_TRUTH.json') === resolve(ROOT, 'DATASET_TRUTH.json'), true)
 
 console.log(`\n${failures === 0 ? 'PASS' : 'FAIL'} — ${failures} inconsistency(ies) found.\n`)
 process.exit(failures === 0 ? 0 : 1)
