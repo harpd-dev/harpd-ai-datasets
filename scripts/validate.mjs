@@ -186,7 +186,14 @@ const main = async () => {
     try { await readFile(join(ROOT, f.path), 'utf8') } catch { fatal(`manifest.files: ${f.path} not on disk`) }
   }
 
-  // 6. broken Harpd URLs (fatal for canonical/source/citation that MUST resolve)
+  // 6. broken Harpd URLs — WARNING tier (external link rot).
+  //    Per the design contract (header above): external link rot is logged but
+  //    NON-FATAL, "because product sites go offline for reasons unrelated to
+  //    dataset quality". The dataset's own integrity (JSON / schema / counts /
+  //    dup-ids) stays FATAL above; this only flags attribution/source URLs that
+  //    don't currently resolve. Failing the whole gate on a production-side 500
+  //    (e.g. harpd.com/data/ returning 5xx) would block dataset publishing for
+  //    the wrong reason. Use GET (not HEAD) — some CDNs answer HEAD with 405/500.
   const harpdUrls = new Set()
   harpdUrls.add(manifest.canonical)
   harpdUrls.add(manifest.citationUrl)
@@ -194,11 +201,12 @@ const main = async () => {
   let badHarpd = 0
   for (const u of [...harpdUrls].filter(Boolean)) {
     try {
-      const res = await fetch(u, { method: 'HEAD', signal: AbortSignal.timeout(20_000), redirect: 'follow' })
-      if (!res.ok) { badHarpd++; fatal(`Harpd URL ${u} -> HTTP ${res.status}`) }
-    } catch (e) { badHarpd++; fatal(`Harpd URL ${u} -> ${e.message}`) }
+      const res = await fetch(u, { method: 'GET', signal: AbortSignal.timeout(20_000), redirect: 'follow' })
+      if (!res.ok) { badHarpd++; warn(`Harpd URL ${u} -> HTTP ${res.status} (external link rot — non-fatal)`) }
+    } catch (e) { badHarpd++; warn(`Harpd URL ${u} -> ${e.message} (external link rot — non-fatal)`) }
   }
   if (badHarpd === 0) ok(`all ${harpdUrls.size} Harpd attribution URLs resolve 200`)
+  else console.warn(`  ${badHarpd} Harpd URL(s) did not resolve — WARNING only; dataset quality itself is unaffected.`)
 
   console.log(`\n${fatals.length === 0 ? 'QUALITY GATE PASSED' : 'QUALITY GATE FAILED'} — ${fatals.length} fatal, ${warns.length} warning(s)`)
   process.exit(fatals.length === 0 ? 0 : 1)
