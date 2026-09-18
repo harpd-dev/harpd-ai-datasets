@@ -10,7 +10,7 @@
     "periodKey": "2026-09",
     "periodStart": "2026-09-01T00:00:00.000Z",
     "periodEnd": "2026-10-01T00:00:00.000Z",
-    "generatedAt": "2026-09-17T14:19:45.003Z",
+    "generatedAt": "2026-09-18T13:39:16.546Z",
     "recordCount": 1122,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
@@ -1140,7 +1140,7 @@
       "categoryName": "Developer",
       "rank": 94,
       "rankPoints": 0,
-      "verified": false,
+      "verified": true,
       "updatedAt": "2026-09-09T07:06:40.831Z"
     },
     {

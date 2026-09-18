@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-17T14:19:45.003Z",
+  "generatedAt": "2026-09-18T13:39:16.546Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -1141,7 +1141,7 @@
       "categoryName": "Developer",
       "rank": 94,
       "rankPoints": 0,
-      "verified": false,
+      "verified": true,
       "updatedAt": "2026-09-09T07:06:40.831Z"
     },
     {
