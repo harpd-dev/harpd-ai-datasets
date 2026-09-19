@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-18T13:39:16.606Z",
+  "generatedAt": "2026-09-19T13:12:50.244Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1122,
+  "totalProducts": 1123,
   "totalRankPoints": 233,
   "categoryCount": 27,
-  "lastUpdated": "2026-09-15T03:58:43.395Z",
+  "lastUpdated": "2026-09-18T15:56:46.495Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 335,
       "totalRankPoints": 0,
-      "productShare": 29.9,
+      "productShare": 29.8,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -195,9 +195,9 @@
     {
       "category": "design",
       "categoryName": "Design",
-      "productCount": 26,
+      "productCount": 27,
       "totalRankPoints": 0,
-      "productShare": 2.3,
+      "productShare": 2.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "NeoCam",

@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-18T13:39:16.577Z",
+  "generatedAt": "2026-09-19T13:12:50.196Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 27,
-  "totalProducts": 1122,
-  "lastUpdated": "2026-09-15T03:58:43.395Z",
+  "totalProducts": 1123,
+  "lastUpdated": "2026-09-18T15:56:46.495Z",
   "categories": [
     {
       "slug": "seo",
@@ -106,13 +106,13 @@
       "name": "Design",
       "description": "Discover design tools for interfaces, graphics, prototypes, assets and visual collaboration.",
       "url": "https://harpd.com/rank/category/design/",
-      "productCount": 26,
+      "productCount": 27,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-09-18T15:56:46.495Z"
     },
     {
       "slug": "social",

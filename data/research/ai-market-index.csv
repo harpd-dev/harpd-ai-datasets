@@ -1,5 +1,5 @@
 category,categoryName,productCount,totalRankPoints,productShare,pointsShare,topProduct,boardUrl
-other,Other,335,0,29.9,0,"{""name"":""BuildAI.Space"",""slug"":""buildai-space"",""url"":""https://harpd.com/rank/buildai-space/"",""rankPoints"":0}",https://harpd.com/rank/category/other/
+other,Other,335,0,29.8,0,"{""name"":""BuildAI.Space"",""slug"":""buildai-space"",""url"":""https://harpd.com/rank/buildai-space/"",""rankPoints"":0}",https://harpd.com/rank/category/other/
 developer,Developer,141,0,12.6,0,"{""name"":""Cursor"",""slug"":""cursor"",""url"":""https://harpd.com/rank/cursor/"",""rankPoints"":0}",https://harpd.com/rank/category/developer/
 agents,Agents,84,0,7.5,0,"{""name"":""Claude"",""slug"":""claude"",""url"":""https://harpd.com/rank/claude/"",""rankPoints"":0}",https://harpd.com/rank/category/agents/
 ai-media,AI Media,64,233,5.7,100,"{""name"":""imgkit"",""slug"":""imgkit-86d32f3e"",""url"":""https://harpd.com/rank/imgkit-86d32f3e/"",""rankPoints"":233}",https://harpd.com/rank/category/ai-media/
@@ -11,7 +11,7 @@ business,Business,34,0,3,0,"{""name"":""FloPay"",""slug"":""flopay"",""url"":""h
 health,Health,30,0,2.7,0,"{""name"":""Fuel Log"",""slug"":""fuel-log"",""url"":""https://harpd.com/rank/fuel-log/"",""rankPoints"":0}",https://harpd.com/rank/category/health/
 education,Education,30,0,2.7,0,"{""name"":""Otio"",""slug"":""otio"",""url"":""https://harpd.com/rank/otio/"",""rankPoints"":0}",https://harpd.com/rank/category/education/
 hiring,Hiring,27,0,2.4,0,"{""name"":""LATAMHire"",""slug"":""latamhire"",""url"":""https://harpd.com/rank/latamhire/"",""rankPoints"":0}",https://harpd.com/rank/category/hiring/
-design,Design,26,0,2.3,0,"{""name"":""NeoCam"",""slug"":""neocam"",""url"":""https://harpd.com/rank/neocam/"",""rankPoints"":0}",https://harpd.com/rank/category/design/
+design,Design,27,0,2.4,0,"{""name"":""NeoCam"",""slug"":""neocam"",""url"":""https://harpd.com/rank/neocam/"",""rankPoints"":0}",https://harpd.com/rank/category/design/
 writing,Writing,16,0,1.4,0,"{""name"":""StealthGPT"",""slug"":""stealthgpt"",""url"":""https://harpd.com/rank/stealthgpt/"",""rankPoints"":0}",https://harpd.com/rank/category/writing/
 sales,Sales,16,0,1.4,0,"{""name"":""AC0.AI"",""slug"":""ac0-ai"",""url"":""https://harpd.com/rank/ac0-ai/"",""rankPoints"":0}",https://harpd.com/rank/category/sales/
 social,Social,15,0,1.3,0,"{""name"":""ContentStudio"",""slug"":""contentstudio"",""url"":""https://harpd.com/rank/contentstudio/"",""rankPoints"":0}",https://harpd.com/rank/category/social/

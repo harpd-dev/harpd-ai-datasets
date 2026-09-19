@@ -10,8 +10,8 @@
     "periodKey": "2026-09",
     "periodStart": "2026-09-01T00:00:00.000Z",
     "periodEnd": "2026-10-01T00:00:00.000Z",
-    "generatedAt": "2026-09-18T13:39:16.546Z",
-    "recordCount": 1122,
+    "generatedAt": "2026-09-19T13:12:50.137Z",
+    "recordCount": 1123,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -13478,6 +13478,18 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-15T03:58:43.395Z"
+    },
+    {
+      "id": "aircube-d9ba22d2",
+      "name": "AirCube",
+      "slug": "aircube-d9ba22d2",
+      "url": "https://harpd.com/rank/aircube-d9ba22d2/",
+      "category": "design",
+      "categoryName": "Design",
+      "rank": 1123,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-09-18T15:56:46.495Z"
     }
   ]
 }
