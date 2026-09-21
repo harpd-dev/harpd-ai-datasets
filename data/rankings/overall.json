@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-20T13:36:48.344Z",
+  "generatedAt": "2026-09-21T15:55:57.659Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -9,10 +9,10 @@
   "periods": {
     "monthStart": "2026-09-01T00:00:00.000Z",
     "monthEnd": "2026-10-01T00:00:00.000Z",
-    "weekStart": "2026-09-14T00:00:00.000Z",
-    "weekEnd": "2026-09-21T00:00:00.000Z",
+    "weekStart": "2026-09-21T00:00:00.000Z",
+    "weekEnd": "2026-09-28T00:00:00.000Z",
     "monthKey": "2026-09",
-    "weekKey": "2026-W38"
+    "weekKey": "2026-W39"
   },
   "lastUpdated": "2026-09-18T15:56:46.495Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
