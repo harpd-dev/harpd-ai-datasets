@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-21T15:55:57.659Z",
+  "generatedAt": "2026-09-22T14:04:33.105Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -5246,7 +5246,7 @@
       "categoryName": "Marketing",
       "rank": 436,
       "rankPoints": 0,
-      "verified": false,
+      "verified": true,
       "updatedAt": "2026-09-15T00:44:54.170Z"
     },
     {
@@ -8642,7 +8642,7 @@
       "categoryName": "Productivity",
       "rank": 719,
       "rankPoints": 0,
-      "verified": false,
+      "verified": true,
       "updatedAt": "2026-09-15T03:58:43.395Z"
     },
     {

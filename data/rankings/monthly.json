@@ -10,7 +10,7 @@
     "periodKey": "2026-09",
     "periodStart": "2026-09-01T00:00:00.000Z",
     "periodEnd": "2026-10-01T00:00:00.000Z",
-    "generatedAt": "2026-09-21T15:55:57.659Z",
+    "generatedAt": "2026-09-22T14:04:33.105Z",
     "recordCount": 1123,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
@@ -5244,7 +5244,7 @@
       "categoryName": "Marketing",
       "rank": 436,
       "rankPoints": 0,
-      "verified": false,
+      "verified": true,
       "updatedAt": "2026-09-15T00:44:54.170Z"
     },
     {
@@ -8640,7 +8640,7 @@
       "categoryName": "Productivity",
       "rank": 719,
       "rankPoints": 0,
-      "verified": false,
+      "verified": true,
       "updatedAt": "2026-09-15T03:58:43.395Z"
     },
     {
