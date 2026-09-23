@@ -10,7 +10,7 @@
     "periodKey": "2026-W39",
     "periodStart": "2026-09-21T00:00:00.000Z",
     "periodEnd": "2026-09-28T00:00:00.000Z",
-    "generatedAt": "2026-09-22T14:04:33.105Z",
+    "generatedAt": "2026-09-23T14:16:28.776Z",
     "recordCount": 1123,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
@@ -10440,8 +10440,8 @@
       "categoryName": "Business",
       "rank": 869,
       "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "verified": true,
+      "updatedAt": "2026-09-22T14:32:25.472Z"
     },
     {
       "id": "andrei-saioc",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-22T14:04:33.105Z",
+  "generatedAt": "2026-09-23T14:16:28.776Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -14,7 +14,7 @@
     "monthKey": "2026-09",
     "weekKey": "2026-W39"
   },
-  "lastUpdated": "2026-09-18T15:56:46.495Z",
+  "lastUpdated": "2026-09-22T14:32:25.472Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -10442,8 +10442,8 @@
       "categoryName": "Business",
       "rank": 869,
       "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "verified": true,
+      "updatedAt": "2026-09-22T14:32:25.472Z"
     },
     {
       "id": "andrei-saioc",
