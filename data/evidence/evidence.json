@@ -51,7 +51,7 @@
       "note": "Supplied by the product owner or a visitor. Must be attributed to its submitter."
     }
   },
-  "lastUpdated": "2026-09-23",
+  "lastUpdated": "2026-09-24",
   "counts": {
     "claims": 5,
     "publishable": 5,
@@ -226,7 +226,7 @@
       "supported": true,
       "violations": [],
       "confidence": 1,
-      "observedAt": "2026-09-22",
+      "observedAt": "2026-09-24",
       "datasetId": "rank",
       "datasetUrl": "https://harpd.com/data/rank.json",
       "methodologyUrl": "https://harpd.com/rank/methodology/",
@@ -235,16 +235,16 @@
         "url": "https://harpd.com/data/rank.json",
         "type": "FIRST_PARTY_DATABASE"
       },
-      "citation": "Harpd. \"Harpd Product Ranking Dataset.\" harpd.com/data/ Accessed: 2026-09-22. License: CC BY 4.0."
+      "citation": "Harpd. \"Harpd Product Ranking Dataset.\" harpd.com/data/ Accessed: 2026-09-24. License: CC BY 4.0."
     },
     {
       "id": "rank:dataset-coverage",
-      "claim": "The Harpd ranking dataset contained 1123 approved products across 27 categories when it was last regenerated (2026-09-22); every record carries its own updatedAt timestamp.",
+      "claim": "The Harpd ranking dataset contained 1124 approved products across 27 categories when it was last regenerated (2026-09-24); every record carries its own updatedAt timestamp.",
       "claimType": "OBSERVED",
       "supported": true,
       "violations": [],
       "confidence": 1,
-      "observedAt": "2026-09-22",
+      "observedAt": "2026-09-24",
       "datasetId": "rank",
       "datasetUrl": "https://harpd.com/data/rank.json",
       "methodologyUrl": "https://harpd.com/rank/methodology/",
@@ -253,7 +253,7 @@
         "url": "https://harpd.com/data/rank.json",
         "type": "FIRST_PARTY_DATABASE"
       },
-      "citation": "Harpd. \"Harpd Product Ranking Dataset.\" harpd.com/data/ Accessed: 2026-09-22. License: CC BY 4.0."
+      "citation": "Harpd. \"Harpd Product Ranking Dataset.\" harpd.com/data/ Accessed: 2026-09-24. License: CC BY 4.0."
     },
     {
       "id": "methodology:rules-published",
@@ -262,7 +262,7 @@
       "supported": true,
       "violations": [],
       "confidence": 1,
-      "observedAt": "2026-09-23",
+      "observedAt": "2026-09-24",
       "datasetId": "methodology",
       "datasetUrl": "https://harpd.com/data/methodology.json",
       "methodologyUrl": "https://harpd.com/rank/methodology/",
@@ -271,7 +271,7 @@
         "url": "https://harpd.com/data/methodology.json",
         "type": "HARPD_METHODOLOGY"
       },
-      "citation": "Harpd. \"Harpd Methodology Dataset.\" harpd.com/methodology/ Accessed: 2026-09-23. License: CC BY 4.0."
+      "citation": "Harpd. \"Harpd Methodology Dataset.\" harpd.com/methodology/ Accessed: 2026-09-24. License: CC BY 4.0."
     }
   ],
   "graph": {
@@ -389,7 +389,7 @@
           "supported": true,
           "violations": [],
           "confidence": 1,
-          "timestamp": "2026-09-22"
+          "timestamp": "2026-09-24"
         }
       },
       {
@@ -399,7 +399,7 @@
         "url": "https://harpd.com/data/rank.json",
         "meta": {
           "claimType": "OBSERVED",
-          "observedAt": "2026-09-22",
+          "observedAt": "2026-09-24",
           "status": "verified"
         }
       },
@@ -436,13 +436,13 @@
       {
         "id": "claim:rank:dataset-coverage",
         "type": "CLAIM",
-        "label": "The Harpd ranking dataset contained 1123 approved products across 27 categories when it was last regenerated (2026-09-22); every record carries its own updatedAt timestamp.",
+        "label": "The Harpd ranking dataset contained 1124 approved products across 27 categories when it was last regenerated (2026-09-24); every record carries its own updatedAt timestamp.",
         "meta": {
           "claimType": "OBSERVED",
           "supported": true,
           "violations": [],
           "confidence": 1,
-          "timestamp": "2026-09-22"
+          "timestamp": "2026-09-24"
         }
       },
       {
@@ -452,7 +452,7 @@
         "url": "https://harpd.com/data/rank.json",
         "meta": {
           "claimType": "OBSERVED",
-          "observedAt": "2026-09-22",
+          "observedAt": "2026-09-24",
           "status": "verified"
         }
       },
@@ -465,7 +465,7 @@
           "supported": true,
           "violations": [],
           "confidence": 1,
-          "timestamp": "2026-09-23"
+          "timestamp": "2026-09-24"
         }
       },
       {
@@ -475,7 +475,7 @@
         "url": "https://harpd.com/data/methodology.json",
         "meta": {
           "claimType": "OBSERVED",
-          "observedAt": "2026-09-23",
+          "observedAt": "2026-09-24",
           "status": "verified"
         }
       },

@@ -10,8 +10,8 @@
     "periodKey": "2026-W39",
     "periodStart": "2026-09-21T00:00:00.000Z",
     "periodEnd": "2026-09-28T00:00:00.000Z",
-    "generatedAt": "2026-09-23T14:16:28.776Z",
-    "recordCount": 1123,
+    "generatedAt": "2026-09-24T14:15:05.708Z",
+    "recordCount": 1124,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -13490,6 +13490,18 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-18T15:56:46.495Z"
+    },
+    {
+      "id": "minimax-music-3-0-777800b2",
+      "name": "MiniMax Music 3.0",
+      "slug": "minimax-music-3-0-777800b2",
+      "url": "https://harpd.com/rank/minimax-music-3-0-777800b2/",
+      "category": "agents",
+      "categoryName": "Agents",
+      "rank": 1124,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-09-24T08:36:10.947Z"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-23T14:16:28.589Z",
+  "generatedAt": "2026-09-24T14:15:05.161Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1123,
-  "lastUpdated": "2026-09-22T14:32:25.472Z",
+  "count": 1124,
+  "lastUpdated": "2026-09-24T08:36:10.947Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -16851,6 +16851,21 @@
       "updatedAt": "2026-09-18T15:56:46.495Z",
       "website": "https://aircube.ai/",
       "description": "AirCube is an all-in-one generative AI platform offering access to 450+ image, video and audio models through one unified API and easy-to-use web tools.",
+      "productType": null
+    },
+    {
+      "id": "minimax-music-3-0-777800b2",
+      "name": "MiniMax Music 3.0",
+      "slug": "minimax-music-3-0-777800b2",
+      "url": "https://harpd.com/rank/minimax-music-3-0-777800b2/",
+      "category": "agents",
+      "categoryName": "Agents",
+      "rank": 1124,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-09-24T08:36:10.947Z",
+      "website": "https://minimaxmusic3.net/",
+      "description": "Create music with MiniMax Music 3.0 from prompts or lyrics. Generate vocal and instrumental tracks with control over style, mood, instruments, and arrangement.",
       "productType": null
     }
   ]

@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-23T14:16:28.899Z",
+  "generatedAt": "2026-09-24T14:15:06.008Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 27,
-  "totalProducts": 1123,
-  "lastUpdated": "2026-09-22T14:32:25.472Z",
+  "totalProducts": 1124,
+  "lastUpdated": "2026-09-24T08:36:10.947Z",
   "categories": [
     {
       "slug": "seo",
@@ -28,13 +28,13 @@
       "name": "Agents",
       "description": "Explore agent platforms, autonomous workflows, orchestration tools and practical AI agent products.",
       "url": "https://harpd.com/rank/category/agents/",
-      "productCount": 84,
+      "productCount": 85,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-09-24T08:36:10.947Z"
     },
     {
       "slug": "ai-media",

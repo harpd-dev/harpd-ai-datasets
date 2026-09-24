@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-23T14:16:28.991Z",
+  "generatedAt": "2026-09-24T14:15:06.258Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1123,
+  "totalProducts": 1124,
   "totalRankPoints": 233,
   "categoryCount": 27,
-  "lastUpdated": "2026-09-22T14:32:25.472Z",
+  "lastUpdated": "2026-09-24T08:36:10.947Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -32,7 +32,7 @@
       "categoryName": "Developer",
       "productCount": 141,
       "totalRankPoints": 0,
-      "productShare": 12.6,
+      "productShare": 12.5,
       "pointsShare": 0,
       "topProduct": {
         "name": "Cursor",
@@ -45,9 +45,9 @@
     {
       "category": "agents",
       "categoryName": "Agents",
-      "productCount": 84,
+      "productCount": 85,
       "totalRankPoints": 0,
-      "productShare": 7.5,
+      "productShare": 7.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "Claude",
