@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-24T14:15:05.161Z",
+  "generatedAt": "2026-09-25T14:38:28.758Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1124,
-  "lastUpdated": "2026-09-24T08:36:10.947Z",
+  "count": 1125,
+  "lastUpdated": "2026-09-24T14:25:23.056Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -16866,6 +16866,21 @@
       "updatedAt": "2026-09-24T08:36:10.947Z",
       "website": "https://minimaxmusic3.net/",
       "description": "Create music with MiniMax Music 3.0 from prompts or lyrics. Generate vocal and instrumental tracks with control over style, mood, instruments, and arrangement.",
+      "productType": null
+    },
+    {
+      "id": "blyft-385e2c89",
+      "name": "Blyft",
+      "slug": "blyft-385e2c89",
+      "url": "https://harpd.com/rank/blyft-385e2c89/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1125,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-09-24T14:25:23.056Z",
+      "website": "https://blyft.app/",
+      "description": "Blyft is an AI vibe-coding platform that lets you build an app and get the complete marketing package to launch it — including a landing page, logo, promo video, social media assets and analytics",
       "productType": null
     }
   ]

@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-24T14:15:06.258Z",
+  "generatedAt": "2026-09-25T14:38:29.121Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1124,
+  "totalProducts": 1125,
   "totalRankPoints": 233,
   "categoryCount": 27,
-  "lastUpdated": "2026-09-24T08:36:10.947Z",
+  "lastUpdated": "2026-09-24T14:25:23.056Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -30,9 +30,9 @@
     {
       "category": "developer",
       "categoryName": "Developer",
-      "productCount": 141,
+      "productCount": 142,
       "totalRankPoints": 0,
-      "productShare": 12.5,
+      "productShare": 12.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "Cursor",

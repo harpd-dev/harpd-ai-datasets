@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-24T14:15:06.008Z",
+  "generatedAt": "2026-09-25T14:38:29.046Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 27,
-  "totalProducts": 1124,
-  "lastUpdated": "2026-09-24T08:36:10.947Z",
+  "totalProducts": 1125,
+  "lastUpdated": "2026-09-24T14:25:23.056Z",
   "categories": [
     {
       "slug": "seo",
@@ -67,13 +67,13 @@
       "name": "Developer",
       "description": "Discover APIs, infrastructure, testing and productivity tools built for software teams.",
       "url": "https://harpd.com/rank/category/developer/",
-      "productCount": 141,
+      "productCount": 142,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-09-24T14:25:23.056Z"
     },
     {
       "slug": "productivity",

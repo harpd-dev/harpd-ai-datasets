@@ -10,8 +10,8 @@
     "periodKey": "2026-W39",
     "periodStart": "2026-09-21T00:00:00.000Z",
     "periodEnd": "2026-09-28T00:00:00.000Z",
-    "generatedAt": "2026-09-24T14:15:05.708Z",
-    "recordCount": 1124,
+    "generatedAt": "2026-09-25T14:38:28.917Z",
+    "recordCount": 1125,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -13502,6 +13502,18 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-24T08:36:10.947Z"
+    },
+    {
+      "id": "blyft-385e2c89",
+      "name": "Blyft",
+      "slug": "blyft-385e2c89",
+      "url": "https://harpd.com/rank/blyft-385e2c89/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1125,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-09-24T14:25:23.056Z"
     }
   ]
 }

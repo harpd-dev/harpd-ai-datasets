@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-24T14:15:05.708Z",
+  "generatedAt": "2026-09-25T14:38:28.917Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1124,
+  "count": 1125,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-09-01T00:00:00.000Z",
@@ -14,7 +14,7 @@
     "monthKey": "2026-09",
     "weekKey": "2026-W39"
   },
-  "lastUpdated": "2026-09-24T08:36:10.947Z",
+  "lastUpdated": "2026-09-24T14:25:23.056Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -13504,6 +13504,18 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-24T08:36:10.947Z"
+    },
+    {
+      "id": "blyft-385e2c89",
+      "name": "Blyft",
+      "slug": "blyft-385e2c89",
+      "url": "https://harpd.com/rank/blyft-385e2c89/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1125,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-09-24T14:25:23.056Z"
     }
   ]
 }
