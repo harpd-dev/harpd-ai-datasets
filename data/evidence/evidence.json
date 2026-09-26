@@ -51,7 +51,7 @@
       "note": "Supplied by the product owner or a visitor. Must be attributed to its submitter."
     }
   },
-  "lastUpdated": "2026-09-25",
+  "lastUpdated": "2026-09-26",
   "counts": {
     "claims": 5,
     "publishable": 5,
@@ -262,7 +262,7 @@
       "supported": true,
       "violations": [],
       "confidence": 1,
-      "observedAt": "2026-09-25",
+      "observedAt": "2026-09-26",
       "datasetId": "methodology",
       "datasetUrl": "https://harpd.com/data/methodology.json",
       "methodologyUrl": "https://harpd.com/rank/methodology/",
@@ -271,7 +271,7 @@
         "url": "https://harpd.com/data/methodology.json",
         "type": "HARPD_METHODOLOGY"
       },
-      "citation": "Harpd. \"Harpd Methodology Dataset.\" harpd.com/methodology/ Accessed: 2026-09-25. License: CC BY 4.0."
+      "citation": "Harpd. \"Harpd Methodology Dataset.\" harpd.com/methodology/ Accessed: 2026-09-26. License: CC BY 4.0."
     }
   ],
   "graph": {
@@ -465,7 +465,7 @@
           "supported": true,
           "violations": [],
           "confidence": 1,
-          "timestamp": "2026-09-25"
+          "timestamp": "2026-09-26"
         }
       },
       {
@@ -475,7 +475,7 @@
         "url": "https://harpd.com/data/methodology.json",
         "meta": {
           "claimType": "OBSERVED",
-          "observedAt": "2026-09-25",
+          "observedAt": "2026-09-26",
           "status": "verified"
         }
       },
