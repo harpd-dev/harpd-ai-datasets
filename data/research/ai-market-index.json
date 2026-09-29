@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-28T17:42:16.979Z",
+  "generatedAt": "2026-09-29T15:58:12.571Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1125,
+  "totalProducts": 1127,
   "totalRankPoints": 233,
   "categoryCount": 27,
-  "lastUpdated": "2026-09-24T14:25:23.056Z",
+  "lastUpdated": "2026-09-29T14:37:39.772Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 335,
       "totalRankPoints": 0,
-      "productShare": 29.8,
+      "productShare": 29.7,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -47,7 +47,7 @@
       "categoryName": "Agents",
       "productCount": 85,
       "totalRankPoints": 0,
-      "productShare": 7.6,
+      "productShare": 7.5,
       "pointsShare": 0,
       "topProduct": {
         "name": "Claude",
@@ -60,9 +60,9 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 64,
+      "productCount": 65,
       "totalRankPoints": 233,
-      "productShare": 5.7,
+      "productShare": 5.8,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
@@ -122,7 +122,7 @@
       "categoryName": "Audio",
       "productCount": 40,
       "totalRankPoints": 0,
-      "productShare": 3.6,
+      "productShare": 3.5,
       "pointsShare": 0,
       "topProduct": {
         "name": "123VideoTool",
@@ -135,9 +135,9 @@
     {
       "category": "business",
       "categoryName": "Business",
-      "productCount": 34,
+      "productCount": 35,
       "totalRankPoints": 0,
-      "productShare": 3,
+      "productShare": 3.1,
       "pointsShare": 0,
       "topProduct": {
         "name": "FloPay",

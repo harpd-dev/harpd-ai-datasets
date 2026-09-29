@@ -1,20 +1,20 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-28T17:42:16.776Z",
+  "generatedAt": "2026-09-29T15:58:12.431Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1125,
+  "count": 1127,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-09-01T00:00:00.000Z",
     "monthEnd": "2026-10-01T00:00:00.000Z",
-    "weekStart": "2026-09-21T00:00:00.000Z",
-    "weekEnd": "2026-09-28T00:00:00.000Z",
+    "weekStart": "2026-09-28T00:00:00.000Z",
+    "weekEnd": "2026-10-05T00:00:00.000Z",
     "monthKey": "2026-09",
-    "weekKey": "2026-W39"
+    "weekKey": "2026-W40"
   },
-  "lastUpdated": "2026-09-24T14:25:23.056Z",
+  "lastUpdated": "2026-09-29T14:37:39.772Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -13516,6 +13516,30 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-24T14:25:23.056Z"
+    },
+    {
+      "id": "product-9b2931ff",
+      "name": "مترجم مانجا بالذكاء الاصطناعي",
+      "slug": "product-9b2931ff",
+      "url": "https://harpd.com/rank/product-9b2931ff/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1126,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-09-28T16:40:37.272Z"
+    },
+    {
+      "id": "call24-1143720d",
+      "name": "Call24",
+      "slug": "call24-1143720d",
+      "url": "https://harpd.com/rank/call24-1143720d/",
+      "category": "business",
+      "categoryName": "Business",
+      "rank": 1127,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-09-29T14:37:39.772Z"
     }
   ]
 }

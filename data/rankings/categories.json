@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-28T17:42:16.882Z",
+  "generatedAt": "2026-09-29T15:58:12.507Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 27,
-  "totalProducts": 1125,
-  "lastUpdated": "2026-09-24T14:25:23.056Z",
+  "totalProducts": 1127,
+  "lastUpdated": "2026-09-29T14:37:39.772Z",
   "categories": [
     {
       "slug": "seo",
@@ -41,13 +41,13 @@
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 64,
+      "productCount": 65,
       "rankedProductCount": 1,
       "totalRankPoints": 233,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-09-28T16:40:37.272Z"
     },
     {
       "slug": "marketing",
@@ -158,13 +158,13 @@
       "name": "Business",
       "description": "Discover operations, finance, legal and admin products that run the back office.",
       "url": "https://harpd.com/rank/category/business/",
-      "productCount": 34,
+      "productCount": 35,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-09-22T14:32:25.472Z"
+      "updatedAt": "2026-09-29T14:37:39.772Z"
     },
     {
       "slug": "games",
