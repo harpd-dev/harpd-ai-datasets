@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-01T16:53:35.215Z",
+  "generatedAt": "2026-10-02T15:52:12.188Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1127,
-  "lastUpdated": "2026-09-29T14:37:39.772Z",
+  "count": 1128,
+  "lastUpdated": "2026-10-01T20:08:31.429Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -16911,6 +16911,21 @@
       "updatedAt": "2026-09-29T14:37:39.772Z",
       "website": "https://call24.us/",
       "description": "Call24 is an AI receptionist for US HVAC, plumbing, and electrical companies. It answers 24/7, captures job details, and books appointments so contractors stop losing leads to voicemail.",
+      "productType": null
+    },
+    {
+      "id": "easypanel-baae2eca",
+      "name": "Easypanel",
+      "slug": "easypanel-baae2eca",
+      "url": "https://harpd.com/rank/easypanel-baae2eca/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1128,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-01T20:08:31.429Z",
+      "website": "https://easypanel.io/",
+      "description": "Easypanel is a self-hosted deployment platform for developers and small teams. Run apps, databases, Docker images and Docker Compose projects on your own server, with Git deployments, automatic SSL, backups, monitoring, logs and 750+ one-click applications.",
       "productType": null
     }
   ]

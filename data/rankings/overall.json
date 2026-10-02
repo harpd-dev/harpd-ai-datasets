@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-01T16:53:35.410Z",
+  "generatedAt": "2026-10-02T15:52:12.353Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1127,
+  "count": 1128,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-10-01T00:00:00.000Z",
@@ -14,7 +14,7 @@
     "monthKey": "2026-10",
     "weekKey": "2026-W40"
   },
-  "lastUpdated": "2026-09-29T14:37:39.772Z",
+  "lastUpdated": "2026-10-01T20:08:31.429Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -13540,6 +13540,18 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-29T14:37:39.772Z"
+    },
+    {
+      "id": "easypanel-baae2eca",
+      "name": "Easypanel",
+      "slug": "easypanel-baae2eca",
+      "url": "https://harpd.com/rank/easypanel-baae2eca/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1128,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-01T20:08:31.429Z"
     }
   ]
 }
