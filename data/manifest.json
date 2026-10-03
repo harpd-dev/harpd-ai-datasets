@@ -1,7 +1,7 @@
 {
   "name": "Harpd AI Datasets",
   "version": "2026.10",
-  "updatedAt": "2026-10-02T15:52:13.349Z",
+  "updatedAt": "2026-10-03T14:20:25.683Z",
   "source": "https://harpd.com/",
   "canonical": "https://harpd.com/data/",
   "license": "CC BY 4.0",
@@ -22,7 +22,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-02T15:52:13.349Z"
+      "updatedAt": "2026-10-03T14:20:25.683Z"
     },
     {
       "id": "rankings-overall",
@@ -37,7 +37,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-02T15:52:13.349Z"
+      "updatedAt": "2026-10-03T14:20:25.683Z"
     },
     {
       "id": "rankings-monthly",
@@ -52,7 +52,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-02T15:52:13.349Z"
+      "updatedAt": "2026-10-03T14:20:25.683Z"
     },
     {
       "id": "rankings-weekly",
@@ -67,7 +67,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-02T15:52:13.349Z"
+      "updatedAt": "2026-10-03T14:20:25.683Z"
     },
     {
       "id": "ai-market-index",
@@ -82,7 +82,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-02T15:52:13.349Z"
+      "updatedAt": "2026-10-03T14:20:25.683Z"
     },
     {
       "id": "ai-agent-index",
@@ -97,7 +97,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-02T15:52:13.349Z"
+      "updatedAt": "2026-10-03T14:20:25.683Z"
     },
     {
       "id": "developer-tools-index",
@@ -112,7 +112,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-02T15:52:13.349Z"
+      "updatedAt": "2026-10-03T14:20:25.683Z"
     },
     {
       "id": "ai-tools-index",
@@ -127,7 +127,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-02T15:52:13.349Z"
+      "updatedAt": "2026-10-03T14:20:25.683Z"
     },
     {
       "id": "research-index",
@@ -142,7 +142,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-02T15:52:13.349Z"
+      "updatedAt": "2026-10-03T14:20:25.683Z"
     },
     {
       "id": "evidence",
@@ -157,7 +157,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-02T15:52:13.349Z"
+      "updatedAt": "2026-10-03T14:20:25.683Z"
     },
     {
       "id": "categories",
@@ -172,39 +172,39 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-02T15:52:13.349Z"
+      "updatedAt": "2026-10-03T14:20:25.683Z"
     }
   ],
   "files": [
     {
       "path": "data/products/products.json",
       "bytes": 648071,
-      "sha256": "dff57d20c7e3c42c3df9a9d7255c8d8d2ec7f46cadd59d5d8dcb6a2ba77bcbc0"
+      "sha256": "c0d11263ae9167c8afa3636e12acdb77d707850ccae06cb66a4220c08fab2ed2"
     },
     {
       "path": "data/rankings/overall.json",
       "bytes": 377162,
-      "sha256": "3d80d89ed1fe57c598461f27fe96aa47a831f7b2ff94c9361824ff46ce6acdc7"
+      "sha256": "7bcb550fcd698cee7c101217665af489b3a099353c5cbe62e655d2ca2254d1db"
     },
     {
       "path": "data/rankings/categories.json",
       "bytes": 13293,
-      "sha256": "77f7529ec419b1a35733918cdf1835c36601cb588f81396327b177bf714cdbd4"
+      "sha256": "938d824d862bc43d2dd227b517ba0763f5778cdfe32e0eb1efc93f16bc866660"
     },
     {
       "path": "data/research/ai-market-index.json",
       "bytes": 11433,
-      "sha256": "a36e5257ae450825d141a66da5339ecf517867789f643e145a551408a89d1f65"
+      "sha256": "0f28303fdfae27de2a260b2db7d44b79cb006997568a115f4187d86ee3e230cf"
     },
     {
       "path": "data/research/research.json",
       "bytes": 1522,
-      "sha256": "3cd4b71fab0861e95cc2c2a3a9499f464cbf22dda474120b38d1550b94f0f971"
+      "sha256": "285b6369eefd5c0903cb5f4841a4f868cbbe0c94d84f2627a00568d64d6a308f"
     },
     {
       "path": "data/evidence/evidence.json",
       "bytes": 26302,
-      "sha256": "fc87a30292694f24b1ce59e64377658eca8899e66183119140524c554011c94e"
+      "sha256": "84c13992074bffd44b395cd03aa89cf9e0ea053549f7cceee8309e934ccff9b5"
     },
     {
       "path": "data/research/ai-agent-index.json",
@@ -239,7 +239,7 @@
     {
       "path": "data/rankings/monthly.json",
       "bytes": 377074,
-      "sha256": "5aedc49117733240d3390088a09f023af9065b185e7d1ce7a7d5865ea91edae6"
+      "sha256": "4a163525e5034d48e78329667e9457b53938581f983ccd8aa4e5afcc9b32c5ee"
     },
     {
       "path": "data/rankings/monthly.csv",
@@ -249,7 +249,7 @@
     {
       "path": "data/rankings/weekly.json",
       "bytes": 377074,
-      "sha256": "0440d15ef4f1ec47c6ad2e5472191112af9000aa4ff8655b0f9f1b9febeb7433"
+      "sha256": "26286a8dfaa159725f720cdfa0df457e676de74de4815bba791d7b6c980347e8"
     },
     {
       "path": "data/rankings/weekly.csv",
@@ -259,7 +259,7 @@
     {
       "path": "data/evidence/evidence-claims.csv",
       "bytes": 3134,
-      "sha256": "363dbbab45008ebcb61228e970f23e8114f46809808a4c47170b67c2181e52f3"
+      "sha256": "5a1c00de6d385d555fbb2fca042666445d2dd854c29c5ebdbe61e1edc0873e9a"
     },
     {
       "path": "data/products/products.csv",
