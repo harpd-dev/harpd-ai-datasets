@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-04T14:49:14.225Z",
+  "generatedAt": "2026-10-05T18:33:24.652Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1128,
+  "totalProducts": 1129,
   "totalRankPoints": 233,
   "categoryCount": 27,
-  "lastUpdated": "2026-10-01T20:08:31.429Z",
+  "lastUpdated": "2026-10-04T15:15:28.844Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -60,7 +60,7 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 65,
+      "productCount": 66,
       "totalRankPoints": 233,
       "productShare": 5.8,
       "pointsShare": 100,

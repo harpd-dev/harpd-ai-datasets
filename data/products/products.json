@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-04T14:49:13.995Z",
+  "generatedAt": "2026-10-05T18:33:24.274Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1128,
-  "lastUpdated": "2026-10-01T20:08:31.429Z",
+  "count": 1129,
+  "lastUpdated": "2026-10-04T15:15:28.844Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -16926,6 +16926,21 @@
       "updatedAt": "2026-10-01T20:08:31.429Z",
       "website": "https://easypanel.io/",
       "description": "Easypanel is a self-hosted deployment platform for developers and small teams. Run apps, databases, Docker images and Docker Compose projects on your own server, with Git deployments, automatic SSL, backups, monitoring, logs and 750+ one-click applications.",
+      "productType": null
+    },
+    {
+      "id": "kling-ai-video-45821ee2",
+      "name": "Kling AI Video",
+      "slug": "kling-ai-video-45821ee2",
+      "url": "https://harpd.com/rank/kling-ai-video-45821ee2/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1129,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-04T15:15:28.844Z",
+      "website": "https://klingaivideo.com/",
+      "description": "Independent web-based text-to-video and image-to-video creation. Describe a scene or upload your own image to create short AI videos for creative projects. Limited trial credits and paid plans are available. This is a third-party website, not the official Kuaishou service.",
       "productType": null
     }
   ]

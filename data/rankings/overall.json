@@ -1,20 +1,20 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-04T14:49:14.110Z",
+  "generatedAt": "2026-10-05T18:33:24.486Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1128,
+  "count": 1129,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-10-01T00:00:00.000Z",
     "monthEnd": "2026-11-01T00:00:00.000Z",
-    "weekStart": "2026-09-28T00:00:00.000Z",
-    "weekEnd": "2026-10-05T00:00:00.000Z",
+    "weekStart": "2026-10-05T00:00:00.000Z",
+    "weekEnd": "2026-10-12T00:00:00.000Z",
     "monthKey": "2026-10",
-    "weekKey": "2026-W40"
+    "weekKey": "2026-W41"
   },
-  "lastUpdated": "2026-10-01T20:08:31.429Z",
+  "lastUpdated": "2026-10-04T15:15:28.844Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -13552,6 +13552,18 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-10-01T20:08:31.429Z"
+    },
+    {
+      "id": "kling-ai-video-45821ee2",
+      "name": "Kling AI Video",
+      "slug": "kling-ai-video-45821ee2",
+      "url": "https://harpd.com/rank/kling-ai-video-45821ee2/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1129,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-04T15:15:28.844Z"
     }
   ]
 }

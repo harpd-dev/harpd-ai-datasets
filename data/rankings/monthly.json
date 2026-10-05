@@ -10,8 +10,8 @@
     "periodKey": "2026-10",
     "periodStart": "2026-10-01T00:00:00.000Z",
     "periodEnd": "2026-11-01T00:00:00.000Z",
-    "generatedAt": "2026-10-04T14:49:14.110Z",
-    "recordCount": 1128,
+    "generatedAt": "2026-10-05T18:33:24.486Z",
+    "recordCount": 1129,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -13550,6 +13550,18 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-10-01T20:08:31.429Z"
+    },
+    {
+      "id": "kling-ai-video-45821ee2",
+      "name": "Kling AI Video",
+      "slug": "kling-ai-video-45821ee2",
+      "url": "https://harpd.com/rank/kling-ai-video-45821ee2/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1129,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-04T15:15:28.844Z"
     }
   ]
 }
