@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-08T16:35:34.706Z",
+  "generatedAt": "2026-10-09T16:18:25.741Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 27,
-  "totalProducts": 1129,
-  "lastUpdated": "2026-10-04T15:15:28.844Z",
+  "totalProducts": 1132,
+  "lastUpdated": "2026-10-09T15:48:25.331Z",
   "categories": [
     {
       "slug": "seo",
@@ -41,13 +41,13 @@
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 66,
+      "productCount": 67,
       "rankedProductCount": 1,
       "totalRankPoints": 238,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-04T15:15:28.844Z"
+      "updatedAt": "2026-10-09T15:48:25.331Z"
     },
     {
       "slug": "marketing",
@@ -67,13 +67,13 @@
       "name": "Developer",
       "description": "Discover APIs, infrastructure, testing and productivity tools built for software teams.",
       "url": "https://harpd.com/rank/category/developer/",
-      "productCount": 143,
+      "productCount": 144,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-01T20:08:31.429Z"
+      "updatedAt": "2026-10-09T06:25:40.080Z"
     },
     {
       "slug": "productivity",
@@ -366,13 +366,13 @@
       "name": "Other",
       "description": "Explore the products that do not yet fit a defined Harpd category.",
       "url": "https://harpd.com/rank/category/other/",
-      "productCount": 335,
+      "productCount": 336,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-09T07:06:40.831Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-10-09T04:37:33.610Z"
     }
   ]
 }

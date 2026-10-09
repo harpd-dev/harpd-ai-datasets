@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-08T16:35:34.024Z",
+  "generatedAt": "2026-10-09T16:18:25.426Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1129,
-  "lastUpdated": "2026-10-04T15:15:28.844Z",
+  "count": 1132,
+  "lastUpdated": "2026-10-09T15:48:25.331Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -16941,6 +16941,51 @@
       "updatedAt": "2026-10-04T15:15:28.844Z",
       "website": "https://klingaivideo.com/",
       "description": "Independent web-based text-to-video and image-to-video creation. Describe a scene or upload your own image to create short AI videos for creative projects. Limited trial credits and paid plans are available. This is a third-party website, not the official Kuaishou service.",
+      "productType": null
+    },
+    {
+      "id": "loretypes-9bff4b0d",
+      "name": "LoreTypes",
+      "slug": "loretypes-9bff4b0d",
+      "url": "https://harpd.com/rank/loretypes-9bff4b0d/",
+      "category": "other",
+      "categoryName": "Other",
+      "rank": 1130,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-09T04:37:33.610Z",
+      "website": "https://loretypes.com/",
+      "description": "Free self-discovery quizzes: aura color, archetype, moral alignment, color season, spirit animal and past life. No sign-up, instant results.",
+      "productType": null
+    },
+    {
+      "id": "codexhot-com-d5587f18",
+      "name": "热核算力 (codexhot.com)",
+      "slug": "codexhot-com-d5587f18",
+      "url": "https://harpd.com/rank/codexhot-com-d5587f18/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1131,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-09T06:25:40.080Z",
+      "website": "https://codexhot.com/",
+      "description": "热核算力 is a paid OpenAI-compatible GPT API for developers. GO, PLUS and PRO groups bill at 0.02x, 0.07x and 0.10x of each model base price on our site. Pay per usage with prepaid vouchers from CNY 5 (voucher denomination, not request price). No free tier or trial.",
+      "productType": null
+    },
+    {
+      "id": "venusx-1db52e7b",
+      "name": "VenusX",
+      "slug": "venusx-1db52e7b",
+      "url": "https://harpd.com/rank/venusx-1db52e7b/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1132,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-09T15:48:25.331Z",
+      "website": "https://venusx.ai/",
+      "description": "Live your AI fantasy. Create fictional male or female characters, customize their personalities, and explore adult roleplay with image and video generation. Trial credits are available, with optional paid subscriptions and media credits.",
       "productType": null
     }
   ]

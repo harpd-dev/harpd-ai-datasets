@@ -1,21 +1,21 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-08T16:35:34.887Z",
+  "generatedAt": "2026-10-09T16:18:25.806Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1129,
+  "totalProducts": 1132,
   "totalRankPoints": 238,
   "categoryCount": 27,
-  "lastUpdated": "2026-10-04T15:15:28.844Z",
+  "lastUpdated": "2026-10-09T15:48:25.331Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
       "category": "other",
       "categoryName": "Other",
-      "productCount": 335,
+      "productCount": 336,
       "totalRankPoints": 0,
       "productShare": 29.7,
       "pointsShare": 0,
@@ -30,7 +30,7 @@
     {
       "category": "developer",
       "categoryName": "Developer",
-      "productCount": 143,
+      "productCount": 144,
       "totalRankPoints": 0,
       "productShare": 12.7,
       "pointsShare": 0,
@@ -60,9 +60,9 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 66,
+      "productCount": 67,
       "totalRankPoints": 238,
-      "productShare": 5.8,
+      "productShare": 5.9,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",

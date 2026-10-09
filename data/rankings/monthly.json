@@ -10,8 +10,8 @@
     "periodKey": "2026-10",
     "periodStart": "2026-10-01T00:00:00.000Z",
     "periodEnd": "2026-11-01T00:00:00.000Z",
-    "generatedAt": "2026-10-08T16:35:34.402Z",
-    "recordCount": 1129,
+    "generatedAt": "2026-10-09T16:18:25.625Z",
+    "recordCount": 1132,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -13562,6 +13562,42 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-10-04T15:15:28.844Z"
+    },
+    {
+      "id": "loretypes-9bff4b0d",
+      "name": "LoreTypes",
+      "slug": "loretypes-9bff4b0d",
+      "url": "https://harpd.com/rank/loretypes-9bff4b0d/",
+      "category": "other",
+      "categoryName": "Other",
+      "rank": 1130,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-09T04:37:33.610Z"
+    },
+    {
+      "id": "codexhot-com-d5587f18",
+      "name": "热核算力 (codexhot.com)",
+      "slug": "codexhot-com-d5587f18",
+      "url": "https://harpd.com/rank/codexhot-com-d5587f18/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1131,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-09T06:25:40.080Z"
+    },
+    {
+      "id": "venusx-1db52e7b",
+      "name": "VenusX",
+      "slug": "venusx-1db52e7b",
+      "url": "https://harpd.com/rank/venusx-1db52e7b/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1132,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-09T15:48:25.331Z"
     }
   ]
 }
