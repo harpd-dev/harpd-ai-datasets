@@ -1,7 +1,7 @@
 {
   "name": "Harpd AI Datasets",
   "version": "2026.10",
-  "updatedAt": "2026-10-09T16:18:26.990Z",
+  "updatedAt": "2026-10-10T15:26:42.940Z",
   "source": "https://harpd.com/",
   "canonical": "https://harpd.com/data/",
   "license": "CC BY 4.0",
@@ -17,12 +17,12 @@
       "csv": "data/products/products.csv",
       "schema": "schema/product.schema.json",
       "sourceUrl": "https://harpd.com/data/products.json",
-      "recordCount": 1132,
+      "recordCount": 1139,
       "license": "CC BY 4.0",
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-09T16:18:26.990Z"
+      "updatedAt": "2026-10-10T15:26:42.941Z"
     },
     {
       "id": "rankings-overall",
@@ -32,12 +32,12 @@
       "csv": "data/rankings/overall.csv",
       "schema": "schema/ranking.schema.json",
       "sourceUrl": "https://harpd.com/data/rank.json",
-      "recordCount": 1132,
+      "recordCount": 1139,
       "license": "CC BY 4.0",
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-09T16:18:26.990Z"
+      "updatedAt": "2026-10-10T15:26:42.941Z"
     },
     {
       "id": "rankings-monthly",
@@ -47,12 +47,12 @@
       "csv": "data/rankings/monthly.csv",
       "schema": "schema/ranking.schema.json",
       "sourceUrl": "https://harpd.com/rank/",
-      "recordCount": 1132,
+      "recordCount": 1139,
       "license": "CC BY 4.0",
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-09T16:18:26.990Z"
+      "updatedAt": "2026-10-10T15:26:42.941Z"
     },
     {
       "id": "rankings-weekly",
@@ -62,12 +62,12 @@
       "csv": "data/rankings/weekly.csv",
       "schema": "schema/ranking.schema.json",
       "sourceUrl": "https://harpd.com/rank/",
-      "recordCount": 1132,
+      "recordCount": 1139,
       "license": "CC BY 4.0",
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-09T16:18:26.990Z"
+      "updatedAt": "2026-10-10T15:26:42.941Z"
     },
     {
       "id": "ai-market-index",
@@ -82,7 +82,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-09T16:18:26.990Z"
+      "updatedAt": "2026-10-10T15:26:42.941Z"
     },
     {
       "id": "ai-agent-index",
@@ -97,7 +97,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-09T16:18:26.990Z"
+      "updatedAt": "2026-10-10T15:26:42.941Z"
     },
     {
       "id": "developer-tools-index",
@@ -112,7 +112,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-09T16:18:26.990Z"
+      "updatedAt": "2026-10-10T15:26:42.941Z"
     },
     {
       "id": "ai-tools-index",
@@ -127,7 +127,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-09T16:18:26.990Z"
+      "updatedAt": "2026-10-10T15:26:42.941Z"
     },
     {
       "id": "research-index",
@@ -142,7 +142,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-09T16:18:26.990Z"
+      "updatedAt": "2026-10-10T15:26:42.941Z"
     },
     {
       "id": "evidence",
@@ -157,7 +157,7 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-09T16:18:26.991Z"
+      "updatedAt": "2026-10-10T15:26:42.941Z"
     },
     {
       "id": "categories",
@@ -172,39 +172,39 @@
       "attribution": "Harpd (https://harpd.com)",
       "canonicalUrl": "https://harpd.com/data/",
       "citationUrl": "https://harpd.com/data/",
-      "updatedAt": "2026-10-09T16:18:26.991Z"
+      "updatedAt": "2026-10-10T15:26:42.941Z"
     }
   ],
   "files": [
     {
       "path": "data/products/products.json",
-      "bytes": 650786,
-      "sha256": "734a6304e8cfa4fc5d87bde3b8d680b4793b3fd44596b744f9f5c227a0fde361"
+      "bytes": 655965,
+      "sha256": "b165e3061023bbe041e9585010ae9df06fbda6d6386a14a3115bff4f9916af87"
     },
     {
       "path": "data/rankings/overall.json",
-      "bytes": 378579,
-      "sha256": "dbaf5f234c2be03487becd6eef3f7b63c5024fb1728d3273446819d7867e0122"
+      "bytes": 380988,
+      "sha256": "a01190af8d06c983284f1fea09f924489c61afc07e0303e51fe6ece5280ec761"
     },
     {
       "path": "data/rankings/categories.json",
       "bytes": 13293,
-      "sha256": "c2a014613205ed2315c21c5581bc9f477f2ff76de6f46c9c56650b42bd90f819"
+      "sha256": "de38b3f56c90510c6cd044c92fec65053e560d853e493e01610aa9d3fc38aff8"
     },
     {
       "path": "data/research/ai-market-index.json",
       "bytes": 11433,
-      "sha256": "7c85aa005886027dd7ca884d2e6d5c291b10e2a8ed52e2df596b076ab693f31b"
+      "sha256": "4367ce21078d1f1fd391f75469cdf68ee52df346fb9e7a6167ba7eb8fec6bc14"
     },
     {
       "path": "data/research/research.json",
       "bytes": 1522,
-      "sha256": "c5b8aafe967e067907520007c1374c369d0a87adbb8ed978162fea58c9852156"
+      "sha256": "8f985b3dc39098cfd445b281910a78120ea501a0f9c05b03a70a1b5dd3acfa2d"
     },
     {
       "path": "data/evidence/evidence.json",
       "bytes": 26302,
-      "sha256": "800eca8764da8ce7719d71a3767646b592dd9d71f8e52db1cb5212c1f744ba0b"
+      "sha256": "4a5aa71a0f190a8f00cd5d5632762ff9b1e5dd5d27f6f8c34745852423f171dd"
     },
     {
       "path": "data/research/ai-agent-index.json",
@@ -238,43 +238,43 @@
     },
     {
       "path": "data/rankings/monthly.json",
-      "bytes": 378491,
-      "sha256": "d4c9d2542c4de30883f5ff9199592eb6ea05ec74ef90ccd2824c33befe477e8a"
+      "bytes": 380900,
+      "sha256": "08249d23fdf011ee6b74d3ea21b3f1cbf2a00c0aa843b8ce65b9fdfab6e3dcc5"
     },
     {
       "path": "data/rankings/monthly.csv",
-      "bytes": 151553,
-      "sha256": "3567872834f3f68da35a1b87853e7046d15bd044b03fc497976f967a2b45835c"
+      "bytes": 152562,
+      "sha256": "cb56e67a24d2578613e01f1f3c658d143544d1d5344e3ea44ae0a9f9cd59f41c"
     },
     {
       "path": "data/rankings/weekly.json",
-      "bytes": 378491,
-      "sha256": "e12ae06d113d64f9f2c22221ad393ac830cdb50e84fedfc84c23ffe835ddd9c5"
+      "bytes": 380900,
+      "sha256": "7f405b543bb31603031a8dbf23f4fb08fe1a54cbbd7718c94ecf1b934f8b8350"
     },
     {
       "path": "data/rankings/weekly.csv",
-      "bytes": 151553,
-      "sha256": "3567872834f3f68da35a1b87853e7046d15bd044b03fc497976f967a2b45835c"
+      "bytes": 152562,
+      "sha256": "cb56e67a24d2578613e01f1f3c658d143544d1d5344e3ea44ae0a9f9cd59f41c"
     },
     {
       "path": "data/evidence/evidence-claims.csv",
       "bytes": 3134,
-      "sha256": "7a566b5165ae96b6c03ac9f4dcf96604460012546550fa630c345900338025fc"
+      "sha256": "5d4e48ab6919f5934cac29f50e3e81d4ef13a8c804ca55a5c4919715489aa03e"
     },
     {
       "path": "data/products/products.csv",
-      "bytes": 346733,
-      "sha256": "bdbd7661f071414a35e91c62149ee1989b42553fe5f761c5b1e8f03a9d1b455a"
+      "bytes": 350032,
+      "sha256": "bc334b9009835d676f29fed586643599aa1b7ccd1911969fa2afbf52bfd3af4a"
     },
     {
       "path": "data/rankings/overall.csv",
-      "bytes": 151553,
-      "sha256": "3567872834f3f68da35a1b87853e7046d15bd044b03fc497976f967a2b45835c"
+      "bytes": 152562,
+      "sha256": "cb56e67a24d2578613e01f1f3c658d143544d1d5344e3ea44ae0a9f9cd59f41c"
     },
     {
       "path": "data/research/ai-market-index.csv",
       "bytes": 4936,
-      "sha256": "919ff7e89d82d66100064f86ae1f7343893e6960d90812ef1059745080f1244f"
+      "sha256": "4cf5238aa11c757b5dd36cd8ac8f600b2686f8b0fa4398be4584cbe10dcee354"
     },
     {
       "path": "data/research/research.csv",

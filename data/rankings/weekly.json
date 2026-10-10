@@ -10,8 +10,8 @@
     "periodKey": "2026-W41",
     "periodStart": "2026-10-05T00:00:00.000Z",
     "periodEnd": "2026-10-12T00:00:00.000Z",
-    "generatedAt": "2026-10-09T16:18:25.625Z",
-    "recordCount": 1132,
+    "generatedAt": "2026-10-10T15:26:41.411Z",
+    "recordCount": 1139,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -13598,6 +13598,90 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-10-09T15:48:25.331Z"
+    },
+    {
+      "id": "illustro-b60b8e6f",
+      "name": "Illustro",
+      "slug": "illustro-b60b8e6f",
+      "url": "https://harpd.com/rank/illustro-b60b8e6f/",
+      "category": "design",
+      "categoryName": "Design",
+      "rank": 1133,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-09T23:59:27.484Z"
+    },
+    {
+      "id": "lineupdesk-8683ce51",
+      "name": "LineupDesk",
+      "slug": "lineupdesk-8683ce51",
+      "url": "https://harpd.com/rank/lineupdesk-8683ce51/",
+      "category": "education",
+      "categoryName": "Education",
+      "rank": 1134,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-10T03:32:45.734Z"
+    },
+    {
+      "id": "nudgescout-a52c09b9",
+      "name": "NudgeScout",
+      "slug": "nudgescout-a52c09b9",
+      "url": "https://harpd.com/rank/nudgescout-a52c09b9/",
+      "category": "seo",
+      "categoryName": "SEO",
+      "rank": 1135,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-10T12:45:46.675Z"
+    },
+    {
+      "id": "auto555-c48507e1",
+      "name": "AUTO555",
+      "slug": "auto555-c48507e1",
+      "url": "https://harpd.com/rank/auto555-c48507e1/",
+      "category": "business",
+      "categoryName": "Business",
+      "rank": 1136,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-10T13:56:00.298Z"
+    },
+    {
+      "id": "homade-bd94487e",
+      "name": "HOMADE",
+      "slug": "homade-bd94487e",
+      "url": "https://harpd.com/rank/homade-bd94487e/",
+      "category": "business",
+      "categoryName": "Business",
+      "rank": 1137,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-10T13:57:54.326Z"
+    },
+    {
+      "id": "a777aa-084f1330",
+      "name": "A777AA",
+      "slug": "a777aa-084f1330",
+      "url": "https://harpd.com/rank/a777aa-084f1330/",
+      "category": "sales",
+      "categoryName": "Sales",
+      "rank": 1138,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-10T13:58:15.500Z"
+    },
+    {
+      "id": "levitsky-concept-51162783",
+      "name": "Levitsky Concept",
+      "slug": "levitsky-concept-51162783",
+      "url": "https://harpd.com/rank/levitsky-concept-51162783/",
+      "category": "agencies",
+      "categoryName": "Agencies",
+      "rank": 1139,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-10T14:01:03.263Z"
     }
   ]
 }
