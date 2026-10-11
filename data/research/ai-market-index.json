@@ -1,21 +1,21 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-10T15:26:41.601Z",
+  "generatedAt": "2026-10-11T15:47:05.164Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1139,
+  "totalProducts": 1144,
   "totalRankPoints": 238,
   "categoryCount": 27,
-  "lastUpdated": "2026-10-10T14:01:03.263Z",
+  "lastUpdated": "2026-10-11T13:53:18.167Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
       "category": "other",
       "categoryName": "Other",
-      "productCount": 336,
+      "productCount": 337,
       "totalRankPoints": 0,
       "productShare": 29.5,
       "pointsShare": 0,
@@ -47,7 +47,7 @@
       "categoryName": "Agents",
       "productCount": 85,
       "totalRankPoints": 0,
-      "productShare": 7.5,
+      "productShare": 7.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "Claude",
@@ -60,9 +60,9 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 67,
+      "productCount": 70,
       "totalRankPoints": 238,
-      "productShare": 5.9,
+      "productShare": 6.1,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
@@ -92,7 +92,7 @@
       "categoryName": "SEO",
       "productCount": 61,
       "totalRankPoints": 0,
-      "productShare": 5.4,
+      "productShare": 5.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "Semrush",
@@ -182,7 +182,7 @@
       "categoryName": "Design",
       "productCount": 28,
       "totalRankPoints": 0,
-      "productShare": 2.5,
+      "productShare": 2.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "NeoCam",
@@ -343,6 +343,21 @@
       "boardUrl": "https://harpd.com/rank/category/domains/"
     },
     {
+      "category": "directories",
+      "categoryName": "Directories",
+      "productCount": 7,
+      "totalRankPoints": 0,
+      "productShare": 0.6,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "Neeed",
+        "slug": "neeed",
+        "url": "https://harpd.com/rank/neeed/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/directories/"
+    },
+    {
       "category": "security",
       "categoryName": "Security",
       "productCount": 6,
@@ -388,26 +403,11 @@
       "boardUrl": "https://harpd.com/rank/category/real-estate/"
     },
     {
-      "category": "directories",
-      "categoryName": "Directories",
-      "productCount": 6,
-      "totalRankPoints": 0,
-      "productShare": 0.5,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "Neeed",
-        "slug": "neeed",
-        "url": "https://harpd.com/rank/neeed/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/directories/"
-    },
-    {
       "category": "news",
       "categoryName": "News",
       "productCount": 4,
       "totalRankPoints": 0,
-      "productShare": 0.4,
+      "productShare": 0.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "3I/ATLAS Tracker",

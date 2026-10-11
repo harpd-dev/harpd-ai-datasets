@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-10T15:26:41.246Z",
+  "generatedAt": "2026-10-11T15:47:04.856Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1139,
-  "lastUpdated": "2026-10-10T14:01:03.263Z",
+  "count": 1144,
+  "lastUpdated": "2026-10-11T13:53:18.167Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -17092,6 +17092,81 @@
       "website": "https://levitsky-c.ru/",
       "description": "Web studio in Khimki, Russia, providing website and web application development, custom CRM/ERP, UI/UX design and maintenance. A three-person team founded in 2025. Its own CRM products are AUTO555, HOMADE and A777AA. Remote work.",
       "productType": "web development agency"
+    },
+    {
+      "id": "dsh-plugins-3926f24d",
+      "name": "DSH Plugins",
+      "slug": "dsh-plugins-3926f24d",
+      "url": "https://harpd.com/rank/dsh-plugins-3926f24d/",
+      "category": "directories",
+      "categoryName": "Directories",
+      "rank": 1140,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-11T03:36:34.426Z",
+      "website": "https://dshplugins.com/",
+      "description": "A reviewed directory for discovering and submitting plugins built for DeepSeek Harness.",
+      "productType": null
+    },
+    {
+      "id": "kenerate-ai-f18773aa",
+      "name": "Kenerate AI",
+      "slug": "kenerate-ai-f18773aa",
+      "url": "https://harpd.com/rank/kenerate-ai-f18773aa/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1141,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-11T07:45:39.725Z",
+      "website": "https://kenerateai.net/",
+      "description": "Kenerate AI is an AI creative studio for video, images, voiceovers and music. Create product images, turn photos into video clips, and generate music or voiceovers with AI models or through chat.",
+      "productType": null
+    },
+    {
+      "id": "aurora-tonight-e2e2ce97",
+      "name": "Aurora Tonight",
+      "slug": "aurora-tonight-e2e2ce97",
+      "url": "https://harpd.com/rank/aurora-tonight-e2e2ce97/",
+      "category": "other",
+      "categoryName": "Other",
+      "rank": 1142,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-11T08:35:27.894Z",
+      "website": "https://aurora-tonight.com/",
+      "description": "Aurora Tonight — free tonight's Northern Lights visibility forecast for US locations (Kp index, cloud cover, darkness).",
+      "productType": null
+    },
+    {
+      "id": "gomotion-ai-534cb9e0",
+      "name": "GoMotion AI",
+      "slug": "gomotion-ai-534cb9e0",
+      "url": "https://harpd.com/rank/gomotion-ai-534cb9e0/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1143,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-11T11:49:37.931Z",
+      "website": "https://gomotionai.app/",
+      "description": "GoMotion AI is an online creative studio for generating AI videos, images, voiceovers, and music from text prompts, images, and references. Arrange generated clips into an editable storyboard, add captions, pacing, and sound, then export a finished video. Its conversational AI Agent can plan and create video, image, and audio assets in one workspace, with credit costs shown before generation.",
+      "productType": "ai video generation"
+    },
+    {
+      "id": "seedance-3-0-31a1e71e",
+      "name": "Seedance 3.0",
+      "slug": "seedance-3-0-31a1e71e",
+      "url": "https://harpd.com/rank/seedance-3-0-31a1e71e/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1144,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-11T13:53:18.167Z",
+      "website": "https://seedance30.us/",
+      "description": "An independent AI video and image workspace with prompt examples, reference-based workflows, enabled models, and credit estimates. Seedance 3.0 is listed as coming soon.",
+      "productType": null
     }
   ]
 }

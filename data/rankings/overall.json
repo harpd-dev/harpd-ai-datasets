@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-10T15:26:41.411Z",
+  "generatedAt": "2026-10-11T15:47:05.023Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1139,
+  "count": 1144,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-10-01T00:00:00.000Z",
@@ -14,7 +14,7 @@
     "monthKey": "2026-10",
     "weekKey": "2026-W41"
   },
-  "lastUpdated": "2026-10-10T14:01:03.263Z",
+  "lastUpdated": "2026-10-11T13:53:18.167Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -13684,6 +13684,66 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-10-10T14:01:03.263Z"
+    },
+    {
+      "id": "dsh-plugins-3926f24d",
+      "name": "DSH Plugins",
+      "slug": "dsh-plugins-3926f24d",
+      "url": "https://harpd.com/rank/dsh-plugins-3926f24d/",
+      "category": "directories",
+      "categoryName": "Directories",
+      "rank": 1140,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-11T03:36:34.426Z"
+    },
+    {
+      "id": "kenerate-ai-f18773aa",
+      "name": "Kenerate AI",
+      "slug": "kenerate-ai-f18773aa",
+      "url": "https://harpd.com/rank/kenerate-ai-f18773aa/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1141,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-11T07:45:39.725Z"
+    },
+    {
+      "id": "aurora-tonight-e2e2ce97",
+      "name": "Aurora Tonight",
+      "slug": "aurora-tonight-e2e2ce97",
+      "url": "https://harpd.com/rank/aurora-tonight-e2e2ce97/",
+      "category": "other",
+      "categoryName": "Other",
+      "rank": 1142,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-11T08:35:27.894Z"
+    },
+    {
+      "id": "gomotion-ai-534cb9e0",
+      "name": "GoMotion AI",
+      "slug": "gomotion-ai-534cb9e0",
+      "url": "https://harpd.com/rank/gomotion-ai-534cb9e0/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1143,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-11T11:49:37.931Z"
+    },
+    {
+      "id": "seedance-3-0-31a1e71e",
+      "name": "Seedance 3.0",
+      "slug": "seedance-3-0-31a1e71e",
+      "url": "https://harpd.com/rank/seedance-3-0-31a1e71e/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1144,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-11T13:53:18.167Z"
     }
   ]
 }
