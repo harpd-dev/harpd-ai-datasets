@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-11T15:47:05.104Z",
+  "generatedAt": "2026-10-12T19:07:21.664Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 27,
-  "totalProducts": 1144,
-  "lastUpdated": "2026-10-11T13:53:18.167Z",
+  "totalProducts": 1148,
+  "lastUpdated": "2026-10-12T15:40:58.527Z",
   "categories": [
     {
       "slug": "seo",
@@ -41,13 +41,13 @@
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 70,
+      "productCount": 73,
       "rankedProductCount": 1,
       "totalRankPoints": 238,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-11T13:53:18.167Z"
+      "updatedAt": "2026-10-12T08:04:41.563Z"
     },
     {
       "slug": "marketing",
@@ -106,13 +106,13 @@
       "name": "Design",
       "description": "Discover design tools for interfaces, graphics, prototypes, assets and visual collaboration.",
       "url": "https://harpd.com/rank/category/design/",
-      "productCount": 28,
+      "productCount": 29,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-09T23:59:27.484Z"
+      "updatedAt": "2026-10-12T15:40:58.527Z"
     },
     {
       "slug": "social",

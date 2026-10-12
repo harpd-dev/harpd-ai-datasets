@@ -10,8 +10,8 @@
     "periodKey": "2026-10",
     "periodStart": "2026-10-01T00:00:00.000Z",
     "periodEnd": "2026-11-01T00:00:00.000Z",
-    "generatedAt": "2026-10-11T15:47:05.023Z",
-    "recordCount": 1144,
+    "generatedAt": "2026-10-12T19:07:21.548Z",
+    "recordCount": 1148,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -13742,6 +13742,54 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-10-11T13:53:18.167Z"
+    },
+    {
+      "id": "burning-bridges-ai-93c250f7",
+      "name": "Burning Bridges AI",
+      "slug": "burning-bridges-ai-93c250f7",
+      "url": "https://harpd.com/rank/burning-bridges-ai-93c250f7/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1145,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-11T17:49:39.648Z"
+    },
+    {
+      "id": "instinct-ai-7bcd39d4",
+      "name": "Instinct AI",
+      "slug": "instinct-ai-7bcd39d4",
+      "url": "https://harpd.com/rank/instinct-ai-7bcd39d4/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1146,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-12T05:04:39.961Z"
+    },
+    {
+      "id": "clipin-ai-3a2c6665",
+      "name": "Clipin AI",
+      "slug": "clipin-ai-3a2c6665",
+      "url": "https://harpd.com/rank/clipin-ai-3a2c6665/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1147,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-12T08:04:41.563Z"
+    },
+    {
+      "id": "paper-animation-2ec454df",
+      "name": "Paper Animation",
+      "slug": "paper-animation-2ec454df",
+      "url": "https://harpd.com/rank/paper-animation-2ec454df/",
+      "category": "design",
+      "categoryName": "Design",
+      "rank": 1148,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-12T15:40:58.527Z"
     }
   ]
 }
