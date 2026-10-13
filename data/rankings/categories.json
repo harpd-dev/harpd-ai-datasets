@@ -1,27 +1,27 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-12T19:07:21.664Z",
+  "generatedAt": "2026-10-13T16:59:44.936Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 27,
-  "totalProducts": 1148,
-  "lastUpdated": "2026-10-12T15:40:58.527Z",
+  "totalProducts": 1149,
+  "lastUpdated": "2026-10-13T11:10:39.724Z",
   "categories": [
     {
       "slug": "seo",
       "name": "SEO",
       "description": "Discover products for search visibility, technical SEO, content optimization and answer-engine discovery.",
       "url": "https://harpd.com/rank/category/seo/",
-      "productCount": 61,
+      "productCount": 62,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-10T12:45:46.675Z"
+      "updatedAt": "2026-10-13T11:10:39.724Z"
     },
     {
       "slug": "agents",

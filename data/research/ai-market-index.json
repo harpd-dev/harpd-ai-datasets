@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-12T19:07:21.756Z",
+  "generatedAt": "2026-10-13T16:59:45.067Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1148,
+  "totalProducts": 1149,
   "totalRankPoints": 238,
   "categoryCount": 27,
-  "lastUpdated": "2026-10-12T15:40:58.527Z",
+  "lastUpdated": "2026-10-13T11:10:39.724Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 337,
       "totalRankPoints": 0,
-      "productShare": 29.4,
+      "productShare": 29.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -90,9 +90,9 @@
     {
       "category": "seo",
       "categoryName": "SEO",
-      "productCount": 61,
+      "productCount": 62,
       "totalRankPoints": 0,
-      "productShare": 5.3,
+      "productShare": 5.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "Semrush",
@@ -197,7 +197,7 @@
       "categoryName": "Hiring",
       "productCount": 27,
       "totalRankPoints": 0,
-      "productShare": 2.4,
+      "productShare": 2.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "LATAMHire",

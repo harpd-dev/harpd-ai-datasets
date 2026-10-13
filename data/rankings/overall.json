@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-12T19:07:21.548Z",
+  "generatedAt": "2026-10-13T16:59:44.773Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1148,
+  "count": 1149,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-10-01T00:00:00.000Z",
@@ -14,7 +14,7 @@
     "monthKey": "2026-10",
     "weekKey": "2026-W42"
   },
-  "lastUpdated": "2026-10-12T15:40:58.527Z",
+  "lastUpdated": "2026-10-13T11:10:39.724Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -13792,6 +13792,18 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-10-12T15:40:58.527Z"
+    },
+    {
+      "id": "trends-monitor-0a2ac1dd",
+      "name": "Trends Monitor",
+      "slug": "trends-monitor-0a2ac1dd",
+      "url": "https://harpd.com/rank/trends-monitor-0a2ac1dd/",
+      "category": "seo",
+      "categoryName": "SEO",
+      "rank": 1149,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-13T11:10:39.724Z"
     }
   ]
 }
