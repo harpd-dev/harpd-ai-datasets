@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-13T16:59:45.067Z",
+  "generatedAt": "2026-10-14T14:33:22.993Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1149,
-  "totalRankPoints": 238,
+  "totalProducts": 1150,
+  "totalRankPoints": 258,
   "categoryCount": 27,
-  "lastUpdated": "2026-10-13T11:10:39.724Z",
+  "lastUpdated": "2026-10-13T22:50:41.650Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -61,14 +61,14 @@
       "category": "ai-media",
       "categoryName": "AI Media",
       "productCount": 73,
-      "totalRankPoints": 238,
-      "productShare": 6.4,
+      "totalRankPoints": 258,
+      "productShare": 6.3,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
         "slug": "imgkit-86d32f3e",
         "url": "https://harpd.com/rank/imgkit-86d32f3e/",
-        "rankPoints": 238
+        "rankPoints": 258
       },
       "boardUrl": "https://harpd.com/rank/category/ai-media/"
     },
@@ -135,9 +135,9 @@
     {
       "category": "business",
       "categoryName": "Business",
-      "productCount": 37,
+      "productCount": 38,
       "totalRankPoints": 0,
-      "productShare": 3.2,
+      "productShare": 3.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "FloPay",
