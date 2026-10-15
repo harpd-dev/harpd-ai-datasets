@@ -10,8 +10,8 @@
     "periodKey": "2026-10",
     "periodStart": "2026-10-01T00:00:00.000Z",
     "periodEnd": "2026-11-01T00:00:00.000Z",
-    "generatedAt": "2026-10-14T14:33:22.532Z",
-    "recordCount": 1150,
+    "generatedAt": "2026-10-15T14:13:09.284Z",
+    "recordCount": 1152,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -13814,6 +13814,30 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-10-13T22:50:41.650Z"
+    },
+    {
+      "id": "hit-the-road-dude-ai-fe2d9999",
+      "name": "Hit the Road Dude AI",
+      "slug": "hit-the-road-dude-ai-fe2d9999",
+      "url": "https://harpd.com/rank/hit-the-road-dude-ai-fe2d9999/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1151,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-15T09:05:01.682Z"
+    },
+    {
+      "id": "let-s-calendar-32dd3676",
+      "name": "Let's Calendar",
+      "slug": "let-s-calendar-32dd3676",
+      "url": "https://harpd.com/rank/let-s-calendar-32dd3676/",
+      "category": "productivity",
+      "categoryName": "Productivity",
+      "rank": 1152,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-15T11:50:24.666Z"
     }
   ]
 }

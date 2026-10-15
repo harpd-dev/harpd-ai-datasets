@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-14T14:33:22.993Z",
+  "generatedAt": "2026-10-15T14:13:09.684Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1150,
+  "totalProducts": 1152,
   "totalRankPoints": 258,
   "categoryCount": 27,
-  "lastUpdated": "2026-10-13T22:50:41.650Z",
+  "lastUpdated": "2026-10-15T11:50:24.666Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -60,9 +60,9 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 73,
+      "productCount": 74,
       "totalRankPoints": 258,
-      "productShare": 6.3,
+      "productShare": 6.4,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
@@ -105,9 +105,9 @@
     {
       "category": "productivity",
       "categoryName": "Productivity",
-      "productCount": 47,
+      "productCount": 48,
       "totalRankPoints": 0,
-      "productShare": 4.1,
+      "productShare": 4.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "Notion",

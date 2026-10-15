@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-14T14:33:22.184Z",
+  "generatedAt": "2026-10-15T14:13:08.881Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1150,
-  "lastUpdated": "2026-10-13T22:50:41.650Z",
+  "count": 1152,
+  "lastUpdated": "2026-10-15T11:50:24.666Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -17256,6 +17256,36 @@
       "updatedAt": "2026-10-13T22:50:41.650Z",
       "website": "https://menloinsurance.com/for-agents",
       "description": "Insurance agency workflow and placement support for independent property and casualty agents in California and Texas: prefill one application, review eligible carrier quotes and draft client follow-ups. Book a demonstration through Menlo for Agents.",
+      "productType": null
+    },
+    {
+      "id": "hit-the-road-dude-ai-fe2d9999",
+      "name": "Hit the Road Dude AI",
+      "slug": "hit-the-road-dude-ai-fe2d9999",
+      "url": "https://harpd.com/rank/hit-the-road-dude-ai-fe2d9999/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1151,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-15T09:05:01.682Z",
+      "website": "https://hittheroaddudeai.com/",
+      "description": "Turn one photo into an AI private-property meme video with six scene choices, preview and download. Paid credit packs start at USD 9.90, with optional subscriptions. Original meme audio is not included; voice, exact dialogue, lip sync and likeness are not guaranteed.",
+      "productType": null
+    },
+    {
+      "id": "let-s-calendar-32dd3676",
+      "name": "Let's Calendar",
+      "slug": "let-s-calendar-32dd3676",
+      "url": "https://harpd.com/rank/let-s-calendar-32dd3676/",
+      "category": "productivity",
+      "categoryName": "Productivity",
+      "rank": 1152,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-15T11:50:24.666Z",
+      "website": "https://letscalendar.com/",
+      "description": "Let’s Calendar simplifies bulk invitations through Google and Outlook Calendar. Invitations are automatically added to attendees’ calendars, eliminating manual entry or calendar file downloads. Easily manage invitations and track RSVPs from one platform.",
       "productType": null
     }
   ]
