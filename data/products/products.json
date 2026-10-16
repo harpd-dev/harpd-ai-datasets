@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-15T14:13:08.881Z",
+  "generatedAt": "2026-10-16T14:00:57.259Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1152,
-  "lastUpdated": "2026-10-15T11:50:24.666Z",
+  "count": 1156,
+  "lastUpdated": "2026-10-16T13:23:18.213Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -17286,6 +17286,66 @@
       "updatedAt": "2026-10-15T11:50:24.666Z",
       "website": "https://letscalendar.com/",
       "description": "Let’s Calendar simplifies bulk invitations through Google and Outlook Calendar. Invitations are automatically added to attendees’ calendars, eliminating manual entry or calendar file downloads. Easily manage invitations and track RSVPs from one platform.",
+      "productType": null
+    },
+    {
+      "id": "llmnesia-40b9f25b",
+      "name": "LLMnesia",
+      "slug": "llmnesia-40b9f25b",
+      "url": "https://harpd.com/rank/llmnesia-40b9f25b/",
+      "category": "productivity",
+      "categoryName": "Productivity",
+      "rank": 1153,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-15T14:44:57.759Z",
+      "website": "https://llmnesia.com/",
+      "description": "LLMnesia is a free browser extension for Chrome and Edge that searches your AI chat history across ChatGPT, Claude, Gemini, Perplexity, Copilot, DeepSeek, Grok, Mistral, and more. Free search stays on your device; optional Vault adds end-to-end encrypted sync and backup.",
+      "productType": null
+    },
+    {
+      "id": "artcraft-download-guide-4c2d56f5",
+      "name": "ArtCraft Download Guide",
+      "slug": "artcraft-download-guide-4c2d56f5",
+      "url": "https://harpd.com/rank/artcraft-download-guide-4c2d56f5/",
+      "category": "design",
+      "categoryName": "Design",
+      "rank": 1154,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-16T03:05:07.524Z",
+      "website": "https://downloadartcraft.com/",
+      "description": "Independent guide to downloading ArtCraft for Windows, macOS and Linux from official sources, with SHA-256 checksum snapshots and install steps.",
+      "productType": null
+    },
+    {
+      "id": "state-property-meme-ai-798fe859",
+      "name": "State Property Meme AI",
+      "slug": "state-property-meme-ai-798fe859",
+      "url": "https://harpd.com/rank/state-property-meme-ai-798fe859/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1155,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-16T11:55:16.390Z",
+      "website": "https://statepropertymeme.com/",
+      "description": "Turn a photo of yourself, a consenting adult, a dog or cat into a State Property / Hit the Road Dude reaction meme video. Six scenes, AI-generated speech and browser MP4 download. Sign-in and paid credits required; AI likeness, voice and motion vary.",
+      "productType": null
+    },
+    {
+      "id": "hol-guard-5ccf9ce6",
+      "name": "HOL Guard",
+      "slug": "hol-guard-5ccf9ce6",
+      "url": "https://harpd.com/rank/hol-guard-5ccf9ce6/",
+      "category": "security",
+      "categoryName": "Security",
+      "rank": 1156,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-16T13:23:18.213Z",
+      "website": "https://hol.org/guard",
+      "description": "HOL Guard checks AI coding agent actions locally before they run: shell commands, .env/secret reads, MCP tool calls and package/skill installs, then allows, blocks or asks. Apache-2.0 core plus optional paid Guard Cloud. Not a gateway or network firewall. Built by HOL.",
       "productType": null
     }
   ]

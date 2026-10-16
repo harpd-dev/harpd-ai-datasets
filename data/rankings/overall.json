@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-15T14:13:09.284Z",
+  "generatedAt": "2026-10-16T14:00:57.568Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1152,
+  "count": 1156,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-10-01T00:00:00.000Z",
@@ -14,7 +14,7 @@
     "monthKey": "2026-10",
     "weekKey": "2026-W42"
   },
-  "lastUpdated": "2026-10-15T11:50:24.666Z",
+  "lastUpdated": "2026-10-16T13:23:18.213Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -13840,6 +13840,54 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-10-15T11:50:24.666Z"
+    },
+    {
+      "id": "llmnesia-40b9f25b",
+      "name": "LLMnesia",
+      "slug": "llmnesia-40b9f25b",
+      "url": "https://harpd.com/rank/llmnesia-40b9f25b/",
+      "category": "productivity",
+      "categoryName": "Productivity",
+      "rank": 1153,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-15T14:44:57.759Z"
+    },
+    {
+      "id": "artcraft-download-guide-4c2d56f5",
+      "name": "ArtCraft Download Guide",
+      "slug": "artcraft-download-guide-4c2d56f5",
+      "url": "https://harpd.com/rank/artcraft-download-guide-4c2d56f5/",
+      "category": "design",
+      "categoryName": "Design",
+      "rank": 1154,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-16T03:05:07.524Z"
+    },
+    {
+      "id": "state-property-meme-ai-798fe859",
+      "name": "State Property Meme AI",
+      "slug": "state-property-meme-ai-798fe859",
+      "url": "https://harpd.com/rank/state-property-meme-ai-798fe859/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1155,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-16T11:55:16.390Z"
+    },
+    {
+      "id": "hol-guard-5ccf9ce6",
+      "name": "HOL Guard",
+      "slug": "hol-guard-5ccf9ce6",
+      "url": "https://harpd.com/rank/hol-guard-5ccf9ce6/",
+      "category": "security",
+      "categoryName": "Security",
+      "rank": 1156,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-16T13:23:18.213Z"
     }
   ]
 }

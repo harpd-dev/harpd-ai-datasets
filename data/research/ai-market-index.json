@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-15T14:13:09.684Z",
+  "generatedAt": "2026-10-16T14:00:57.823Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1152,
+  "totalProducts": 1156,
   "totalRankPoints": 258,
   "categoryCount": 27,
-  "lastUpdated": "2026-10-15T11:50:24.666Z",
+  "lastUpdated": "2026-10-16T13:23:18.213Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 337,
       "totalRankPoints": 0,
-      "productShare": 29.3,
+      "productShare": 29.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -60,9 +60,9 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 74,
+      "productCount": 75,
       "totalRankPoints": 258,
-      "productShare": 6.4,
+      "productShare": 6.5,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
@@ -77,7 +77,7 @@
       "categoryName": "Marketing",
       "productCount": 64,
       "totalRankPoints": 0,
-      "productShare": 5.6,
+      "productShare": 5.5,
       "pointsShare": 0,
       "topProduct": {
         "name": "Tutti",
@@ -105,7 +105,7 @@
     {
       "category": "productivity",
       "categoryName": "Productivity",
-      "productCount": 48,
+      "productCount": 49,
       "totalRankPoints": 0,
       "productShare": 4.2,
       "pointsShare": 0,
@@ -180,9 +180,9 @@
     {
       "category": "design",
       "categoryName": "Design",
-      "productCount": 29,
+      "productCount": 30,
       "totalRankPoints": 0,
-      "productShare": 2.5,
+      "productShare": 2.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "NeoCam",
@@ -343,6 +343,21 @@
       "boardUrl": "https://harpd.com/rank/category/domains/"
     },
     {
+      "category": "security",
+      "categoryName": "Security",
+      "productCount": 7,
+      "totalRankPoints": 0,
+      "productShare": 0.6,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "Comp AI",
+        "slug": "comp-ai",
+        "url": "https://harpd.com/rank/comp-ai/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/security/"
+    },
+    {
       "category": "directories",
       "categoryName": "Directories",
       "productCount": 7,
@@ -356,21 +371,6 @@
         "rankPoints": 0
       },
       "boardUrl": "https://harpd.com/rank/category/directories/"
-    },
-    {
-      "category": "security",
-      "categoryName": "Security",
-      "productCount": 6,
-      "totalRankPoints": 0,
-      "productShare": 0.5,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "Comp AI",
-        "slug": "comp-ai",
-        "url": "https://harpd.com/rank/comp-ai/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/security/"
     },
     {
       "category": "agencies",
