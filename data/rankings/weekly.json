@@ -10,8 +10,8 @@
     "periodKey": "2026-W42",
     "periodStart": "2026-10-12T00:00:00.000Z",
     "periodEnd": "2026-10-19T00:00:00.000Z",
-    "generatedAt": "2026-10-16T14:00:57.568Z",
-    "recordCount": 1156,
+    "generatedAt": "2026-10-17T13:00:54.439Z",
+    "recordCount": 1161,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -13886,6 +13886,66 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-10-16T13:23:18.213Z"
+    },
+    {
+      "id": "curlshot-e7ff56eb",
+      "name": "CurlShot",
+      "slug": "curlshot-e7ff56eb",
+      "url": "https://harpd.com/rank/curlshot-e7ff56eb/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1157,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-16T16:06:39.331Z"
+    },
+    {
+      "id": "project-moon-life-148740a1",
+      "name": "Project Moon Life",
+      "slug": "project-moon-life-148740a1",
+      "url": "https://harpd.com/rank/project-moon-life-148740a1/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 1158,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-16T17:19:32.001Z"
+    },
+    {
+      "id": "codetrendy-a79d34cb",
+      "name": "CodeTrendy",
+      "slug": "codetrendy-a79d34cb",
+      "url": "https://harpd.com/rank/codetrendy-a79d34cb/",
+      "category": "directories",
+      "categoryName": "Directories",
+      "rank": 1159,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-16T20:23:49.208Z"
+    },
+    {
+      "id": "mediapronet-5a01adc0",
+      "name": "MEDIAPRONET",
+      "slug": "mediapronet-5a01adc0",
+      "url": "https://harpd.com/rank/mediapronet-5a01adc0/",
+      "category": "directories",
+      "categoryName": "Directories",
+      "rank": 1160,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-16T21:19:54.276Z"
+    },
+    {
+      "id": "sitepatent-5e1b11e1",
+      "name": "SitePatent",
+      "slug": "sitepatent-5e1b11e1",
+      "url": "https://harpd.com/rank/sitepatent-5e1b11e1/",
+      "category": "directories",
+      "categoryName": "Directories",
+      "rank": 1161,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-16T21:32:18.097Z"
     }
   ]
 }
