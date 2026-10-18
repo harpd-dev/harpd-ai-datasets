@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-17T13:00:54.265Z",
+  "generatedAt": "2026-10-18T13:21:24.694Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1161,
-  "lastUpdated": "2026-10-16T21:32:18.097Z",
+  "count": 1162,
+  "lastUpdated": "2026-10-18T01:52:49.116Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -17421,6 +17421,21 @@
       "updatedAt": "2026-10-16T21:32:18.097Z",
       "website": "https://sitepatent.com/",
       "description": "A discovery platform for startups, tools and online products. Submit your website to get featured, gain exposure and earn a trusted link.",
+      "productType": null
+    },
+    {
+      "id": "yttext-68091806",
+      "name": "YTText",
+      "slug": "yttext-68091806",
+      "url": "https://harpd.com/rank/yttext-68091806/",
+      "category": "productivity",
+      "categoryName": "Productivity",
+      "rank": 1162,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-18T01:52:49.116Z",
+      "website": "https://yttext.com/",
+      "description": "YTText turns public videos and uploaded media into searchable, reusable text with time-coded transcripts, phrase search, notes, and TXT, SRT, or VTT export.",
       "productType": null
     }
   ]

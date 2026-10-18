@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-17T13:00:54.538Z",
+  "generatedAt": "2026-10-18T13:21:24.949Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 27,
-  "totalProducts": 1161,
-  "lastUpdated": "2026-10-16T21:32:18.097Z",
+  "totalProducts": 1162,
+  "lastUpdated": "2026-10-18T01:52:49.116Z",
   "categories": [
     {
       "slug": "seo",
@@ -80,13 +80,13 @@
       "name": "Productivity",
       "description": "Explore focused products that help people organize, automate and finish work.",
       "url": "https://harpd.com/rank/category/productivity/",
-      "productCount": 49,
+      "productCount": 50,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-15T14:44:57.759Z"
+      "updatedAt": "2026-10-18T01:52:49.116Z"
     },
     {
       "slug": "people",

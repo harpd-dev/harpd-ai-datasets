@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-17T13:00:54.439Z",
+  "generatedAt": "2026-10-18T13:21:24.865Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1161,
+  "count": 1162,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-10-01T00:00:00.000Z",
@@ -14,7 +14,7 @@
     "monthKey": "2026-10",
     "weekKey": "2026-W42"
   },
-  "lastUpdated": "2026-10-16T21:32:18.097Z",
+  "lastUpdated": "2026-10-18T01:52:49.116Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -13948,6 +13948,18 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-10-16T21:32:18.097Z"
+    },
+    {
+      "id": "yttext-68091806",
+      "name": "YTText",
+      "slug": "yttext-68091806",
+      "url": "https://harpd.com/rank/yttext-68091806/",
+      "category": "productivity",
+      "categoryName": "Productivity",
+      "rank": 1162,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-18T01:52:49.116Z"
     }
   ]
 }

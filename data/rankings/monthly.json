@@ -10,8 +10,8 @@
     "periodKey": "2026-10",
     "periodStart": "2026-10-01T00:00:00.000Z",
     "periodEnd": "2026-11-01T00:00:00.000Z",
-    "generatedAt": "2026-10-17T13:00:54.439Z",
-    "recordCount": 1161,
+    "generatedAt": "2026-10-18T13:21:24.865Z",
+    "recordCount": 1162,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -13946,6 +13946,18 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-10-16T21:32:18.097Z"
+    },
+    {
+      "id": "yttext-68091806",
+      "name": "YTText",
+      "slug": "yttext-68091806",
+      "url": "https://harpd.com/rank/yttext-68091806/",
+      "category": "productivity",
+      "categoryName": "Productivity",
+      "rank": 1162,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-18T01:52:49.116Z"
     }
   ]
 }
