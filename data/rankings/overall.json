@@ -1,20 +1,20 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-18T13:21:24.865Z",
+  "generatedAt": "2026-10-19T16:31:07.577Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1162,
+  "count": 1164,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-10-01T00:00:00.000Z",
     "monthEnd": "2026-11-01T00:00:00.000Z",
-    "weekStart": "2026-10-12T00:00:00.000Z",
-    "weekEnd": "2026-10-19T00:00:00.000Z",
+    "weekStart": "2026-10-19T00:00:00.000Z",
+    "weekEnd": "2026-10-26T00:00:00.000Z",
     "monthKey": "2026-10",
-    "weekKey": "2026-W42"
+    "weekKey": "2026-W43"
   },
-  "lastUpdated": "2026-10-18T01:52:49.116Z",
+  "lastUpdated": "2026-10-19T06:03:14.794Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -13960,6 +13960,30 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-10-18T01:52:49.116Z"
+    },
+    {
+      "id": "popnow-58346fe1",
+      "name": "PopNow",
+      "slug": "popnow-58346fe1",
+      "url": "https://harpd.com/rank/popnow-58346fe1/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1163,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-18T14:20:38.192Z"
+    },
+    {
+      "id": "geardex-c992b7b7",
+      "name": "GearDex",
+      "slug": "geardex-c992b7b7",
+      "url": "https://harpd.com/rank/geardex-c992b7b7/",
+      "category": "productivity",
+      "categoryName": "Productivity",
+      "rank": 1164,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-19T06:03:14.794Z"
     }
   ]
 }

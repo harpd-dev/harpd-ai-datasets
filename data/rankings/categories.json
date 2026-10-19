@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-18T13:21:24.949Z",
+  "generatedAt": "2026-10-19T16:31:07.718Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 27,
-  "totalProducts": 1162,
-  "lastUpdated": "2026-10-18T01:52:49.116Z",
+  "totalProducts": 1164,
+  "lastUpdated": "2026-10-19T06:03:14.794Z",
   "categories": [
     {
       "slug": "seo",
@@ -41,13 +41,13 @@
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 75,
+      "productCount": 76,
       "rankedProductCount": 1,
       "totalRankPoints": 258,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-16T11:55:16.390Z"
+      "updatedAt": "2026-10-18T14:20:38.192Z"
     },
     {
       "slug": "marketing",
@@ -80,13 +80,13 @@
       "name": "Productivity",
       "description": "Explore focused products that help people organize, automate and finish work.",
       "url": "https://harpd.com/rank/category/productivity/",
-      "productCount": 50,
+      "productCount": 51,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-18T01:52:49.116Z"
+      "updatedAt": "2026-10-19T06:03:14.794Z"
     },
     {
       "slug": "people",

@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-18T13:21:24.694Z",
+  "generatedAt": "2026-10-19T16:31:07.157Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1162,
-  "lastUpdated": "2026-10-18T01:52:49.116Z",
+  "count": 1164,
+  "lastUpdated": "2026-10-19T06:03:14.794Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -17436,6 +17436,36 @@
       "updatedAt": "2026-10-18T01:52:49.116Z",
       "website": "https://yttext.com/",
       "description": "YTText turns public videos and uploaded media into searchable, reusable text with time-coded transcripts, phrase search, notes, and TXT, SRT, or VTT export.",
+      "productType": null
+    },
+    {
+      "id": "popnow-58346fe1",
+      "name": "PopNow",
+      "slug": "popnow-58346fe1",
+      "url": "https://harpd.com/rank/popnow-58346fe1/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1163,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-18T14:20:38.192Z",
+      "website": "https://popnow.ai/",
+      "description": "PopNow turns a photo or a line of text into AI videos, images and songs. 160+ one-tap effects, 120+ top models, pay per creation, no subscription.",
+      "productType": null
+    },
+    {
+      "id": "geardex-c992b7b7",
+      "name": "GearDex",
+      "slug": "geardex-c992b7b7",
+      "url": "https://harpd.com/rank/geardex-c992b7b7/",
+      "category": "productivity",
+      "categoryName": "Productivity",
+      "rank": 1164,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-19T06:03:14.794Z",
+      "website": "https://geardex.app/",
+      "description": "Camera gear inventory for photographers: serials, value, receipts and location per item, packing lists, QR loans, plus a site, galleries, CRM and invoices. Web, Mac, Windows. Free for 25 items.",
       "productType": null
     }
   ]
