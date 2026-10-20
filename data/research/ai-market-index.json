@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-19T16:31:07.799Z",
+  "generatedAt": "2026-10-20T14:21:30.201Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1164,
+  "totalProducts": 1169,
   "totalRankPoints": 258,
   "categoryCount": 27,
-  "lastUpdated": "2026-10-19T06:03:14.794Z",
+  "lastUpdated": "2026-10-20T10:34:55.317Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 337,
       "totalRankPoints": 0,
-      "productShare": 29,
+      "productShare": 28.8,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -32,7 +32,7 @@
       "categoryName": "Developer",
       "productCount": 145,
       "totalRankPoints": 0,
-      "productShare": 12.5,
+      "productShare": 12.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "Cursor",
@@ -60,9 +60,9 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 76,
+      "productCount": 77,
       "totalRankPoints": 258,
-      "productShare": 6.5,
+      "productShare": 6.6,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
@@ -75,9 +75,9 @@
     {
       "category": "marketing",
       "categoryName": "Marketing",
-      "productCount": 64,
+      "productCount": 65,
       "totalRankPoints": 0,
-      "productShare": 5.5,
+      "productShare": 5.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "Tutti",
@@ -118,6 +118,21 @@
       "boardUrl": "https://harpd.com/rank/category/productivity/"
     },
     {
+      "category": "business",
+      "categoryName": "Business",
+      "productCount": 40,
+      "totalRankPoints": 0,
+      "productShare": 3.4,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "FloPay",
+        "slug": "flopay",
+        "url": "https://harpd.com/rank/flopay/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/business/"
+    },
+    {
       "category": "audio",
       "categoryName": "Audio",
       "productCount": 40,
@@ -131,21 +146,6 @@
         "rankPoints": 0
       },
       "boardUrl": "https://harpd.com/rank/category/audio/"
-    },
-    {
-      "category": "business",
-      "categoryName": "Business",
-      "productCount": 38,
-      "totalRankPoints": 0,
-      "productShare": 3.3,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "FloPay",
-        "slug": "flopay",
-        "url": "https://harpd.com/rank/flopay/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/business/"
     },
     {
       "category": "education",
@@ -195,9 +195,9 @@
     {
       "category": "hiring",
       "categoryName": "Hiring",
-      "productCount": 27,
+      "productCount": 28,
       "totalRankPoints": 0,
-      "productShare": 2.3,
+      "productShare": 2.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "LATAMHire",

@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-19T16:31:07.577Z",
+  "generatedAt": "2026-10-20T14:21:29.814Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1164,
+  "count": 1169,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-10-01T00:00:00.000Z",
@@ -14,7 +14,7 @@
     "monthKey": "2026-10",
     "weekKey": "2026-W43"
   },
-  "lastUpdated": "2026-10-19T06:03:14.794Z",
+  "lastUpdated": "2026-10-20T10:34:55.317Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -13984,6 +13984,66 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-10-19T06:03:14.794Z"
+    },
+    {
+      "id": "newyougo-24a75c51",
+      "name": "NewYouGo",
+      "slug": "newyougo-24a75c51",
+      "url": "https://harpd.com/rank/newyougo-24a75c51/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1165,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-20T03:18:21.797Z"
+    },
+    {
+      "id": "jobsaicopilot-9bc57d83",
+      "name": "JobsAICopilot",
+      "slug": "jobsaicopilot-9bc57d83",
+      "url": "https://harpd.com/rank/jobsaicopilot-9bc57d83/",
+      "category": "hiring",
+      "categoryName": "Hiring",
+      "rank": 1166,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-20T04:21:18.022Z"
+    },
+    {
+      "id": "dopecast-d39811cd",
+      "name": "DopeCast",
+      "slug": "dopecast-d39811cd",
+      "url": "https://harpd.com/rank/dopecast-d39811cd/",
+      "category": "business",
+      "categoryName": "Business",
+      "rank": 1167,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-20T06:32:52.744Z"
+    },
+    {
+      "id": "virtualbudz-budbot-ae7aeeb0",
+      "name": "VirtualBudz BudBot",
+      "slug": "virtualbudz-budbot-ae7aeeb0",
+      "url": "https://harpd.com/rank/virtualbudz-budbot-ae7aeeb0/",
+      "category": "business",
+      "categoryName": "Business",
+      "rank": 1168,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-20T10:34:55.317Z"
+    },
+    {
+      "id": "wudls-d843c59b",
+      "name": "wudls",
+      "slug": "wudls-d843c59b",
+      "url": "https://harpd.com/rank/wudls-d843c59b/",
+      "category": "marketing",
+      "categoryName": "Marketing",
+      "rank": 1169,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-20T06:33:16.531Z"
     }
   ]
 }
