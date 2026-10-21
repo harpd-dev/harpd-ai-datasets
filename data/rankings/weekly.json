@@ -10,8 +10,8 @@
     "periodKey": "2026-W43",
     "periodStart": "2026-10-19T00:00:00.000Z",
     "periodEnd": "2026-10-26T00:00:00.000Z",
-    "generatedAt": "2026-10-20T14:21:29.814Z",
-    "recordCount": 1169,
+    "generatedAt": "2026-10-21T14:31:46.483Z",
+    "recordCount": 1175,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -14042,6 +14042,78 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-10-20T06:33:16.531Z"
+    },
+    {
+      "id": "zombie-trend-a002664c",
+      "name": "Zombie Trend",
+      "slug": "zombie-trend-a002664c",
+      "url": "https://harpd.com/rank/zombie-trend-a002664c/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1170,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-20T16:43:03.300Z"
+    },
+    {
+      "id": "bulin-47-ai-a2653530",
+      "name": "Bulin 47 AI",
+      "slug": "bulin-47-ai-a2653530",
+      "url": "https://harpd.com/rank/bulin-47-ai-a2653530/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1171,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-20T16:43:07.771Z"
+    },
+    {
+      "id": "dime-dime-baby-ai-2d2c2952",
+      "name": "Dime Dime Baby AI",
+      "slug": "dime-dime-baby-ai-2d2c2952",
+      "url": "https://harpd.com/rank/dime-dime-baby-ai-2d2c2952/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1172,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-21T00:22:13.733Z"
+    },
+    {
+      "id": "novastart-9aa8e66b",
+      "name": "Novastart",
+      "slug": "novastart-9aa8e66b",
+      "url": "https://harpd.com/rank/novastart-9aa8e66b/",
+      "category": "productivity",
+      "categoryName": "Productivity",
+      "rank": 1173,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-21T03:15:53.268Z"
+    },
+    {
+      "id": "ai-icon-creator-06fa8be7",
+      "name": "AI Icon Creator",
+      "slug": "ai-icon-creator-06fa8be7",
+      "url": "https://harpd.com/rank/ai-icon-creator-06fa8be7/",
+      "category": "design",
+      "categoryName": "Design",
+      "rank": 1174,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-21T08:59:13.819Z"
+    },
+    {
+      "id": "a2o-lite-neon-ai-dance-c92cd8ab",
+      "name": "A2O LITE NEON AI Dance",
+      "slug": "a2o-lite-neon-ai-dance-c92cd8ab",
+      "url": "https://harpd.com/rank/a2o-lite-neon-ai-dance-c92cd8ab/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1175,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-21T09:35:21.648Z"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-20T14:21:30.012Z",
+  "generatedAt": "2026-10-21T14:31:46.588Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 27,
-  "totalProducts": 1169,
-  "lastUpdated": "2026-10-20T10:34:55.317Z",
+  "totalProducts": 1175,
+  "lastUpdated": "2026-10-21T09:35:21.648Z",
   "categories": [
     {
       "slug": "seo",
@@ -41,13 +41,13 @@
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 77,
+      "productCount": 81,
       "rankedProductCount": 1,
       "totalRankPoints": 258,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-20T03:18:21.797Z"
+      "updatedAt": "2026-10-21T09:35:21.648Z"
     },
     {
       "slug": "marketing",
@@ -80,13 +80,13 @@
       "name": "Productivity",
       "description": "Explore focused products that help people organize, automate and finish work.",
       "url": "https://harpd.com/rank/category/productivity/",
-      "productCount": 51,
+      "productCount": 52,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-19T06:03:14.794Z"
+      "updatedAt": "2026-10-21T03:15:53.268Z"
     },
     {
       "slug": "people",
@@ -106,13 +106,13 @@
       "name": "Design",
       "description": "Discover design tools for interfaces, graphics, prototypes, assets and visual collaboration.",
       "url": "https://harpd.com/rank/category/design/",
-      "productCount": 30,
+      "productCount": 31,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-16T03:05:07.524Z"
+      "updatedAt": "2026-10-21T08:59:13.819Z"
     },
     {
       "slug": "social",
