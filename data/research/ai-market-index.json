@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-21T14:31:46.647Z",
+  "generatedAt": "2026-10-22T14:33:37.714Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1175,
+  "totalProducts": 1180,
   "totalRankPoints": 258,
   "categoryCount": 27,
-  "lastUpdated": "2026-10-21T09:35:21.648Z",
+  "lastUpdated": "2026-10-22T11:58:38.414Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 337,
       "totalRankPoints": 0,
-      "productShare": 28.7,
+      "productShare": 28.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -60,9 +60,9 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 81,
+      "productCount": 84,
       "totalRankPoints": 258,
-      "productShare": 6.9,
+      "productShare": 7.1,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
@@ -182,7 +182,7 @@
       "categoryName": "Health",
       "productCount": 30,
       "totalRankPoints": 0,
-      "productShare": 2.6,
+      "productShare": 2.5,
       "pointsShare": 0,
       "topProduct": {
         "name": "Fuel Log",
@@ -208,6 +208,21 @@
       "boardUrl": "https://harpd.com/rank/category/hiring/"
     },
     {
+      "category": "writing",
+      "categoryName": "Writing",
+      "productCount": 17,
+      "totalRankPoints": 0,
+      "productShare": 1.4,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "StealthGPT",
+        "slug": "stealthgpt",
+        "url": "https://harpd.com/rank/stealthgpt/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/writing/"
+    },
+    {
       "category": "sales",
       "categoryName": "Sales",
       "productCount": 17,
@@ -223,26 +238,11 @@
       "boardUrl": "https://harpd.com/rank/category/sales/"
     },
     {
-      "category": "writing",
-      "categoryName": "Writing",
+      "category": "social",
+      "categoryName": "Social",
       "productCount": 16,
       "totalRankPoints": 0,
       "productShare": 1.4,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "StealthGPT",
-        "slug": "stealthgpt",
-        "url": "https://harpd.com/rank/stealthgpt/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/writing/"
-    },
-    {
-      "category": "social",
-      "categoryName": "Social",
-      "productCount": 15,
-      "totalRankPoints": 0,
-      "productShare": 1.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "ContentStudio",
@@ -317,7 +317,7 @@
       "categoryName": "Directories",
       "productCount": 10,
       "totalRankPoints": 0,
-      "productShare": 0.9,
+      "productShare": 0.8,
       "pointsShare": 0,
       "topProduct": {
         "name": "Neeed",

@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-21T14:31:46.483Z",
+  "generatedAt": "2026-10-22T14:33:37.470Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1175,
+  "count": 1180,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-10-01T00:00:00.000Z",
@@ -14,7 +14,7 @@
     "monthKey": "2026-10",
     "weekKey": "2026-W43"
   },
-  "lastUpdated": "2026-10-21T09:35:21.648Z",
+  "lastUpdated": "2026-10-22T11:58:38.414Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -14116,6 +14116,66 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-10-21T09:35:21.648Z"
+    },
+    {
+      "id": "videotranscriber-bbdabc4f",
+      "name": "videotranscriber",
+      "slug": "videotranscriber-bbdabc4f",
+      "url": "https://harpd.com/rank/videotranscriber-bbdabc4f/",
+      "category": "writing",
+      "categoryName": "Writing",
+      "rank": 1176,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-22T00:54:08.162Z"
+    },
+    {
+      "id": "meme-video-maker-c572d4ac",
+      "name": "Meme Video Maker",
+      "slug": "meme-video-maker-c572d4ac",
+      "url": "https://harpd.com/rank/meme-video-maker-c572d4ac/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1177,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-22T05:08:40.268Z"
+    },
+    {
+      "id": "trending-ai-video-a95093af",
+      "name": "Trending AI Video",
+      "slug": "trending-ai-video-a95093af",
+      "url": "https://harpd.com/rank/trending-ai-video-a95093af/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1178,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-22T08:05:19.978Z"
+    },
+    {
+      "id": "erolove-3318ecdd",
+      "name": "EroLove",
+      "slug": "erolove-3318ecdd",
+      "url": "https://harpd.com/rank/erolove-3318ecdd/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1179,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-22T11:47:13.101Z"
+    },
+    {
+      "id": "riff-bba52739",
+      "name": "Riff",
+      "slug": "riff-bba52739",
+      "url": "https://harpd.com/rank/riff-bba52739/",
+      "category": "social",
+      "categoryName": "Social",
+      "rank": 1180,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-22T11:58:38.414Z"
     }
   ]
 }

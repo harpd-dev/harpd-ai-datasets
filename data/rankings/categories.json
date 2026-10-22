@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-21T14:31:46.588Z",
+  "generatedAt": "2026-10-22T14:33:37.606Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 27,
-  "totalProducts": 1175,
-  "lastUpdated": "2026-10-21T09:35:21.648Z",
+  "totalProducts": 1180,
+  "lastUpdated": "2026-10-22T11:58:38.414Z",
   "categories": [
     {
       "slug": "seo",
@@ -41,13 +41,13 @@
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 81,
+      "productCount": 84,
       "rankedProductCount": 1,
       "totalRankPoints": 258,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-21T09:35:21.648Z"
+      "updatedAt": "2026-10-22T11:47:13.101Z"
     },
     {
       "slug": "marketing",
@@ -119,26 +119,26 @@
       "name": "Social",
       "description": "Explore products for social media management, scheduling, engagement and audience growth.",
       "url": "https://harpd.com/rank/category/social/",
-      "productCount": 15,
-      "rankedProductCount": 0,
-      "totalRankPoints": 0,
-      "state": "LISTED_NO_RP",
-      "topRankOpen": true,
-      "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
-    },
-    {
-      "slug": "writing",
-      "name": "Writing",
-      "description": "Discover writing assistants, editors and publishing tools for drafting and polishing text.",
-      "url": "https://harpd.com/rank/category/writing/",
       "productCount": 16,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-10-22T11:58:38.414Z"
+    },
+    {
+      "slug": "writing",
+      "name": "Writing",
+      "description": "Discover writing assistants, editors and publishing tools for drafting and polishing text.",
+      "url": "https://harpd.com/rank/category/writing/",
+      "productCount": 17,
+      "rankedProductCount": 0,
+      "totalRankPoints": 0,
+      "state": "LISTED_NO_RP",
+      "topRankOpen": true,
+      "createdAt": "2026-08-27T05:51:37.802Z",
+      "updatedAt": "2026-10-22T00:54:08.162Z"
     },
     {
       "slug": "sales",
