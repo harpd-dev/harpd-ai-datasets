@@ -1,23 +1,23 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-22T14:33:37.714Z",
+  "generatedAt": "2026-10-23T14:17:08.030Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1180,
+  "totalProducts": 1184,
   "totalRankPoints": 258,
   "categoryCount": 27,
-  "lastUpdated": "2026-10-22T11:58:38.414Z",
+  "lastUpdated": "2026-10-23T12:53:35.405Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
       "category": "other",
       "categoryName": "Other",
-      "productCount": 337,
+      "productCount": 338,
       "totalRankPoints": 0,
-      "productShare": 28.6,
+      "productShare": 28.5,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -32,7 +32,7 @@
       "categoryName": "Developer",
       "productCount": 145,
       "totalRankPoints": 0,
-      "productShare": 12.3,
+      "productShare": 12.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "Cursor",
@@ -45,9 +45,9 @@
     {
       "category": "agents",
       "categoryName": "Agents",
-      "productCount": 85,
+      "productCount": 86,
       "totalRankPoints": 0,
-      "productShare": 7.2,
+      "productShare": 7.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "Claude",
@@ -60,9 +60,9 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 84,
+      "productCount": 85,
       "totalRankPoints": 258,
-      "productShare": 7.1,
+      "productShare": 7.2,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
@@ -92,7 +92,7 @@
       "categoryName": "SEO",
       "productCount": 62,
       "totalRankPoints": 0,
-      "productShare": 5.3,
+      "productShare": 5.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "Semrush",
@@ -283,6 +283,21 @@
       "boardUrl": "https://harpd.com/rank/category/travel/"
     },
     {
+      "category": "games",
+      "categoryName": "Games",
+      "productCount": 12,
+      "totalRankPoints": 0,
+      "productShare": 1,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "Arrow Horde",
+        "slug": "arrow-horde",
+        "url": "https://harpd.com/rank/arrow-horde/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/games/"
+    },
+    {
       "category": "leaderboards",
       "categoryName": "Leaderboards",
       "productCount": 11,
@@ -296,21 +311,6 @@
         "rankPoints": 0
       },
       "boardUrl": "https://harpd.com/rank/category/leaderboards/"
-    },
-    {
-      "category": "games",
-      "categoryName": "Games",
-      "productCount": 11,
-      "totalRankPoints": 0,
-      "productShare": 0.9,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "Arrow Horde",
-        "slug": "arrow-horde",
-        "url": "https://harpd.com/rank/arrow-horde/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/games/"
     },
     {
       "category": "directories",

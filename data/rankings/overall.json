@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-22T14:33:37.470Z",
+  "generatedAt": "2026-10-23T14:17:07.720Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1180,
+  "count": 1184,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-10-01T00:00:00.000Z",
@@ -14,7 +14,7 @@
     "monthKey": "2026-10",
     "weekKey": "2026-W43"
   },
-  "lastUpdated": "2026-10-22T11:58:38.414Z",
+  "lastUpdated": "2026-10-23T12:53:35.405Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -14176,6 +14176,54 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-10-22T11:58:38.414Z"
+    },
+    {
+      "id": "a-little-love-for-you-f4e604fd",
+      "name": "A Little Love for You",
+      "slug": "a-little-love-for-you-f4e604fd",
+      "url": "https://harpd.com/rank/a-little-love-for-you-f4e604fd/",
+      "category": "other",
+      "categoryName": "Other",
+      "rank": 1181,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-22T16:39:28.047Z"
+    },
+    {
+      "id": "80-18504944",
+      "name": "80億分之一",
+      "slug": "80-18504944",
+      "url": "https://harpd.com/rank/80-18504944/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 1182,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-22T21:50:49.950Z"
+    },
+    {
+      "id": "cadcraft-0f111a9b",
+      "name": "CADCraft",
+      "slug": "cadcraft-0f111a9b",
+      "url": "https://harpd.com/rank/cadcraft-0f111a9b/",
+      "category": "agents",
+      "categoryName": "Agents",
+      "rank": 1183,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-22T23:39:17.074Z"
+    },
+    {
+      "id": "vellm-d09cb5ad",
+      "name": "Vellm",
+      "slug": "vellm-d09cb5ad",
+      "url": "https://harpd.com/rank/vellm-d09cb5ad/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1184,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-23T12:53:35.405Z"
     }
   ]
 }

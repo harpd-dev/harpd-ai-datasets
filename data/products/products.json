@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-22T14:33:37.216Z",
+  "generatedAt": "2026-10-23T14:17:07.392Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1180,
-  "lastUpdated": "2026-10-22T11:58:38.414Z",
+  "count": 1184,
+  "lastUpdated": "2026-10-23T12:53:35.405Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -17706,6 +17706,66 @@
       "updatedAt": "2026-10-22T11:58:38.414Z",
       "website": "https://riffreply.com/",
       "description": "Riff is a free Chrome extension that drafts posts, replies and DMs for X, LinkedIn, Facebook and Instagram right in your browser. It runs on-device with Chrome's built-in Gemini Nano, so your text never leaves your computer. No account, no API key, free.",
+      "productType": null
+    },
+    {
+      "id": "a-little-love-for-you-f4e604fd",
+      "name": "A Little Love for You",
+      "slug": "a-little-love-for-you-f4e604fd",
+      "url": "https://harpd.com/rank/a-little-love-for-you-f4e604fd/",
+      "category": "other",
+      "categoryName": "Other",
+      "rank": 1181,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-22T16:39:28.047Z",
+      "website": "https://alittleloveforyou.app/",
+      "description": "A Little Love for You is a free virtual gift box maker. Write a love letter, draw a sticker, add a short melody, and share it in one link. No sign-up.",
+      "productType": null
+    },
+    {
+      "id": "80-18504944",
+      "name": "80億分之一",
+      "slug": "80-18504944",
+      "url": "https://harpd.com/rank/80-18504944/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 1182,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-22T21:50:49.950Z",
+      "website": "https://xn--80-wu2cnl73jixb.com/",
+      "description": "A free life simulation game where your birthplace and family are randomized. Make decisions about education, work, relationships, and migration, then live one life to its end.",
+      "productType": null
+    },
+    {
+      "id": "cadcraft-0f111a9b",
+      "name": "CADCraft",
+      "slug": "cadcraft-0f111a9b",
+      "url": "https://harpd.com/rank/cadcraft-0f111a9b/",
+      "category": "agents",
+      "categoryName": "Agents",
+      "rank": 1183,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-22T23:39:17.074Z",
+      "website": "https://cadcraft.org/",
+      "description": "CADCraft is a free, open-source 2D CAD application built in Rust for precise drafting and technical documentation. It supports DWG and DXF workflows and adds AI-assisted automation through MCP, JSON, and CLI tools.",
+      "productType": null
+    },
+    {
+      "id": "vellm-d09cb5ad",
+      "name": "Vellm",
+      "slug": "vellm-d09cb5ad",
+      "url": "https://harpd.com/rank/vellm-d09cb5ad/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1184,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-23T12:53:35.405Z",
+      "website": "https://vellm.app/",
+      "description": "Vellm turns photos of people and pets into short AI videos with ready-made templates. Templates show required inputs and credit costs before generation. Create Studio also supports video remakes, image-to-video, text-to-video and image generation. Paid credit packs start at US$4.49, with optional monthly plans and no free trial.",
       "productType": null
     }
   ]
