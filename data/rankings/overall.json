@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-23T14:17:07.720Z",
+  "generatedAt": "2026-10-24T13:23:08.484Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1184,
+  "count": 1188,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-10-01T00:00:00.000Z",
@@ -14,7 +14,7 @@
     "monthKey": "2026-10",
     "weekKey": "2026-W43"
   },
-  "lastUpdated": "2026-10-23T12:53:35.405Z",
+  "lastUpdated": "2026-10-24T07:08:44.029Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -14224,6 +14224,54 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-10-23T12:53:35.405Z"
+    },
+    {
+      "id": "wordgeneratorpictionary-bd584db3",
+      "name": "Wordgeneratorpictionary",
+      "slug": "wordgeneratorpictionary-bd584db3",
+      "url": "https://harpd.com/rank/wordgeneratorpictionary-bd584db3/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 1185,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-23T16:47:54.801Z"
+    },
+    {
+      "id": "dotcurio-b6670e36",
+      "name": "DotCurio",
+      "slug": "dotcurio-b6670e36",
+      "url": "https://harpd.com/rank/dotcurio-b6670e36/",
+      "category": "directories",
+      "categoryName": "Directories",
+      "rank": 1186,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-24T06:23:39.368Z"
+    },
+    {
+      "id": "1-in-8-billion-bb04f49e",
+      "name": "1 in 8 Billion",
+      "slug": "1-in-8-billion-bb04f49e",
+      "url": "https://harpd.com/rank/1-in-8-billion-bb04f49e/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 1187,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-24T06:58:25.213Z"
+    },
+    {
+      "id": "ace-step-950f4520",
+      "name": "ACE-Step",
+      "slug": "ace-step-950f4520",
+      "url": "https://harpd.com/rank/ace-step-950f4520/",
+      "category": "audio",
+      "categoryName": "Audio",
+      "rank": 1188,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-24T07:08:44.029Z"
     }
   ]
 }

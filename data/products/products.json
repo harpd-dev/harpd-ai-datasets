@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-23T14:17:07.392Z",
+  "generatedAt": "2026-10-24T13:23:08.252Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1184,
-  "lastUpdated": "2026-10-23T12:53:35.405Z",
+  "count": 1188,
+  "lastUpdated": "2026-10-24T07:08:44.029Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -17766,6 +17766,66 @@
       "updatedAt": "2026-10-23T12:53:35.405Z",
       "website": "https://vellm.app/",
       "description": "Vellm turns photos of people and pets into short AI videos with ready-made templates. Templates show required inputs and credit costs before generation. Create Studio also supports video remakes, image-to-video, text-to-video and image generation. Paid credit packs start at US$4.49, with optional monthly plans and no free trial.",
+      "productType": null
+    },
+    {
+      "id": "wordgeneratorpictionary-bd584db3",
+      "name": "Wordgeneratorpictionary",
+      "slug": "wordgeneratorpictionary-bd584db3",
+      "url": "https://harpd.com/rank/wordgeneratorpictionary-bd584db3/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 1185,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-23T16:47:54.801Z",
+      "website": "https://wordgeneratorpictionary.com/",
+      "description": "A free online Pictionary word generator with 1,291 words in 8 categories and three difficulty levels. It has a 30, 60 or 90 second timer, team scores and a sketch pad, works in 10 languages, and needs no signup.",
+      "productType": null
+    },
+    {
+      "id": "dotcurio-b6670e36",
+      "name": "DotCurio",
+      "slug": "dotcurio-b6670e36",
+      "url": "https://harpd.com/rank/dotcurio-b6670e36/",
+      "category": "directories",
+      "categoryName": "Directories",
+      "rank": 1186,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-24T06:23:39.368Z",
+      "website": "https://dotcurio.com/",
+      "description": "DotCurio is a high-signal directory for AI and creative products. Submit your product, compare alternatives, and make faster decisions. It organizes AI products and creative tools with tags for product discovery and tool comparison.",
+      "productType": null
+    },
+    {
+      "id": "1-in-8-billion-bb04f49e",
+      "name": "1 in 8 Billion",
+      "slug": "1-in-8-billion-bb04f49e",
+      "url": "https://harpd.com/rank/1-in-8-billion-bb04f49e/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 1187,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-24T06:58:25.213Z",
+      "website": "https://1in8billion.site/",
+      "description": "A free life simulation game where your birthplace and family are determined at random. Make choices about education, work, love, and migration, then live one unique life through to the end.",
+      "productType": null
+    },
+    {
+      "id": "ace-step-950f4520",
+      "name": "ACE-Step",
+      "slug": "ace-step-950f4520",
+      "url": "https://harpd.com/rank/ace-step-950f4520/",
+      "category": "audio",
+      "categoryName": "Audio",
+      "rank": 1188,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-24T07:08:44.029Z",
+      "website": "https://ace-step.club/",
+      "description": "ACE-Step is an open-source foundation model for music generation that delivers state-of-the-art performance. Create original songs and instrumental tracks with fine-grained control over style, lyrics, and arrangement. Explore it at ace-step.club.",
       "productType": null
     }
   ]
