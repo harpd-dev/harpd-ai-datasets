@@ -10,8 +10,8 @@
     "periodKey": "2026-10",
     "periodStart": "2026-10-01T00:00:00.000Z",
     "periodEnd": "2026-11-01T00:00:00.000Z",
-    "generatedAt": "2026-10-24T13:23:08.484Z",
-    "recordCount": 1188,
+    "generatedAt": "2026-10-25T13:45:12.647Z",
+    "recordCount": 1191,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -14270,6 +14270,42 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-10-24T07:08:44.029Z"
+    },
+    {
+      "id": "ai-angels-2f035549",
+      "name": "AI Angels",
+      "slug": "ai-angels-2f035549",
+      "url": "https://harpd.com/rank/ai-angels-2f035549/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1189,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-24T18:59:59.983Z"
+    },
+    {
+      "id": "aimusicgen-43ccd13d",
+      "name": "Aimusicgen",
+      "slug": "aimusicgen-43ccd13d",
+      "url": "https://harpd.com/rank/aimusicgen-43ccd13d/",
+      "category": "audio",
+      "categoryName": "Audio",
+      "rank": 1190,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-25T02:12:13.763Z"
+    },
+    {
+      "id": "video-text-remover-ai-60065260",
+      "name": "Video Text Remover AI",
+      "slug": "video-text-remover-ai-60065260",
+      "url": "https://harpd.com/rank/video-text-remover-ai-60065260/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1191,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-25T07:43:11.258Z"
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-24T13:23:08.734Z",
+  "generatedAt": "2026-10-25T13:45:12.856Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1188,
+  "totalProducts": 1191,
   "totalRankPoints": 258,
   "categoryCount": 27,
-  "lastUpdated": "2026-10-24T07:08:44.029Z",
+  "lastUpdated": "2026-10-25T07:43:11.258Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 338,
       "totalRankPoints": 0,
-      "productShare": 28.5,
+      "productShare": 28.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -43,6 +43,21 @@
       "boardUrl": "https://harpd.com/rank/category/developer/"
     },
     {
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "productCount": 87,
+      "totalRankPoints": 258,
+      "productShare": 7.3,
+      "pointsShare": 100,
+      "topProduct": {
+        "name": "imgkit",
+        "slug": "imgkit-86d32f3e",
+        "url": "https://harpd.com/rank/imgkit-86d32f3e/",
+        "rankPoints": 258
+      },
+      "boardUrl": "https://harpd.com/rank/category/ai-media/"
+    },
+    {
       "category": "agents",
       "categoryName": "Agents",
       "productCount": 86,
@@ -56,21 +71,6 @@
         "rankPoints": 0
       },
       "boardUrl": "https://harpd.com/rank/category/agents/"
-    },
-    {
-      "category": "ai-media",
-      "categoryName": "AI Media",
-      "productCount": 85,
-      "totalRankPoints": 258,
-      "productShare": 7.2,
-      "pointsShare": 100,
-      "topProduct": {
-        "name": "imgkit",
-        "slug": "imgkit-86d32f3e",
-        "url": "https://harpd.com/rank/imgkit-86d32f3e/",
-        "rankPoints": 258
-      },
-      "boardUrl": "https://harpd.com/rank/category/ai-media/"
     },
     {
       "category": "marketing",
@@ -120,7 +120,7 @@
     {
       "category": "audio",
       "categoryName": "Audio",
-      "productCount": 41,
+      "productCount": 42,
       "totalRankPoints": 0,
       "productShare": 3.5,
       "pointsShare": 0,

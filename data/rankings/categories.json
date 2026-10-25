@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-24T13:23:08.644Z",
+  "generatedAt": "2026-10-25T13:45:12.771Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 27,
-  "totalProducts": 1188,
-  "lastUpdated": "2026-10-24T07:08:44.029Z",
+  "totalProducts": 1191,
+  "lastUpdated": "2026-10-25T07:43:11.258Z",
   "categories": [
     {
       "slug": "seo",
@@ -41,13 +41,13 @@
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 85,
+      "productCount": 87,
       "rankedProductCount": 1,
       "totalRankPoints": 258,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-23T12:53:35.405Z"
+      "updatedAt": "2026-10-25T07:43:11.258Z"
     },
     {
       "slug": "marketing",
@@ -249,13 +249,13 @@
       "name": "Audio",
       "description": "Explore music, podcasting, voice and sound production tools.",
       "url": "https://harpd.com/rank/category/audio/",
-      "productCount": 41,
+      "productCount": 42,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-10-24T07:08:44.029Z"
+      "updatedAt": "2026-10-25T02:12:13.763Z"
     },
     {
       "slug": "crypto",
