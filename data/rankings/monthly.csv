@@ -1,5 +1,5 @@
 id,name,slug,url,category,categoryName,rank,rankPoints,verified,updatedAt
-imgkit-86d32f3e,imgkit,imgkit-86d32f3e,https://harpd.com/rank/imgkit-86d32f3e/,ai-media,AI Media,1,258,true,2026-08-28T05:03:03.444Z
+imgkit-86d32f3e,imgkit,imgkit-86d32f3e,https://harpd.com/rank/imgkit-86d32f3e/,ai-media,AI Media,1,268,true,2026-08-28T05:03:03.444Z
 claude,Claude,claude,https://harpd.com/rank/claude/,agents,Agents,2,0,false,2026-08-27T06:14:04.721Z
 perplexity,Perplexity,perplexity,https://harpd.com/rank/perplexity/,agents,Agents,3,0,false,2026-08-27T06:14:34.241Z
 gemini,Gemini,gemini,https://harpd.com/rank/gemini/,agents,Agents,4,0,false,2026-08-27T06:14:37.079Z
@@ -1179,3 +1179,37 @@ meme-video-maker-c572d4ac,Meme Video Maker,meme-video-maker-c572d4ac,https://har
 trending-ai-video-a95093af,Trending AI Video,trending-ai-video-a95093af,https://harpd.com/rank/trending-ai-video-a95093af/,ai-media,AI Media,1178,0,false,2026-10-22T08:05:19.978Z
 erolove-3318ecdd,EroLove,erolove-3318ecdd,https://harpd.com/rank/erolove-3318ecdd/,ai-media,AI Media,1179,0,true,2026-10-22T11:47:13.101Z
 riff-bba52739,Riff,riff-bba52739,https://harpd.com/rank/riff-bba52739/,social,Social,1180,0,false,2026-10-22T11:58:38.414Z
+a-little-love-for-you-f4e604fd,A Little Love for You,a-little-love-for-you-f4e604fd,https://harpd.com/rank/a-little-love-for-you-f4e604fd/,other,Other,1181,0,false,2026-10-22T16:39:28.047Z
+80-18504944,80億分之一,80-18504944,https://harpd.com/rank/80-18504944/,games,Games,1182,0,false,2026-10-22T21:50:49.950Z
+cadcraft-0f111a9b,CADCraft,cadcraft-0f111a9b,https://harpd.com/rank/cadcraft-0f111a9b/,agents,Agents,1183,0,false,2026-10-22T23:39:17.074Z
+vellm-d09cb5ad,Vellm,vellm-d09cb5ad,https://harpd.com/rank/vellm-d09cb5ad/,ai-media,AI Media,1184,0,true,2026-10-23T12:53:35.405Z
+wordgeneratorpictionary-bd584db3,Wordgeneratorpictionary,wordgeneratorpictionary-bd584db3,https://harpd.com/rank/wordgeneratorpictionary-bd584db3/,games,Games,1185,0,false,2026-10-23T16:47:54.801Z
+dotcurio-b6670e36,DotCurio,dotcurio-b6670e36,https://harpd.com/rank/dotcurio-b6670e36/,directories,Directories,1186,0,false,2026-10-24T06:23:39.368Z
+1-in-8-billion-bb04f49e,1 in 8 Billion,1-in-8-billion-bb04f49e,https://harpd.com/rank/1-in-8-billion-bb04f49e/,games,Games,1187,0,false,2026-10-24T06:58:25.213Z
+ace-step-950f4520,ACE-Step,ace-step-950f4520,https://harpd.com/rank/ace-step-950f4520/,audio,Audio,1188,0,false,2026-10-24T07:08:44.029Z
+ai-angels-2f035549,AI Angels,ai-angels-2f035549,https://harpd.com/rank/ai-angels-2f035549/,ai-media,AI Media,1189,0,true,2026-10-24T18:59:59.983Z
+aimusicgen-43ccd13d,Aimusicgen,aimusicgen-43ccd13d,https://harpd.com/rank/aimusicgen-43ccd13d/,audio,Audio,1190,0,true,2026-10-25T02:12:13.763Z
+video-text-remover-ai-60065260,Video Text Remover AI,video-text-remover-ai-60065260,https://harpd.com/rank/video-text-remover-ai-60065260/,ai-media,AI Media,1191,0,true,2026-10-25T07:43:11.258Z
+reelboop-ea542c6e,ReelBoop,reelboop-ea542c6e,https://harpd.com/rank/reelboop-ea542c6e/,ai-media,AI Media,1192,0,false,2026-10-25T15:33:55.866Z
+aion-2-class-finder-1cb4fff2,AION 2 Class Finder,aion-2-class-finder-1cb4fff2,https://harpd.com/rank/aion-2-class-finder-1cb4fff2/,games,Games,1193,0,false,2026-10-25T16:10:21.542Z
+airapvideo-c1d805ba,airapvideo,airapvideo-c1d805ba,https://harpd.com/rank/airapvideo-c1d805ba/,ai-media,AI Media,1194,0,false,2026-10-25T23:51:02.459Z
+jobjump-germany-00053702,JobJump Germany,jobjump-germany-00053702,https://harpd.com/rank/jobjump-germany-00053702/,hiring,Hiring,1195,0,true,2026-10-26T15:39:51.862Z
+jevmodel-5604a01d,JevModel,jevmodel-5604a01d,https://harpd.com/rank/jevmodel-5604a01d/,productivity,Productivity,1196,0,false,2026-10-26T16:58:15.874Z
+erasenoise-3339e6aa,EraseNoise,erasenoise-3339e6aa,https://harpd.com/rank/erasenoise-3339e6aa/,audio,Audio,1197,0,false,2026-10-27T07:44:33.328Z
+artly-ai-717bbbbc,Artly AI,artly-ai-717bbbbc,https://harpd.com/rank/artly-ai-717bbbbc/,ai-media,AI Media,1198,0,false,2026-10-27T16:26:20.302Z
+raseed-5c344ba2,Raseed,raseed-5c344ba2,https://harpd.com/rank/raseed-5c344ba2/,business,Business,1199,0,true,2026-10-28T04:12:25.774Z
+toolatrium-a36ac10b,ToolAtrium,toolatrium-a36ac10b,https://harpd.com/rank/toolatrium-a36ac10b/,directories,Directories,1200,0,false,2026-10-28T14:12:52.318Z
+image2-5-2d16ebee,Image2.5,image2-5-2d16ebee,https://harpd.com/rank/image2-5-2d16ebee/,ai-media,AI Media,1201,0,false,2026-10-28T16:39:39.404Z
+1-in-65-million-a828d7a2,1 in 65 million,1-in-65-million-a828d7a2,https://harpd.com/rank/1-in-65-million-a828d7a2/,games,Games,1202,0,false,2026-10-28T20:01:33.289Z
+book-cover-generator-84099c24,Book Cover Generator,book-cover-generator-84099c24,https://harpd.com/rank/book-cover-generator-84099c24/,ai-media,AI Media,1203,0,false,2026-10-29T05:00:23.317Z
+ai-music-mastering-5b624fa7,AI Music Mastering,ai-music-mastering-5b624fa7,https://harpd.com/rank/ai-music-mastering-5b624fa7/,audio,Audio,1204,0,false,2026-10-29T05:54:53.581Z
+image3d-d5ce324a,Image3D,image3d-d5ce324a,https://harpd.com/rank/image3d-d5ce324a/,ai-media,AI Media,1205,0,false,2026-10-29T09:32:08.787Z
+prompttovisual-e00bcac2,PromptToVisual,prompttovisual-e00bcac2,https://harpd.com/rank/prompttovisual-e00bcac2/,ai-media,AI Media,1206,0,false,2026-10-29T09:32:29.097Z
+ai-translate-manga-d98a22fc,AI Translate Manga,ai-translate-manga-d98a22fc,https://harpd.com/rank/ai-translate-manga-d98a22fc/,ai-media,AI Media,1207,0,false,2026-10-29T09:32:45.318Z
+extract-stems-82ba2e8c,Extract Stems,extract-stems-82ba2e8c,https://harpd.com/rank/extract-stems-82ba2e8c/,audio,Audio,1208,0,false,2026-10-29T09:33:46.761Z
+bankstatementmate-1a333093,BankStatementMate,bankstatementmate-1a333093,https://harpd.com/rank/bankstatementmate-1a333093/,business,Business,1209,0,false,2026-10-29T09:34:10.137Z
+giftablesong-0eba5e57,GiftableSong,giftablesong-0eba5e57,https://harpd.com/rank/giftablesong-0eba5e57/,audio,Audio,1210,0,false,2026-10-29T09:34:32.873Z
+firestarter-kda-dance-9d4672f9,Firestarter KDA Dance,firestarter-kda-dance-9d4672f9,https://harpd.com/rank/firestarter-kda-dance-9d4672f9/,ai-media,AI Media,1211,0,false,2026-10-29T09:34:46.237Z
+aitoolfinder-137aeae9,AIToolFinder,aitoolfinder-137aeae9,https://harpd.com/rank/aitoolfinder-137aeae9/,directories,Directories,1212,0,false,2026-10-29T09:35:05.157Z
+agent-skills-hub-db63ca2e,Agent Skills Hub,agent-skills-hub-db63ca2e,https://harpd.com/rank/agent-skills-hub-db63ca2e/,agents,Agents,1213,0,false,2026-10-29T09:35:18.465Z
+serversearcher-126296a3,ServerSearcher,serversearcher-126296a3,https://harpd.com/rank/serversearcher-126296a3/,directories,Directories,1214,0,true,2026-10-29T14:40:22.048Z

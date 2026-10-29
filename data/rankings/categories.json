@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-28T16:08:00.785Z",
+  "generatedAt": "2026-10-29T16:14:06.963Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 27,
-  "totalProducts": 1180,
-  "lastUpdated": "2026-10-22T11:58:38.414Z",
+  "totalProducts": 1214,
+  "lastUpdated": "2026-10-29T14:40:22.048Z",
   "categories": [
     {
       "slug": "seo",
@@ -28,26 +28,26 @@
       "name": "Agents",
       "description": "Explore agent platforms, autonomous workflows, orchestration tools and practical AI agent products.",
       "url": "https://harpd.com/rank/category/agents/",
-      "productCount": 85,
+      "productCount": 87,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-09-24T08:36:10.947Z"
+      "updatedAt": "2026-10-29T09:35:18.465Z"
     },
     {
       "slug": "ai-media",
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 84,
+      "productCount": 96,
       "rankedProductCount": 1,
-      "totalRankPoints": 258,
+      "totalRankPoints": 268,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-22T11:47:13.101Z"
+      "updatedAt": "2026-10-29T09:34:46.237Z"
     },
     {
       "slug": "marketing",
@@ -80,13 +80,13 @@
       "name": "Productivity",
       "description": "Explore focused products that help people organize, automate and finish work.",
       "url": "https://harpd.com/rank/category/productivity/",
-      "productCount": 52,
+      "productCount": 53,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-21T03:15:53.268Z"
+      "updatedAt": "2026-10-26T16:58:15.874Z"
     },
     {
       "slug": "people",
@@ -158,26 +158,26 @@
       "name": "Business",
       "description": "Discover operations, finance, legal and admin products that run the back office.",
       "url": "https://harpd.com/rank/category/business/",
-      "productCount": 40,
+      "productCount": 42,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-20T10:34:55.317Z"
+      "updatedAt": "2026-10-29T09:34:10.137Z"
     },
     {
       "slug": "games",
       "name": "Games",
       "description": "Explore games, interactive experiences and tools for making or playing them.",
       "url": "https://harpd.com/rank/category/games/",
-      "productCount": 11,
+      "productCount": 16,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-10-16T17:19:32.001Z"
+      "updatedAt": "2026-10-28T20:01:33.289Z"
     },
     {
       "slug": "education",
@@ -223,39 +223,39 @@
       "name": "Directories",
       "description": "Explore directories, catalogues and curated lists that organize products or information.",
       "url": "https://harpd.com/rank/category/directories/",
-      "productCount": 10,
+      "productCount": 14,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-10-16T21:32:18.097Z"
+      "updatedAt": "2026-10-29T14:40:22.048Z"
     },
     {
       "slug": "hiring",
       "name": "Hiring",
       "description": "Discover job boards, applicant tracking, sourcing and recruiting workflow products.",
       "url": "https://harpd.com/rank/category/hiring/",
-      "productCount": 28,
+      "productCount": 29,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-20T04:21:18.022Z"
+      "updatedAt": "2026-10-26T15:39:51.862Z"
     },
     {
       "slug": "audio",
       "name": "Audio",
       "description": "Explore music, podcasting, voice and sound production tools.",
       "url": "https://harpd.com/rank/category/audio/",
-      "productCount": 40,
+      "productCount": 46,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-10-29T09:34:32.873Z"
     },
     {
       "slug": "crypto",
@@ -366,13 +366,13 @@
       "name": "Other",
       "description": "Explore the products that do not yet fit a defined Harpd category.",
       "url": "https://harpd.com/rank/category/other/",
-      "productCount": 337,
+      "productCount": 338,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-09T07:06:40.831Z",
-      "updatedAt": "2026-10-11T08:35:27.894Z"
+      "updatedAt": "2026-10-22T16:39:28.047Z"
     }
   ]
 }
