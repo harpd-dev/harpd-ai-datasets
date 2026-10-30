@@ -10,8 +10,8 @@
     "periodKey": "2026-W44",
     "periodStart": "2026-10-26T00:00:00.000Z",
     "periodEnd": "2026-11-02T00:00:00.000Z",
-    "generatedAt": "2026-10-29T16:14:06.843Z",
-    "recordCount": 1214,
+    "generatedAt": "2026-10-30T15:59:37.685Z",
+    "recordCount": 1224,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -14582,6 +14582,126 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-10-29T14:40:22.048Z"
+    },
+    {
+      "id": "tosong-485db63c",
+      "name": "ToSong",
+      "slug": "tosong-485db63c",
+      "url": "https://harpd.com/rank/tosong-485db63c/",
+      "category": "audio",
+      "categoryName": "Audio",
+      "rank": 1215,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-29T16:15:42.440Z"
+    },
+    {
+      "id": "huobidex-b2458f18",
+      "name": "Huobidex",
+      "slug": "huobidex-b2458f18",
+      "url": "https://harpd.com/rank/huobidex-b2458f18/",
+      "category": "directories",
+      "categoryName": "Directories",
+      "rank": 1216,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-30T01:08:46.624Z"
+    },
+    {
+      "id": "curateclick-1be8bbaf",
+      "name": "CurateClick",
+      "slug": "curateclick-1be8bbaf",
+      "url": "https://harpd.com/rank/curateclick-1be8bbaf/",
+      "category": "directories",
+      "categoryName": "Directories",
+      "rank": 1217,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-30T01:25:08.565Z"
+    },
+    {
+      "id": "british-accent-generator-abcf81cc",
+      "name": "British Accent Generator",
+      "slug": "british-accent-generator-abcf81cc",
+      "url": "https://harpd.com/rank/british-accent-generator-abcf81cc/",
+      "category": "audio",
+      "categoryName": "Audio",
+      "rank": 1218,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-30T03:01:07.883Z"
+    },
+    {
+      "id": "aireiter-9f76a26a",
+      "name": "AIReiter",
+      "slug": "aireiter-9f76a26a",
+      "url": "https://harpd.com/rank/aireiter-9f76a26a/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1219,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-30T03:45:24.459Z"
+    },
+    {
+      "id": "artcraft-57aa8ec5",
+      "name": "ArtCraft",
+      "slug": "artcraft-57aa8ec5",
+      "url": "https://harpd.com/rank/artcraft-57aa8ec5/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1220,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-30T09:14:40.161Z"
+    },
+    {
+      "id": "filmcraft-ddba1123",
+      "name": "FilmCraft",
+      "slug": "filmcraft-ddba1123",
+      "url": "https://harpd.com/rank/filmcraft-ddba1123/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1221,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-30T09:14:55.541Z"
+    },
+    {
+      "id": "dola-ai-7fb0699c",
+      "name": "Dola AI",
+      "slug": "dola-ai-7fb0699c",
+      "url": "https://harpd.com/rank/dola-ai-7fb0699c/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1222,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-30T09:15:05.462Z"
+    },
+    {
+      "id": "skimr-c089e085",
+      "name": "Skimr",
+      "slug": "skimr-c089e085",
+      "url": "https://harpd.com/rank/skimr-c089e085/",
+      "category": "news",
+      "categoryName": "News",
+      "rank": 1223,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-30T14:13:15.457Z"
+    },
+    {
+      "id": "zlogin-44d23080",
+      "name": "ZLogin",
+      "slug": "zlogin-44d23080",
+      "url": "https://harpd.com/rank/zlogin-44d23080/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1224,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-30T14:58:12.199Z"
     }
   ]
 }
