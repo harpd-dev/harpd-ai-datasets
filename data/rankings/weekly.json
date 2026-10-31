@@ -10,8 +10,8 @@
     "periodKey": "2026-W44",
     "periodStart": "2026-10-26T00:00:00.000Z",
     "periodEnd": "2026-11-02T00:00:00.000Z",
-    "generatedAt": "2026-10-30T15:59:37.685Z",
-    "recordCount": 1224,
+    "generatedAt": "2026-10-31T15:23:02.445Z",
+    "recordCount": 1229,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -14702,6 +14702,66 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-10-30T14:58:12.199Z"
+    },
+    {
+      "id": "humanize-ink-03645f4f",
+      "name": "Humanize Ink",
+      "slug": "humanize-ink-03645f4f",
+      "url": "https://harpd.com/rank/humanize-ink-03645f4f/",
+      "category": "writing",
+      "categoryName": "Writing",
+      "rank": 1225,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-30T20:15:31.070Z"
+    },
+    {
+      "id": "skeleton-ai-4b824280",
+      "name": "Skeleton AI",
+      "slug": "skeleton-ai-4b824280",
+      "url": "https://harpd.com/rank/skeleton-ai-4b824280/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1226,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-30T20:15:56.952Z"
+    },
+    {
+      "id": "stylmorph-c9f16d48",
+      "name": "StylMorph",
+      "slug": "stylmorph-c9f16d48",
+      "url": "https://harpd.com/rank/stylmorph-c9f16d48/",
+      "category": "design",
+      "categoryName": "Design",
+      "rank": 1227,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-30T20:16:42.354Z"
+    },
+    {
+      "id": "words-into-music-e32eebe7",
+      "name": "Words into Music",
+      "slug": "words-into-music-e32eebe7",
+      "url": "https://harpd.com/rank/words-into-music-e32eebe7/",
+      "category": "audio",
+      "categoryName": "Audio",
+      "rank": 1228,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-31T03:17:00.233Z"
+    },
+    {
+      "id": "xargaar-tools-background-remover-f6ee40a5",
+      "name": "Xargaar Tools Background Remover",
+      "slug": "xargaar-tools-background-remover-f6ee40a5",
+      "url": "https://harpd.com/rank/xargaar-tools-background-remover-f6ee40a5/",
+      "category": "design",
+      "categoryName": "Design",
+      "rank": 1229,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-31T15:20:09.252Z"
     }
   ]
 }

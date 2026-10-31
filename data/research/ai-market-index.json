@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-30T15:59:38.027Z",
+  "generatedAt": "2026-10-31T15:23:02.650Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 27,
   "scope": "market-index",
-  "totalProducts": 1224,
+  "totalProducts": 1229,
   "totalRankPoints": 268,
   "categoryCount": 27,
-  "lastUpdated": "2026-10-30T14:58:12.199Z",
+  "lastUpdated": "2026-10-31T15:20:09.252Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 338,
       "totalRankPoints": 0,
-      "productShare": 27.6,
+      "productShare": 27.5,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -45,7 +45,7 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 99,
+      "productCount": 100,
       "totalRankPoints": 268,
       "productShare": 8.1,
       "pointsShare": 100,
@@ -92,7 +92,7 @@
       "categoryName": "SEO",
       "productCount": 62,
       "totalRankPoints": 0,
-      "productShare": 5.1,
+      "productShare": 5,
       "pointsShare": 0,
       "topProduct": {
         "name": "Semrush",
@@ -120,9 +120,9 @@
     {
       "category": "audio",
       "categoryName": "Audio",
-      "productCount": 48,
+      "productCount": 49,
       "totalRankPoints": 0,
-      "productShare": 3.9,
+      "productShare": 4,
       "pointsShare": 0,
       "topProduct": {
         "name": "123VideoTool",
@@ -148,6 +148,21 @@
       "boardUrl": "https://harpd.com/rank/category/business/"
     },
     {
+      "category": "design",
+      "categoryName": "Design",
+      "productCount": 33,
+      "totalRankPoints": 0,
+      "productShare": 2.7,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "NeoCam",
+        "slug": "neocam",
+        "url": "https://harpd.com/rank/neocam/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/design/"
+    },
+    {
       "category": "education",
       "categoryName": "Education",
       "productCount": 31,
@@ -163,26 +178,11 @@
       "boardUrl": "https://harpd.com/rank/category/education/"
     },
     {
-      "category": "design",
-      "categoryName": "Design",
-      "productCount": 31,
-      "totalRankPoints": 0,
-      "productShare": 2.5,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "NeoCam",
-        "slug": "neocam",
-        "url": "https://harpd.com/rank/neocam/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/design/"
-    },
-    {
       "category": "health",
       "categoryName": "Health",
       "productCount": 30,
       "totalRankPoints": 0,
-      "productShare": 2.5,
+      "productShare": 2.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "Fuel Log",
@@ -210,9 +210,9 @@
     {
       "category": "writing",
       "categoryName": "Writing",
-      "productCount": 17,
+      "productCount": 18,
       "totalRankPoints": 0,
-      "productShare": 1.4,
+      "productShare": 1.5,
       "pointsShare": 0,
       "topProduct": {
         "name": "StealthGPT",
