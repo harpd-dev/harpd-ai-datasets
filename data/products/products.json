@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-31T15:23:02.233Z",
+  "generatedAt": "2026-11-01T16:06:15.527Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1229,
-  "lastUpdated": "2026-10-31T15:20:09.252Z",
+  "count": 1233,
+  "lastUpdated": "2026-11-01T14:37:05.619Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -18441,6 +18441,66 @@
       "updatedAt": "2026-10-31T15:20:09.252Z",
       "website": "https://xargaar-tools.pages.dev/background-remover",
       "description": "Remove photo backgrounds in your browser without uploading images. Brush fixes and free PNG exports up to 768px. No account or image credits. One JPG, PNG or WebP at a time; review fine edges. First use downloads about 16 MB of runtime and model files.",
+      "productType": null
+    },
+    {
+      "id": "angry-dance-filter-2d06f633",
+      "name": "Angry Dance Filter",
+      "slug": "angry-dance-filter-2d06f633",
+      "url": "https://harpd.com/rank/angry-dance-filter-2d06f633/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1230,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-31T18:28:33.575Z",
+      "website": "https://angrydancefilter.com/",
+      "description": "Upload one photo and the Angry Dance Filter turns it into a 15-second angry dance video. You get a free watermarked preview, then optional one-time video packs.",
+      "productType": null
+    },
+    {
+      "id": "get-face-report-bb70a83c",
+      "name": "Get Face Report",
+      "slug": "get-face-report-bb70a83c",
+      "url": "https://harpd.com/rank/get-face-report-bb70a83c/",
+      "category": "health",
+      "categoryName": "Health",
+      "rank": 1231,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-01T08:11:41.701Z",
+      "website": "https://getfacereport.com/",
+      "description": "Explore your facial proportions, discover your style and build a personal plan. Start with a free private face scan.",
+      "productType": null
+    },
+    {
+      "id": "face-rater-97cf4d6a",
+      "name": "Face Rater",
+      "slug": "face-rater-97cf4d6a",
+      "url": "https://harpd.com/rank/face-rater-97cf4d6a/",
+      "category": "people",
+      "categoryName": "People",
+      "rank": 1232,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-01T08:22:32.894Z",
+      "website": "https://facerater.net/",
+      "description": "Face Rater is an AI face analysis tool that scores your face and returns a detailed rating report with visual feedback and styling tips. Choose from 9 report styles; signing up gives you your first report free.",
+      "productType": null
+    },
+    {
+      "id": "waypointo-8efab2b3",
+      "name": "WayPointo",
+      "slug": "waypointo-8efab2b3",
+      "url": "https://harpd.com/rank/waypointo-8efab2b3/",
+      "category": "directories",
+      "categoryName": "Directories",
+      "rank": 1233,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-01T14:37:05.619Z",
+      "website": "https://waypointo.com/",
+      "description": "WayPointo is a high-signal directory for AI and creative products. Makers can submit their product and users can discover, compare alternatives, and make faster decisions with curated AI tool listings.",
       "productType": null
     }
   ]

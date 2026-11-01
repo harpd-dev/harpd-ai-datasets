@@ -7,11 +7,11 @@
     "sourceUrl": "https://harpd.com/rank/",
     "citationUrl": "https://harpd.com/data/",
     "canonicalUrl": "https://harpd.com/rank/",
-    "periodKey": "2026-10",
-    "periodStart": "2026-10-01T00:00:00.000Z",
-    "periodEnd": "2026-11-01T00:00:00.000Z",
-    "generatedAt": "2026-10-31T15:23:02.445Z",
-    "recordCount": 1229,
+    "periodKey": "2026-11",
+    "periodStart": "2026-11-01T00:00:00.000Z",
+    "periodEnd": "2026-12-01T00:00:00.000Z",
+    "generatedAt": "2026-11-01T16:06:15.749Z",
+    "recordCount": 1233,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -14762,6 +14762,54 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-10-31T15:20:09.252Z"
+    },
+    {
+      "id": "angry-dance-filter-2d06f633",
+      "name": "Angry Dance Filter",
+      "slug": "angry-dance-filter-2d06f633",
+      "url": "https://harpd.com/rank/angry-dance-filter-2d06f633/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1230,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-10-31T18:28:33.575Z"
+    },
+    {
+      "id": "get-face-report-bb70a83c",
+      "name": "Get Face Report",
+      "slug": "get-face-report-bb70a83c",
+      "url": "https://harpd.com/rank/get-face-report-bb70a83c/",
+      "category": "health",
+      "categoryName": "Health",
+      "rank": 1231,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-01T08:11:41.701Z"
+    },
+    {
+      "id": "face-rater-97cf4d6a",
+      "name": "Face Rater",
+      "slug": "face-rater-97cf4d6a",
+      "url": "https://harpd.com/rank/face-rater-97cf4d6a/",
+      "category": "people",
+      "categoryName": "People",
+      "rank": 1232,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-01T08:22:32.894Z"
+    },
+    {
+      "id": "waypointo-8efab2b3",
+      "name": "WayPointo",
+      "slug": "waypointo-8efab2b3",
+      "url": "https://harpd.com/rank/waypointo-8efab2b3/",
+      "category": "directories",
+      "categoryName": "Directories",
+      "rank": 1233,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-01T14:37:05.619Z"
     }
   ]
 }
