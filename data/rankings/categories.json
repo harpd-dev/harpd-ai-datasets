@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-01T16:35:19.941Z",
+  "generatedAt": "2026-11-02T19:33:53.900Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
-  "categoriesWithProducts": 27,
-  "totalProducts": 1180,
-  "lastUpdated": "2026-10-22T11:58:38.414Z",
+  "categoriesWithProducts": 28,
+  "totalProducts": 1237,
+  "lastUpdated": "2026-11-02T12:04:02.654Z",
   "categories": [
     {
       "slug": "seo",
@@ -28,26 +28,26 @@
       "name": "Agents",
       "description": "Explore agent platforms, autonomous workflows, orchestration tools and practical AI agent products.",
       "url": "https://harpd.com/rank/category/agents/",
-      "productCount": 85,
+      "productCount": 87,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-09-24T08:36:10.947Z"
+      "updatedAt": "2026-10-29T09:35:18.465Z"
     },
     {
       "slug": "ai-media",
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 84,
+      "productCount": 102,
       "rankedProductCount": 1,
-      "totalRankPoints": 258,
+      "totalRankPoints": 268,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-22T11:47:13.101Z"
+      "updatedAt": "2026-11-02T04:13:33.629Z"
     },
     {
       "slug": "marketing",
@@ -67,52 +67,52 @@
       "name": "Developer",
       "description": "Discover APIs, infrastructure, testing and productivity tools built for software teams.",
       "url": "https://harpd.com/rank/category/developer/",
-      "productCount": 145,
+      "productCount": 147,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-16T16:06:39.331Z"
+      "updatedAt": "2026-10-30T14:58:12.199Z"
     },
     {
       "slug": "productivity",
       "name": "Productivity",
       "description": "Explore focused products that help people organize, automate and finish work.",
       "url": "https://harpd.com/rank/category/productivity/",
-      "productCount": 52,
+      "productCount": 53,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-21T03:15:53.268Z"
+      "updatedAt": "2026-10-26T16:58:15.874Z"
     },
     {
       "slug": "people",
       "name": "People",
       "description": "Discover products for teams, hiring, communities and professional relationships.",
       "url": "https://harpd.com/rank/category/people/",
-      "productCount": 0,
+      "productCount": 1,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
-      "state": "EMPTY",
+      "state": "LISTED_NO_RP",
       "topRankOpen": true,
-      "createdAt": null,
-      "updatedAt": null
+      "createdAt": "2026-11-01T08:22:32.894Z",
+      "updatedAt": "2026-11-01T08:22:32.894Z"
     },
     {
       "slug": "design",
       "name": "Design",
       "description": "Discover design tools for interfaces, graphics, prototypes, assets and visual collaboration.",
       "url": "https://harpd.com/rank/category/design/",
-      "productCount": 31,
+      "productCount": 34,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-21T08:59:13.819Z"
+      "updatedAt": "2026-11-02T12:04:02.654Z"
     },
     {
       "slug": "social",
@@ -132,13 +132,13 @@
       "name": "Writing",
       "description": "Discover writing assistants, editors and publishing tools for drafting and polishing text.",
       "url": "https://harpd.com/rank/category/writing/",
-      "productCount": 17,
+      "productCount": 19,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-22T00:54:08.162Z"
+      "updatedAt": "2026-11-02T04:05:08.498Z"
     },
     {
       "slug": "sales",
@@ -158,26 +158,26 @@
       "name": "Business",
       "description": "Discover operations, finance, legal and admin products that run the back office.",
       "url": "https://harpd.com/rank/category/business/",
-      "productCount": 40,
+      "productCount": 42,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-20T10:34:55.317Z"
+      "updatedAt": "2026-10-29T09:34:10.137Z"
     },
     {
       "slug": "games",
       "name": "Games",
       "description": "Explore games, interactive experiences and tools for making or playing them.",
       "url": "https://harpd.com/rank/category/games/",
-      "productCount": 11,
+      "productCount": 17,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-10-16T17:19:32.001Z"
+      "updatedAt": "2026-11-02T02:02:56.592Z"
     },
     {
       "slug": "education",
@@ -197,13 +197,13 @@
       "name": "Health",
       "description": "Explore fitness, wellness, mental health and personal health tracking products.",
       "url": "https://harpd.com/rank/category/health/",
-      "productCount": 30,
+      "productCount": 31,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-11-01T08:11:41.701Z"
     },
     {
       "slug": "ecommerce",
@@ -223,39 +223,39 @@
       "name": "Directories",
       "description": "Explore directories, catalogues and curated lists that organize products or information.",
       "url": "https://harpd.com/rank/category/directories/",
-      "productCount": 10,
+      "productCount": 17,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-10-16T21:32:18.097Z"
+      "updatedAt": "2026-11-01T14:37:05.619Z"
     },
     {
       "slug": "hiring",
       "name": "Hiring",
       "description": "Discover job boards, applicant tracking, sourcing and recruiting workflow products.",
       "url": "https://harpd.com/rank/category/hiring/",
-      "productCount": 28,
+      "productCount": 29,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-20T04:21:18.022Z"
+      "updatedAt": "2026-10-26T15:39:51.862Z"
     },
     {
       "slug": "audio",
       "name": "Audio",
       "description": "Explore music, podcasting, voice and sound production tools.",
       "url": "https://harpd.com/rank/category/audio/",
-      "productCount": 40,
+      "productCount": 49,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-10-31T03:17:00.233Z"
     },
     {
       "slug": "crypto",
@@ -314,13 +314,13 @@
       "name": "News",
       "description": "Discover news readers, aggregators, newsletters and current-events products.",
       "url": "https://harpd.com/rank/category/news/",
-      "productCount": 4,
+      "productCount": 5,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-10-30T14:13:15.457Z"
     },
     {
       "slug": "domains",
@@ -366,13 +366,13 @@
       "name": "Other",
       "description": "Explore the products that do not yet fit a defined Harpd category.",
       "url": "https://harpd.com/rank/category/other/",
-      "productCount": 337,
+      "productCount": 338,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-09T07:06:40.831Z",
-      "updatedAt": "2026-10-11T08:35:27.894Z"
+      "updatedAt": "2026-10-22T16:39:28.047Z"
     }
   ]
 }
