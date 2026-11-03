@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-02T19:33:54.900Z",
+  "generatedAt": "2026-11-03T17:08:36.622Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -14,7 +14,7 @@
       "familyTitle": "AI agent index",
       "monthKey": "2026-09",
       "url": "https://harpd.com/research/ai-agent-index/2026/09/",
-      "listingCount": 8
+      "listingCount": 7
     },
     {
       "family": "ai-market-index",
@@ -28,56 +28,56 @@
       "familyTitle": "AI tools index",
       "monthKey": "2026-09",
       "url": "https://harpd.com/research/ai-tools-index/2026/09/",
-      "listingCount": 51
+      "listingCount": 47
     },
     {
       "family": "ai-tools-trends",
       "familyTitle": "AI tools trends",
       "monthKey": "2026-09",
       "url": "https://harpd.com/research/ai-tools-trends/2026/09/",
-      "listingCount": 51
+      "listingCount": 47
     },
     {
       "family": "developer-tools-index",
       "familyTitle": "Developer tools index",
       "monthKey": "2026-09",
       "url": "https://harpd.com/research/developer-tools-index/2026/09/",
-      "listingCount": 28
+      "listingCount": 22
     },
     {
       "family": "ai-agent-index",
       "familyTitle": "AI agent index",
       "monthKey": "2026-08",
       "url": "https://harpd.com/research/ai-agent-index/2026/08/",
-      "listingCount": 13
+      "listingCount": 9
     },
     {
       "family": "ai-market-index",
       "familyTitle": "AI market index",
       "monthKey": "2026-08",
       "url": "https://harpd.com/research/ai-market-index/2026/08/",
-      "listingCount": 89
+      "listingCount": 55
     },
     {
       "family": "ai-tools-index",
       "familyTitle": "AI tools index",
       "monthKey": "2026-08",
       "url": "https://harpd.com/research/ai-tools-index/2026/08/",
-      "listingCount": 54
+      "listingCount": 37
     },
     {
       "family": "ai-tools-trends",
       "familyTitle": "AI tools trends",
       "monthKey": "2026-08",
       "url": "https://harpd.com/research/ai-tools-trends/2026/08/",
-      "listingCount": 54
+      "listingCount": 37
     },
     {
       "family": "developer-tools-index",
       "familyTitle": "Developer tools index",
       "monthKey": "2026-08",
       "url": "https://harpd.com/research/developer-tools-index/2026/08/",
-      "listingCount": 24
+      "listingCount": 16
     }
   ]
 }
