@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-03T17:08:35.294Z",
+  "generatedAt": "2026-11-04T17:20:26.880Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 943,
-  "lastUpdated": "2026-11-03T16:04:38.676Z",
+  "count": 941,
+  "lastUpdated": "2026-11-03T10:19:52.939Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -14121,36 +14121,6 @@
       "updatedAt": "2026-11-03T10:19:52.939Z",
       "website": "https://eurotravelhacks.com/",
       "description": "Plan a European trip with city guides, suggested itineraries and route notes. EuroTravelHacks helps compare daily spending estimates and build a trip budget while keeping accommodation and intercity journeys separate. Its cost figures support planning, not live booking quotes.",
-      "productType": null
-    },
-    {
-      "id": "storytodoc-4a33df60",
-      "name": "Storytodoc",
-      "slug": "storytodoc-4a33df60",
-      "url": "https://harpd.com/rank/storytodoc-4a33df60/",
-      "category": "developer",
-      "categoryName": "Developer",
-      "rank": 942,
-      "rankPoints": 0,
-      "verified": true,
-      "updatedAt": "2026-11-03T14:12:15.685Z",
-      "website": "https://storytodoc.ai/",
-      "description": "Create self branded, step-by-step video and user guides in a few clicks. Simply by using your SaaS.\nCreate interactive how-to guides that automatically update when your product changes!\nWith StoryToDoc, you'll create stunning interactive guides that stay current with zero effort",
-      "productType": null
-    },
-    {
-      "id": "vikas-editor-ai-03ad7700",
-      "name": "Vikas Editor AI",
-      "slug": "vikas-editor-ai-03ad7700",
-      "url": "https://harpd.com/rank/vikas-editor-ai-03ad7700/",
-      "category": "ai-media",
-      "categoryName": "AI Media",
-      "rank": 943,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T16:04:38.676Z",
-      "website": "https://vikas-editor.net/",
-      "description": "Vikas Editor AI is an AI photo and video creative studio for Indian creators and global users. It offers cinematic portraits, fashion edits, festive greetings, couple photography, and photo-to-video concepts through customisable templates and prompts.",
       "productType": null
     }
   ]

@@ -10,8 +10,8 @@
     "periodKey": "2026-11",
     "periodStart": "2026-11-01T00:00:00.000Z",
     "periodEnd": "2026-12-01T00:00:00.000Z",
-    "generatedAt": "2026-11-03T17:08:35.462Z",
-    "recordCount": 943,
+    "generatedAt": "2026-11-04T17:20:27.262Z",
+    "recordCount": 941,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -11306,30 +11306,6 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-03T10:19:52.939Z"
-    },
-    {
-      "id": "storytodoc-4a33df60",
-      "name": "Storytodoc",
-      "slug": "storytodoc-4a33df60",
-      "url": "https://harpd.com/rank/storytodoc-4a33df60/",
-      "category": "developer",
-      "categoryName": "Developer",
-      "rank": 942,
-      "rankPoints": 0,
-      "verified": true,
-      "updatedAt": "2026-11-03T14:12:15.685Z"
-    },
-    {
-      "id": "vikas-editor-ai-03ad7700",
-      "name": "Vikas Editor AI",
-      "slug": "vikas-editor-ai-03ad7700",
-      "url": "https://harpd.com/rank/vikas-editor-ai-03ad7700/",
-      "category": "ai-media",
-      "categoryName": "AI Media",
-      "rank": 943,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T16:04:38.676Z"
     }
   ]
 }

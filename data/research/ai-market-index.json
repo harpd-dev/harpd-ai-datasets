@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-03T17:08:35.669Z",
+  "generatedAt": "2026-11-04T17:20:27.653Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "scope": "market-index",
-  "totalProducts": 943,
+  "totalProducts": 941,
   "totalRankPoints": 268,
   "categoryCount": 28,
-  "lastUpdated": "2026-11-03T16:04:38.676Z",
+  "lastUpdated": "2026-11-03T10:19:52.939Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -30,7 +30,7 @@
     {
       "category": "developer",
       "categoryName": "Developer",
-      "productCount": 107,
+      "productCount": 106,
       "totalRankPoints": 0,
       "productShare": 11.3,
       "pointsShare": 0,
@@ -45,9 +45,9 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 101,
+      "productCount": 100,
       "totalRankPoints": 268,
-      "productShare": 10.7,
+      "productShare": 10.6,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
@@ -317,7 +317,7 @@
       "categoryName": "Leaderboards",
       "productCount": 8,
       "totalRankPoints": 0,
-      "productShare": 0.8,
+      "productShare": 0.9,
       "pointsShare": 0,
       "topProduct": {
         "name": "Winning",

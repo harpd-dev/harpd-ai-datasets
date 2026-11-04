@@ -1,7 +1,7 @@
 category,categoryName,productCount,totalRankPoints,productShare,pointsShare,topProduct,boardUrl
 other,Other,245,0,26,0,"{""name"":""BuildAI.Space"",""slug"":""buildai-space"",""url"":""https://harpd.com/rank/buildai-space/"",""rankPoints"":0}",https://harpd.com/rank/category/other/
-developer,Developer,107,0,11.3,0,"{""name"":""Cursor"",""slug"":""cursor"",""url"":""https://harpd.com/rank/cursor/"",""rankPoints"":0}",https://harpd.com/rank/category/developer/
-ai-media,AI Media,101,268,10.7,100,"{""name"":""imgkit"",""slug"":""imgkit-86d32f3e"",""url"":""https://harpd.com/rank/imgkit-86d32f3e/"",""rankPoints"":268}",https://harpd.com/rank/category/ai-media/
+developer,Developer,106,0,11.3,0,"{""name"":""Cursor"",""slug"":""cursor"",""url"":""https://harpd.com/rank/cursor/"",""rankPoints"":0}",https://harpd.com/rank/category/developer/
+ai-media,AI Media,100,268,10.6,100,"{""name"":""imgkit"",""slug"":""imgkit-86d32f3e"",""url"":""https://harpd.com/rank/imgkit-86d32f3e/"",""rankPoints"":268}",https://harpd.com/rank/category/ai-media/
 agents,Agents,65,0,6.9,0,"{""name"":""Claude"",""slug"":""claude"",""url"":""https://harpd.com/rank/claude/"",""rankPoints"":0}",https://harpd.com/rank/category/agents/
 marketing,Marketing,47,0,5,0,"{""name"":""EVO Marketing"",""slug"":""evo-marketing"",""url"":""https://harpd.com/rank/evo-marketing/"",""rankPoints"":0}",https://harpd.com/rank/category/marketing/
 seo,SEO,45,0,4.8,0,"{""name"":""Semrush"",""slug"":""semrush"",""url"":""https://harpd.com/rank/semrush/"",""rankPoints"":0}",https://harpd.com/rank/category/seo/
@@ -19,7 +19,7 @@ games,Games,13,0,1.4,0,"{""name"":""Degen Idle"",""slug"":""degen-idle"",""url""
 travel,Travel,11,0,1.2,0,"{""name"":""Wento"",""slug"":""wento"",""url"":""https://harpd.com/rank/wento/"",""rankPoints"":0}",https://harpd.com/rank/category/travel/
 social,Social,10,0,1.1,0,"{""name"":""AdaptlyPost"",""slug"":""adaptlypost"",""url"":""https://harpd.com/rank/adaptlypost/"",""rankPoints"":0}",https://harpd.com/rank/category/social/
 ecommerce,Ecommerce,9,0,1,0,"{""name"":""Four"",""slug"":""four"",""url"":""https://harpd.com/rank/four/"",""rankPoints"":0}",https://harpd.com/rank/category/ecommerce/
-leaderboards,Leaderboards,8,0,0.8,0,"{""name"":""Winning"",""slug"":""winning"",""url"":""https://harpd.com/rank/winning/"",""rankPoints"":0}",https://harpd.com/rank/category/leaderboards/
+leaderboards,Leaderboards,8,0,0.9,0,"{""name"":""Winning"",""slug"":""winning"",""url"":""https://harpd.com/rank/winning/"",""rankPoints"":0}",https://harpd.com/rank/category/leaderboards/
 security,Security,7,0,0.7,0,"{""name"":""Comp AI"",""slug"":""comp-ai"",""url"":""https://harpd.com/rank/comp-ai/"",""rankPoints"":0}",https://harpd.com/rank/category/security/
 crypto,Crypto,5,0,0.5,0,"{""name"":""Orynth"",""slug"":""orynth"",""url"":""https://harpd.com/rank/orynth/"",""rankPoints"":0}",https://harpd.com/rank/category/crypto/
 domains,Domains,5,0,0.5,0,"{""name"":""NextBrand"",""slug"":""nextbrand"",""url"":""https://harpd.com/rank/nextbrand/"",""rankPoints"":0}",https://harpd.com/rank/category/domains/
