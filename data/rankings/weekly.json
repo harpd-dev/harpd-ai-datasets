@@ -7,11 +7,11 @@
     "sourceUrl": "https://harpd.com/rank/",
     "citationUrl": "https://harpd.com/data/",
     "canonicalUrl": "https://harpd.com/rank/",
-    "periodKey": null,
+    "periodKey": "2026-W45",
     "periodStart": "2026-11-02T00:00:00.000Z",
     "periodEnd": "2026-11-09T00:00:00.000Z",
-    "generatedAt": "2026-11-04T17:20:27.262Z",
-    "recordCount": 941,
+    "generatedAt": "2026-11-05T17:28:18.892Z",
+    "recordCount": 950,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -11306,6 +11306,114 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-03T10:19:52.939Z"
+    },
+    {
+      "id": "storytodoc-4a33df60",
+      "name": "Storytodoc",
+      "slug": "storytodoc-4a33df60",
+      "url": "https://harpd.com/rank/storytodoc-4a33df60/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 942,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-03T14:12:15.685Z"
+    },
+    {
+      "id": "vikas-editor-ai-03ad7700",
+      "name": "Vikas Editor AI",
+      "slug": "vikas-editor-ai-03ad7700",
+      "url": "https://harpd.com/rank/vikas-editor-ai-03ad7700/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 943,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-03T16:04:38.676Z"
+    },
+    {
+      "id": "genjutsu-ai-8428fd2e",
+      "name": "Genjutsu AI",
+      "slug": "genjutsu-ai-8428fd2e",
+      "url": "https://harpd.com/rank/genjutsu-ai-8428fd2e/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 944,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-04T02:27:13.006Z"
+    },
+    {
+      "id": "hackertube-475842e8",
+      "name": "HackerTube",
+      "slug": "hackertube-475842e8",
+      "url": "https://harpd.com/rank/hackertube-475842e8/",
+      "category": "news",
+      "categoryName": "News",
+      "rank": 945,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-04T02:57:25.593Z"
+    },
+    {
+      "id": "hackertube-ai-d6b2e3ff",
+      "name": "HackerTube AI",
+      "slug": "hackertube-ai-d6b2e3ff",
+      "url": "https://harpd.com/rank/hackertube-ai-d6b2e3ff/",
+      "category": "education",
+      "categoryName": "Education",
+      "rank": 946,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-04T04:23:11.990Z"
+    },
+    {
+      "id": "bully-crypto-agent-f7e6e2e5",
+      "name": "BULLY Crypto Agent",
+      "slug": "bully-crypto-agent-f7e6e2e5",
+      "url": "https://harpd.com/rank/bully-crypto-agent-f7e6e2e5/",
+      "category": "crypto",
+      "categoryName": "Crypto",
+      "rank": 947,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-04T08:18:19.357Z"
+    },
+    {
+      "id": "01router-891ee668",
+      "name": "01Router",
+      "slug": "01router-891ee668",
+      "url": "https://harpd.com/rank/01router-891ee668/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 948,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-05T01:35:51.163Z"
+    },
+    {
+      "id": "drytext-bb37ecb4",
+      "name": "DryText",
+      "slug": "drytext-bb37ecb4",
+      "url": "https://harpd.com/rank/drytext-bb37ecb4/",
+      "category": "other",
+      "categoryName": "Other",
+      "rank": 949,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-05T04:23:30.558Z"
+    },
+    {
+      "id": "free-short-music-video-generator-060934d7",
+      "name": "Free Short Music Video Generator",
+      "slug": "free-short-music-video-generator-060934d7",
+      "url": "https://harpd.com/rank/free-short-music-video-generator-060934d7/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 950,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-05T08:10:41.621Z"
     }
   ]
 }
