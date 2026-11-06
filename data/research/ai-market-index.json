@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-05T17:28:19.040Z",
+  "generatedAt": "2026-11-06T16:49:28.028Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "scope": "market-index",
-  "totalProducts": 950,
+  "totalProducts": 955,
   "totalRankPoints": 268,
   "categoryCount": 28,
-  "lastUpdated": "2026-11-05T08:10:41.621Z",
+  "lastUpdated": "2026-11-06T16:20:11.710Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 246,
       "totalRankPoints": 0,
-      "productShare": 25.9,
+      "productShare": 25.8,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -32,7 +32,7 @@
       "categoryName": "Developer",
       "productCount": 107,
       "totalRankPoints": 0,
-      "productShare": 11.3,
+      "productShare": 11.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "Cursor",
@@ -45,9 +45,9 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 104,
+      "productCount": 106,
       "totalRankPoints": 268,
-      "productShare": 10.9,
+      "productShare": 11.1,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
@@ -60,9 +60,9 @@
     {
       "category": "agents",
       "categoryName": "Agents",
-      "productCount": 65,
+      "productCount": 66,
       "totalRankPoints": 0,
-      "productShare": 6.8,
+      "productShare": 6.9,
       "pointsShare": 0,
       "topProduct": {
         "name": "Claude",
@@ -120,9 +120,9 @@
     {
       "category": "audio",
       "categoryName": "Audio",
-      "productCount": 39,
+      "productCount": 40,
       "totalRankPoints": 0,
-      "productShare": 4.1,
+      "productShare": 4.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "15Minutes",
@@ -135,7 +135,7 @@
     {
       "category": "business",
       "categoryName": "Business",
-      "productCount": 29,
+      "productCount": 30,
       "totalRankPoints": 0,
       "productShare": 3.1,
       "pointsShare": 0,
@@ -287,7 +287,7 @@
       "categoryName": "Social",
       "productCount": 10,
       "totalRankPoints": 0,
-      "productShare": 1.1,
+      "productShare": 1,
       "pointsShare": 0,
       "topProduct": {
         "name": "AdaptlyPost",
