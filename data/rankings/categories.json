@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-06T16:49:27.968Z",
+  "generatedAt": "2026-11-07T15:44:24.863Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 28,
-  "totalProducts": 955,
-  "lastUpdated": "2026-11-06T16:20:11.710Z",
+  "totalProducts": 956,
+  "lastUpdated": "2026-11-07T14:27:57.252Z",
   "categories": [
     {
       "slug": "seo",
@@ -41,13 +41,13 @@
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 106,
+      "productCount": 107,
       "rankedProductCount": 1,
       "totalRankPoints": 268,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-06T08:13:27.473Z"
+      "updatedAt": "2026-11-07T14:27:57.252Z"
     },
     {
       "slug": "marketing",

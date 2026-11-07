@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-06T16:49:27.875Z",
+  "generatedAt": "2026-11-07T15:44:24.765Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 955,
+  "count": 956,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-11-01T00:00:00.000Z",
@@ -14,7 +14,7 @@
     "monthKey": "2026-11",
     "weekKey": "2026-W45"
   },
-  "lastUpdated": "2026-11-06T16:20:11.710Z",
+  "lastUpdated": "2026-11-07T14:27:57.252Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -11476,6 +11476,18 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-11-06T16:20:11.710Z"
+    },
+    {
+      "id": "lovi-dream-0568c1e0",
+      "name": "Lovi Dream",
+      "slug": "lovi-dream-0568c1e0",
+      "url": "https://harpd.com/rank/lovi-dream-0568c1e0/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 956,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-07T14:27:57.252Z"
     }
   ]
 }
