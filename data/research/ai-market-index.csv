@@ -1,29 +1,29 @@
 category,categoryName,productCount,totalRankPoints,productShare,pointsShare,topProduct,boardUrl
-other,Other,246,0,25.7,0,"{""name"":""BuildAI.Space"",""slug"":""buildai-space"",""url"":""https://harpd.com/rank/buildai-space/"",""rankPoints"":0}",https://harpd.com/rank/category/other/
-ai-media,AI Media,107,268,11.2,100,"{""name"":""imgkit"",""slug"":""imgkit-86d32f3e"",""url"":""https://harpd.com/rank/imgkit-86d32f3e/"",""rankPoints"":268}",https://harpd.com/rank/category/ai-media/
-developer,Developer,107,0,11.2,0,"{""name"":""Cursor"",""slug"":""cursor"",""url"":""https://harpd.com/rank/cursor/"",""rankPoints"":0}",https://harpd.com/rank/category/developer/
-agents,Agents,66,0,6.9,0,"{""name"":""Claude"",""slug"":""claude"",""url"":""https://harpd.com/rank/claude/"",""rankPoints"":0}",https://harpd.com/rank/category/agents/
-marketing,Marketing,47,0,4.9,0,"{""name"":""EVO Marketing"",""slug"":""evo-marketing"",""url"":""https://harpd.com/rank/evo-marketing/"",""rankPoints"":0}",https://harpd.com/rank/category/marketing/
-seo,SEO,45,0,4.7,0,"{""name"":""Semrush"",""slug"":""semrush"",""url"":""https://harpd.com/rank/semrush/"",""rankPoints"":0}",https://harpd.com/rank/category/seo/
-productivity,Productivity,44,0,4.6,0,"{""name"":""Notion"",""slug"":""notion"",""url"":""https://harpd.com/rank/notion/"",""rankPoints"":0}",https://harpd.com/rank/category/productivity/
-audio,Audio,40,0,4.2,0,"{""name"":""15Minutes"",""slug"":""15minutes"",""url"":""https://harpd.com/rank/15minutes/"",""rankPoints"":0}",https://harpd.com/rank/category/audio/
-business,Business,30,0,3.1,0,"{""name"":""Klover"",""slug"":""klover"",""url"":""https://harpd.com/rank/klover/"",""rankPoints"":0}",https://harpd.com/rank/category/business/
-design,Design,27,0,2.8,0,"{""name"":""NeoCam"",""slug"":""neocam"",""url"":""https://harpd.com/rank/neocam/"",""rankPoints"":0}",https://harpd.com/rank/category/design/
+other,Other,245,0,26,0,"{""name"":""BuildAI.Space"",""slug"":""buildai-space"",""url"":""https://harpd.com/rank/buildai-space/"",""rankPoints"":0}",https://harpd.com/rank/category/other/
+developer,Developer,106,0,11.3,0,"{""name"":""Cursor"",""slug"":""cursor"",""url"":""https://harpd.com/rank/cursor/"",""rankPoints"":0}",https://harpd.com/rank/category/developer/
+ai-media,AI Media,100,268,10.6,100,"{""name"":""imgkit"",""slug"":""imgkit-86d32f3e"",""url"":""https://harpd.com/rank/imgkit-86d32f3e/"",""rankPoints"":268}",https://harpd.com/rank/category/ai-media/
+agents,Agents,65,0,6.9,0,"{""name"":""Claude"",""slug"":""claude"",""url"":""https://harpd.com/rank/claude/"",""rankPoints"":0}",https://harpd.com/rank/category/agents/
+marketing,Marketing,47,0,5,0,"{""name"":""EVO Marketing"",""slug"":""evo-marketing"",""url"":""https://harpd.com/rank/evo-marketing/"",""rankPoints"":0}",https://harpd.com/rank/category/marketing/
+seo,SEO,45,0,4.8,0,"{""name"":""Semrush"",""slug"":""semrush"",""url"":""https://harpd.com/rank/semrush/"",""rankPoints"":0}",https://harpd.com/rank/category/seo/
+productivity,Productivity,44,0,4.7,0,"{""name"":""Notion"",""slug"":""notion"",""url"":""https://harpd.com/rank/notion/"",""rankPoints"":0}",https://harpd.com/rank/category/productivity/
+audio,Audio,39,0,4.1,0,"{""name"":""15Minutes"",""slug"":""15minutes"",""url"":""https://harpd.com/rank/15minutes/"",""rankPoints"":0}",https://harpd.com/rank/category/audio/
+business,Business,29,0,3.1,0,"{""name"":""Klover"",""slug"":""klover"",""url"":""https://harpd.com/rank/klover/"",""rankPoints"":0}",https://harpd.com/rank/category/business/
+design,Design,27,0,2.9,0,"{""name"":""NeoCam"",""slug"":""neocam"",""url"":""https://harpd.com/rank/neocam/"",""rankPoints"":0}",https://harpd.com/rank/category/design/
 hiring,Hiring,23,0,2.4,0,"{""name"":""LATAMHire"",""slug"":""latamhire"",""url"":""https://harpd.com/rank/latamhire/"",""rankPoints"":0}",https://harpd.com/rank/category/hiring/
-education,Education,22,0,2.3,0,"{""name"":""1001 Record"",""slug"":""1001-record"",""url"":""https://harpd.com/rank/1001-record/"",""rankPoints"":0}",https://harpd.com/rank/category/education/
+education,Education,21,0,2.2,0,"{""name"":""1001 Record"",""slug"":""1001-record"",""url"":""https://harpd.com/rank/1001-record/"",""rankPoints"":0}",https://harpd.com/rank/category/education/
 health,Health,19,0,2,0,"{""name"":""Fuel Log"",""slug"":""fuel-log"",""url"":""https://harpd.com/rank/fuel-log/"",""rankPoints"":0}",https://harpd.com/rank/category/health/
 writing,Writing,18,0,1.9,0,"{""name"":""1Transcribe"",""slug"":""1transcribe"",""url"":""https://harpd.com/rank/1transcribe/"",""rankPoints"":0}",https://harpd.com/rank/category/writing/
 directories,Directories,17,0,1.8,0,"{""name"":""Neeed"",""slug"":""neeed"",""url"":""https://harpd.com/rank/neeed/"",""rankPoints"":0}",https://harpd.com/rank/category/directories/
 sales,Sales,14,0,1.5,0,"{""name"":""AC0.AI"",""slug"":""ac0-ai"",""url"":""https://harpd.com/rank/ac0-ai/"",""rankPoints"":0}",https://harpd.com/rank/category/sales/
 games,Games,13,0,1.4,0,"{""name"":""Degen Idle"",""slug"":""degen-idle"",""url"":""https://harpd.com/rank/degen-idle/"",""rankPoints"":0}",https://harpd.com/rank/category/games/
 travel,Travel,11,0,1.2,0,"{""name"":""Wento"",""slug"":""wento"",""url"":""https://harpd.com/rank/wento/"",""rankPoints"":0}",https://harpd.com/rank/category/travel/
-social,Social,10,0,1,0,"{""name"":""AdaptlyPost"",""slug"":""adaptlypost"",""url"":""https://harpd.com/rank/adaptlypost/"",""rankPoints"":0}",https://harpd.com/rank/category/social/
-ecommerce,Ecommerce,9,0,0.9,0,"{""name"":""Four"",""slug"":""four"",""url"":""https://harpd.com/rank/four/"",""rankPoints"":0}",https://harpd.com/rank/category/ecommerce/
-leaderboards,Leaderboards,8,0,0.8,0,"{""name"":""Winning"",""slug"":""winning"",""url"":""https://harpd.com/rank/winning/"",""rankPoints"":0}",https://harpd.com/rank/category/leaderboards/
+social,Social,10,0,1.1,0,"{""name"":""AdaptlyPost"",""slug"":""adaptlypost"",""url"":""https://harpd.com/rank/adaptlypost/"",""rankPoints"":0}",https://harpd.com/rank/category/social/
+ecommerce,Ecommerce,9,0,1,0,"{""name"":""Four"",""slug"":""four"",""url"":""https://harpd.com/rank/four/"",""rankPoints"":0}",https://harpd.com/rank/category/ecommerce/
+leaderboards,Leaderboards,8,0,0.9,0,"{""name"":""Winning"",""slug"":""winning"",""url"":""https://harpd.com/rank/winning/"",""rankPoints"":0}",https://harpd.com/rank/category/leaderboards/
 security,Security,7,0,0.7,0,"{""name"":""Comp AI"",""slug"":""comp-ai"",""url"":""https://harpd.com/rank/comp-ai/"",""rankPoints"":0}",https://harpd.com/rank/category/security/
-crypto,Crypto,6,0,0.6,0,"{""name"":""Orynth"",""slug"":""orynth"",""url"":""https://harpd.com/rank/orynth/"",""rankPoints"":0}",https://harpd.com/rank/category/crypto/
-news,News,6,0,0.6,0,"{""name"":""3I/ATLAS Tracker"",""slug"":""3i-atlas-tracker"",""url"":""https://harpd.com/rank/3i-atlas-tracker/"",""rankPoints"":0}",https://harpd.com/rank/category/news/
+crypto,Crypto,5,0,0.5,0,"{""name"":""Orynth"",""slug"":""orynth"",""url"":""https://harpd.com/rank/orynth/"",""rankPoints"":0}",https://harpd.com/rank/category/crypto/
 domains,Domains,5,0,0.5,0,"{""name"":""NextBrand"",""slug"":""nextbrand"",""url"":""https://harpd.com/rank/nextbrand/"",""rankPoints"":0}",https://harpd.com/rank/category/domains/
+news,News,5,0,0.5,0,"{""name"":""3I/ATLAS Tracker"",""slug"":""3i-atlas-tracker"",""url"":""https://harpd.com/rank/3i-atlas-tracker/"",""rankPoints"":0}",https://harpd.com/rank/category/news/
 agencies,Agencies,4,0,0.4,0,"{""name"":""Launch Club"",""slug"":""launch-club"",""url"":""https://harpd.com/rank/launch-club/"",""rankPoints"":0}",https://harpd.com/rank/category/agencies/
 real-estate,Real Estate,4,0,0.4,0,"{""name"":""Homies"",""slug"":""homies"",""url"":""https://harpd.com/rank/homies/"",""rankPoints"":0}",https://harpd.com/rank/category/real-estate/
 people,People,1,0,0.1,0,"{""name"":""Face Rater"",""slug"":""face-rater-97cf4d6a"",""url"":""https://harpd.com/rank/face-rater-97cf4d6a/"",""rankPoints"":0}",https://harpd.com/rank/category/people/
