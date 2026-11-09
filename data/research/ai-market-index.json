@@ -1,23 +1,23 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-08T16:02:05.411Z",
+  "generatedAt": "2026-11-09T19:53:38.690Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "scope": "market-index",
-  "totalProducts": 941,
-  "totalRankPoints": 268,
+  "totalProducts": 964,
+  "totalRankPoints": 368,
   "categoryCount": 28,
-  "lastUpdated": "2026-11-03T10:19:52.939Z",
+  "lastUpdated": "2026-11-09T04:39:57.494Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
       "category": "other",
       "categoryName": "Other",
-      "productCount": 245,
+      "productCount": 246,
       "totalRankPoints": 0,
-      "productShare": 26,
+      "productShare": 25.5,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -30,9 +30,9 @@
     {
       "category": "developer",
       "categoryName": "Developer",
-      "productCount": 106,
+      "productCount": 111,
       "totalRankPoints": 0,
-      "productShare": 11.3,
+      "productShare": 11.5,
       "pointsShare": 0,
       "topProduct": {
         "name": "Cursor",
@@ -45,24 +45,24 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 100,
-      "totalRankPoints": 268,
-      "productShare": 10.6,
+      "productCount": 108,
+      "totalRankPoints": 368,
+      "productShare": 11.2,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
         "slug": "imgkit-86d32f3e",
         "url": "https://harpd.com/rank/imgkit-86d32f3e/",
-        "rankPoints": 268
+        "rankPoints": 368
       },
       "boardUrl": "https://harpd.com/rank/category/ai-media/"
     },
     {
       "category": "agents",
       "categoryName": "Agents",
-      "productCount": 65,
+      "productCount": 66,
       "totalRankPoints": 0,
-      "productShare": 6.9,
+      "productShare": 6.8,
       "pointsShare": 0,
       "topProduct": {
         "name": "Claude",
@@ -77,7 +77,7 @@
       "categoryName": "Marketing",
       "productCount": 47,
       "totalRankPoints": 0,
-      "productShare": 5,
+      "productShare": 4.9,
       "pointsShare": 0,
       "topProduct": {
         "name": "EVO Marketing",
@@ -92,7 +92,7 @@
       "categoryName": "SEO",
       "productCount": 45,
       "totalRankPoints": 0,
-      "productShare": 4.8,
+      "productShare": 4.7,
       "pointsShare": 0,
       "topProduct": {
         "name": "Semrush",
@@ -107,7 +107,7 @@
       "categoryName": "Productivity",
       "productCount": 44,
       "totalRankPoints": 0,
-      "productShare": 4.7,
+      "productShare": 4.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "Notion",
@@ -120,7 +120,7 @@
     {
       "category": "audio",
       "categoryName": "Audio",
-      "productCount": 39,
+      "productCount": 40,
       "totalRankPoints": 0,
       "productShare": 4.1,
       "pointsShare": 0,
@@ -135,9 +135,9 @@
     {
       "category": "business",
       "categoryName": "Business",
-      "productCount": 29,
+      "productCount": 31,
       "totalRankPoints": 0,
-      "productShare": 3.1,
+      "productShare": 3.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "Klover",
@@ -152,7 +152,7 @@
       "categoryName": "Design",
       "productCount": 27,
       "totalRankPoints": 0,
-      "productShare": 2.9,
+      "productShare": 2.8,
       "pointsShare": 0,
       "topProduct": {
         "name": "NeoCam",
@@ -180,9 +180,9 @@
     {
       "category": "education",
       "categoryName": "Education",
-      "productCount": 21,
+      "productCount": 22,
       "totalRankPoints": 0,
-      "productShare": 2.2,
+      "productShare": 2.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "1001 Record",
@@ -195,9 +195,9 @@
     {
       "category": "health",
       "categoryName": "Health",
-      "productCount": 19,
+      "productCount": 21,
       "totalRankPoints": 0,
-      "productShare": 2,
+      "productShare": 2.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "Fuel Log",
@@ -257,7 +257,7 @@
       "categoryName": "Games",
       "productCount": 13,
       "totalRankPoints": 0,
-      "productShare": 1.4,
+      "productShare": 1.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "Degen Idle",
@@ -272,7 +272,7 @@
       "categoryName": "Travel",
       "productCount": 11,
       "totalRankPoints": 0,
-      "productShare": 1.2,
+      "productShare": 1.1,
       "pointsShare": 0,
       "topProduct": {
         "name": "Wento",
@@ -287,7 +287,7 @@
       "categoryName": "Social",
       "productCount": 10,
       "totalRankPoints": 0,
-      "productShare": 1.1,
+      "productShare": 1,
       "pointsShare": 0,
       "topProduct": {
         "name": "AdaptlyPost",
@@ -302,7 +302,7 @@
       "categoryName": "Ecommerce",
       "productCount": 9,
       "totalRankPoints": 0,
-      "productShare": 1,
+      "productShare": 0.9,
       "pointsShare": 0,
       "topProduct": {
         "name": "Four",
@@ -317,7 +317,7 @@
       "categoryName": "Leaderboards",
       "productCount": 8,
       "totalRankPoints": 0,
-      "productShare": 0.9,
+      "productShare": 0.8,
       "pointsShare": 0,
       "topProduct": {
         "name": "Winning",
@@ -345,9 +345,9 @@
     {
       "category": "crypto",
       "categoryName": "Crypto",
-      "productCount": 5,
+      "productCount": 6,
       "totalRankPoints": 0,
-      "productShare": 0.5,
+      "productShare": 0.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "Orynth",
@@ -356,6 +356,21 @@
         "rankPoints": 0
       },
       "boardUrl": "https://harpd.com/rank/category/crypto/"
+    },
+    {
+      "category": "news",
+      "categoryName": "News",
+      "productCount": 6,
+      "totalRankPoints": 0,
+      "productShare": 0.6,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "3I/ATLAS Tracker",
+        "slug": "3i-atlas-tracker",
+        "url": "https://harpd.com/rank/3i-atlas-tracker/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/news/"
     },
     {
       "category": "domains",
@@ -371,21 +386,6 @@
         "rankPoints": 0
       },
       "boardUrl": "https://harpd.com/rank/category/domains/"
-    },
-    {
-      "category": "news",
-      "categoryName": "News",
-      "productCount": 5,
-      "totalRankPoints": 0,
-      "productShare": 0.5,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "3I/ATLAS Tracker",
-        "slug": "3i-atlas-tracker",
-        "url": "https://harpd.com/rank/3i-atlas-tracker/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/news/"
     },
     {
       "category": "agencies",

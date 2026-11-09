@@ -1,5 +1,5 @@
 id,name,slug,url,category,categoryName,rank,rankPoints,verified,updatedAt
-imgkit-86d32f3e,imgkit,imgkit-86d32f3e,https://harpd.com/rank/imgkit-86d32f3e/,ai-media,AI Media,1,268,true,2026-08-28T05:03:03.444Z
+imgkit-86d32f3e,imgkit,imgkit-86d32f3e,https://harpd.com/rank/imgkit-86d32f3e/,ai-media,AI Media,1,368,true,2026-08-28T05:03:03.444Z
 claude,Claude,claude,https://harpd.com/rank/claude/,agents,Agents,2,0,false,2026-08-27T06:14:04.721Z
 perplexity,Perplexity,perplexity,https://harpd.com/rank/perplexity/,agents,Agents,3,0,false,2026-08-27T06:14:34.241Z
 gemini,Gemini,gemini,https://harpd.com/rank/gemini/,agents,Agents,4,0,false,2026-08-27T06:14:37.079Z
@@ -940,3 +940,26 @@ pavoai-b50006c1,PavoAI,pavoai-b50006c1,https://harpd.com/rank/pavoai-b50006c1/,a
 free-ai-video-generator-72f06f38,Free AI Video Generator,free-ai-video-generator-72f06f38,https://harpd.com/rank/free-ai-video-generator-72f06f38/,ai-media,AI Media,939,0,false,2026-11-03T08:11:22.276Z
 aitoolize-babd40ae,AIToolize,aitoolize-babd40ae,https://harpd.com/rank/aitoolize-babd40ae/,directories,Directories,940,0,false,2026-11-03T09:09:06.912Z
 eurotravelhacks-6ba21a2d,EuroTravelHacks,eurotravelhacks-6ba21a2d,https://harpd.com/rank/eurotravelhacks-6ba21a2d/,travel,Travel,941,0,false,2026-11-03T10:19:52.939Z
+storytodoc-4a33df60,Storytodoc,storytodoc-4a33df60,https://harpd.com/rank/storytodoc-4a33df60/,developer,Developer,942,0,true,2026-11-03T14:12:15.685Z
+vikas-editor-ai-03ad7700,Vikas Editor AI,vikas-editor-ai-03ad7700,https://harpd.com/rank/vikas-editor-ai-03ad7700/,ai-media,AI Media,943,0,false,2026-11-03T16:04:38.676Z
+genjutsu-ai-8428fd2e,Genjutsu AI,genjutsu-ai-8428fd2e,https://harpd.com/rank/genjutsu-ai-8428fd2e/,ai-media,AI Media,944,0,false,2026-11-04T02:27:13.006Z
+hackertube-475842e8,HackerTube,hackertube-475842e8,https://harpd.com/rank/hackertube-475842e8/,news,News,945,0,false,2026-11-04T02:57:25.593Z
+hackertube-ai-d6b2e3ff,HackerTube AI,hackertube-ai-d6b2e3ff,https://harpd.com/rank/hackertube-ai-d6b2e3ff/,education,Education,946,0,false,2026-11-04T04:23:11.990Z
+bully-crypto-agent-f7e6e2e5,BULLY Crypto Agent,bully-crypto-agent-f7e6e2e5,https://harpd.com/rank/bully-crypto-agent-f7e6e2e5/,crypto,Crypto,947,0,false,2026-11-04T08:18:19.357Z
+01router-891ee668,01Router,01router-891ee668,https://harpd.com/rank/01router-891ee668/,ai-media,AI Media,948,0,false,2026-11-05T01:35:51.163Z
+drytext-bb37ecb4,DryText,drytext-bb37ecb4,https://harpd.com/rank/drytext-bb37ecb4/,other,Other,949,0,false,2026-11-05T04:23:30.558Z
+free-short-music-video-generator-060934d7,Free Short Music Video Generator,free-short-music-video-generator-060934d7,https://harpd.com/rank/free-short-music-video-generator-060934d7/,ai-media,AI Media,950,0,false,2026-11-05T08:10:41.621Z
+open-docy-8c44d82c,Open Docy,open-docy-8c44d82c,https://harpd.com/rank/open-docy-8c44d82c/,agents,Agents,951,0,false,2026-11-06T02:00:31.499Z
+paper-banana-6795a276,Paper Banana,paper-banana-6795a276,https://harpd.com/rank/paper-banana-6795a276/,ai-media,AI Media,952,0,false,2026-11-06T05:08:04.259Z
+ai-videoweb-free-ai-video-generator-0fb00cb4,AI VideoWeb Free AI Video Generator,ai-videoweb-free-ai-video-generator-0fb00cb4,https://harpd.com/rank/ai-videoweb-free-ai-video-generator-0fb00cb4/,ai-media,AI Media,953,0,false,2026-11-06T08:13:27.473Z
+rainsleep-0d205383,RainSleep,rainsleep-0d205383,https://harpd.com/rank/rainsleep-0d205383/,audio,Audio,954,0,true,2026-11-06T14:52:22.164Z
+tinkerhost-25e5bd9b,TinkerHost,tinkerhost-25e5bd9b,https://harpd.com/rank/tinkerhost-25e5bd9b/,business,Business,955,0,true,2026-11-06T16:20:11.710Z
+lovi-dream-0568c1e0,Lovi Dream,lovi-dream-0568c1e0,https://harpd.com/rank/lovi-dream-0568c1e0/,ai-media,AI Media,956,0,true,2026-11-07T14:27:57.252Z
+bestproxy-3bb9c9de,BestProxy,bestproxy-3bb9c9de,https://harpd.com/rank/bestproxy-3bb9c9de/,developer,Developer,957,0,false,2026-11-08T07:35:50.796Z
+croxy-22e7089a,Croxy,croxy-22e7089a,https://harpd.com/rank/croxy-22e7089a/,developer,Developer,958,0,false,2026-11-08T08:08:15.982Z
+proxyshare-9b9490fc,ProxyShare,proxyshare-9b9490fc,https://harpd.com/rank/proxyshare-9b9490fc/,developer,Developer,959,0,false,2026-11-08T09:36:54.691Z
+omegaproxy-7b37133d,OmegaProxy,omegaproxy-7b37133d,https://harpd.com/rank/omegaproxy-7b37133d/,developer,Developer,960,0,false,2026-11-08T16:20:38.320Z
+prop-firm-deals-hub-compare-futures-prop-firm-deals-9d7126dd,Prop Firm Deals Hub - Compare Futures Prop Firm Deals,prop-firm-deals-hub-compare-futures-prop-firm-deals-9d7126dd,https://harpd.com/rank/prop-firm-deals-hub-compare-futures-prop-firm-deals-9d7126dd/,business,Business,961,0,true,2026-11-09T02:16:37.112Z
+2-person-infrared-sauna-spec-based-buying-guide-ba7e3b12,2 Person Infrared Sauna: Spec-Based Buying Guide,2-person-infrared-sauna-spec-based-buying-guide-ba7e3b12,https://harpd.com/rank/2-person-infrared-sauna-spec-based-buying-guide-ba7e3b12/,health,Health,962,0,true,2026-11-09T02:17:35.787Z
+lift-chairs-for-elderly-how-to-choose-the-right-one-230f9f91,Lift Chairs for Elderly: How to Choose the Right One,lift-chairs-for-elderly-how-to-choose-the-right-one-230f9f91,https://harpd.com/rank/lift-chairs-for-elderly-how-to-choose-the-right-one-230f9f91/,health,Health,963,0,true,2026-11-09T02:18:16.081Z
+sea-imagine-ai-image-to-video-8c5d39a1,Sea Imagine AI Image to Video,sea-imagine-ai-image-to-video-8c5d39a1,https://harpd.com/rank/sea-imagine-ai-image-to-video-8c5d39a1/,ai-media,AI Media,964,0,false,2026-11-09T04:39:57.494Z
