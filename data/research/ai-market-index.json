@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-09T19:53:38.690Z",
+  "generatedAt": "2026-11-10T17:07:17.301Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "scope": "market-index",
-  "totalProducts": 964,
+  "totalProducts": 967,
   "totalRankPoints": 368,
   "categoryCount": 28,
-  "lastUpdated": "2026-11-09T04:39:57.494Z",
+  "lastUpdated": "2026-11-10T11:37:37.022Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 246,
       "totalRankPoints": 0,
-      "productShare": 25.5,
+      "productShare": 25.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -45,9 +45,9 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 108,
+      "productCount": 109,
       "totalRankPoints": 368,
-      "productShare": 11.2,
+      "productShare": 11.3,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
@@ -75,9 +75,9 @@
     {
       "category": "marketing",
       "categoryName": "Marketing",
-      "productCount": 47,
+      "productCount": 49,
       "totalRankPoints": 0,
-      "productShare": 4.9,
+      "productShare": 5.1,
       "pointsShare": 0,
       "topProduct": {
         "name": "EVO Marketing",
@@ -242,7 +242,7 @@
       "categoryName": "Sales",
       "productCount": 14,
       "totalRankPoints": 0,
-      "productShare": 1.5,
+      "productShare": 1.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "AC0.AI",

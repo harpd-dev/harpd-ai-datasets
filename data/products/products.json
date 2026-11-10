@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-09T19:53:38.005Z",
+  "generatedAt": "2026-11-10T17:07:16.692Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 964,
-  "lastUpdated": "2026-11-09T04:39:57.494Z",
+  "count": 967,
+  "lastUpdated": "2026-11-10T11:37:37.022Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -14466,6 +14466,51 @@
       "updatedAt": "2026-11-09T04:39:57.494Z",
       "website": "https://seaimagine.com/free-image-to-video",
       "description": "Sea Imagine AI’s free Image to Video page uses MiniMax H3 to create a five-second, 480p clip from starting and ending images plus a motion prompt. The page says no sign-up or credits are required; page verification is required and free queue wait times may vary.",
+      "productType": null
+    },
+    {
+      "id": "image26-37598050",
+      "name": "Image26",
+      "slug": "image26-37598050",
+      "url": "https://harpd.com/rank/image26-37598050/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 965,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-10T04:04:01.855Z",
+      "website": "https://image26.ai/",
+      "description": "Image26 uses GPT Image 2.6 to create and edit images. Describe changes or upload a photo, then make posters, banners, logos, thumbnails, infographics, stickers and comics with correctly spelled words. Export in 1K, 2K or 4K. New accounts get free credits; plans start at $9.9/mont",
+      "productType": null
+    },
+    {
+      "id": "citevant-e96cf07d",
+      "name": "Citevant",
+      "slug": "citevant-e96cf07d",
+      "url": "https://harpd.com/rank/citevant-e96cf07d/",
+      "category": "marketing",
+      "categoryName": "Marketing",
+      "rank": 966,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-10T07:36:24.455Z",
+      "website": "https://citevant.com/",
+      "description": "Track your brand in AI search answers and reach out to publishers cited by ChatGPT, Gemini, Google AI Overviews, Perplexity and Claude.",
+      "productType": null
+    },
+    {
+      "id": "flow-ai-03b1bab5",
+      "name": "Flow AI",
+      "slug": "flow-ai-03b1bab5",
+      "url": "https://harpd.com/rank/flow-ai-03b1bab5/",
+      "category": "marketing",
+      "categoryName": "Marketing",
+      "rank": 967,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-10T11:37:37.022Z",
+      "website": "https://flowai.studio/",
+      "description": "Flow AI is a free, browser-based AI video generator. It turns text prompts, images and reference frames into short videos: text to video, image to video, and first/last-frame generation, with no account needed to start.",
       "productType": null
     }
   ]

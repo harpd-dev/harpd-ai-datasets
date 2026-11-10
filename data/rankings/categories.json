@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-09T19:53:38.572Z",
+  "generatedAt": "2026-11-10T17:07:17.152Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 28,
-  "totalProducts": 964,
-  "lastUpdated": "2026-11-09T04:39:57.494Z",
+  "totalProducts": 967,
+  "lastUpdated": "2026-11-10T11:37:37.022Z",
   "categories": [
     {
       "slug": "seo",
@@ -41,26 +41,26 @@
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 108,
+      "productCount": 109,
       "rankedProductCount": 1,
       "totalRankPoints": 368,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-09T04:39:57.494Z"
+      "updatedAt": "2026-11-10T04:04:01.855Z"
     },
     {
       "slug": "marketing",
       "name": "Marketing",
       "description": "Explore products for campaigns, growth, analytics, attribution and customer communication.",
       "url": "https://harpd.com/rank/category/marketing/",
-      "productCount": 47,
+      "productCount": 49,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-03T04:05:45.308Z"
+      "updatedAt": "2026-11-10T11:37:37.022Z"
     },
     {
       "slug": "developer",

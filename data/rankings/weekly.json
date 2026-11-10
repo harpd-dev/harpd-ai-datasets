@@ -10,8 +10,8 @@
     "periodKey": "2026-W46",
     "periodStart": "2026-11-09T00:00:00.000Z",
     "periodEnd": "2026-11-16T00:00:00.000Z",
-    "generatedAt": "2026-11-09T19:53:38.371Z",
-    "recordCount": 964,
+    "generatedAt": "2026-11-10T17:07:16.971Z",
+    "recordCount": 967,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -11582,6 +11582,42 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-09T04:39:57.494Z"
+    },
+    {
+      "id": "image26-37598050",
+      "name": "Image26",
+      "slug": "image26-37598050",
+      "url": "https://harpd.com/rank/image26-37598050/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 965,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-10T04:04:01.855Z"
+    },
+    {
+      "id": "citevant-e96cf07d",
+      "name": "Citevant",
+      "slug": "citevant-e96cf07d",
+      "url": "https://harpd.com/rank/citevant-e96cf07d/",
+      "category": "marketing",
+      "categoryName": "Marketing",
+      "rank": 966,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-10T07:36:24.455Z"
+    },
+    {
+      "id": "flow-ai-03b1bab5",
+      "name": "Flow AI",
+      "slug": "flow-ai-03b1bab5",
+      "url": "https://harpd.com/rank/flow-ai-03b1bab5/",
+      "category": "marketing",
+      "categoryName": "Marketing",
+      "rank": 967,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-10T11:37:37.022Z"
     }
   ]
 }

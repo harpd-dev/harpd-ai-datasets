@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-09T19:53:38.371Z",
+  "generatedAt": "2026-11-10T17:07:16.971Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 964,
+  "count": 967,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-11-01T00:00:00.000Z",
@@ -14,7 +14,7 @@
     "monthKey": "2026-11",
     "weekKey": "2026-W46"
   },
-  "lastUpdated": "2026-11-09T04:39:57.494Z",
+  "lastUpdated": "2026-11-10T11:37:37.022Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -11584,6 +11584,42 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-09T04:39:57.494Z"
+    },
+    {
+      "id": "image26-37598050",
+      "name": "Image26",
+      "slug": "image26-37598050",
+      "url": "https://harpd.com/rank/image26-37598050/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 965,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-10T04:04:01.855Z"
+    },
+    {
+      "id": "citevant-e96cf07d",
+      "name": "Citevant",
+      "slug": "citevant-e96cf07d",
+      "url": "https://harpd.com/rank/citevant-e96cf07d/",
+      "category": "marketing",
+      "categoryName": "Marketing",
+      "rank": 966,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-10T07:36:24.455Z"
+    },
+    {
+      "id": "flow-ai-03b1bab5",
+      "name": "Flow AI",
+      "slug": "flow-ai-03b1bab5",
+      "url": "https://harpd.com/rank/flow-ai-03b1bab5/",
+      "category": "marketing",
+      "categoryName": "Marketing",
+      "rank": 967,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-10T11:37:37.022Z"
     }
   ]
 }
