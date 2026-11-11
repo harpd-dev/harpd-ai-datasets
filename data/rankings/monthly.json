@@ -10,8 +10,8 @@
     "periodKey": "2026-11",
     "periodStart": "2026-11-01T00:00:00.000Z",
     "periodEnd": "2026-12-01T00:00:00.000Z",
-    "generatedAt": "2026-11-10T17:07:16.971Z",
-    "recordCount": 967,
+    "generatedAt": "2026-11-11T17:14:47.981Z",
+    "recordCount": 972,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -11618,6 +11618,66 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-10T11:37:37.022Z"
+    },
+    {
+      "id": "pageveil-762e0e3b",
+      "name": "PageVeil",
+      "slug": "pageveil-762e0e3b",
+      "url": "https://harpd.com/rank/pageveil-762e0e3b/",
+      "category": "security",
+      "categoryName": "Security",
+      "rank": 968,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-10T23:34:28.938Z"
+    },
+    {
+      "id": "zero-gravity-massage-chair-picks-a5e05c05",
+      "name": "Zero Gravity Massage Chair Picks",
+      "slug": "zero-gravity-massage-chair-picks-a5e05c05",
+      "url": "https://harpd.com/rank/zero-gravity-massage-chair-picks-a5e05c05/",
+      "category": "health",
+      "categoryName": "Health",
+      "rank": 969,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-11T00:20:47.657Z"
+    },
+    {
+      "id": "reeling-5db117ad",
+      "name": "Reeling",
+      "slug": "reeling-5db117ad",
+      "url": "https://harpd.com/rank/reeling-5db117ad/",
+      "category": "social",
+      "categoryName": "Social",
+      "rank": 970,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-11T13:16:44.099Z"
+    },
+    {
+      "id": "unrust-b044a747",
+      "name": "Unrust",
+      "slug": "unrust-b044a747",
+      "url": "https://harpd.com/rank/unrust-b044a747/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 971,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-11T13:17:39.398Z"
+    },
+    {
+      "id": "voicefleet-1c9ddfc1",
+      "name": "VoiceFleet",
+      "slug": "voicefleet-1c9ddfc1",
+      "url": "https://harpd.com/rank/voicefleet-1c9ddfc1/",
+      "category": "business",
+      "categoryName": "Business",
+      "rank": 972,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-11T13:18:19.101Z"
     }
   ]
 }

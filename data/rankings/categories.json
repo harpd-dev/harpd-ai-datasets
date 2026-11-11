@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-10T17:07:17.152Z",
+  "generatedAt": "2026-11-11T17:14:48.233Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 28,
-  "totalProducts": 967,
-  "lastUpdated": "2026-11-10T11:37:37.022Z",
+  "totalProducts": 972,
+  "lastUpdated": "2026-11-11T13:18:19.101Z",
   "categories": [
     {
       "slug": "seo",
@@ -67,13 +67,13 @@
       "name": "Developer",
       "description": "Discover APIs, infrastructure, testing and productivity tools built for software teams.",
       "url": "https://harpd.com/rank/category/developer/",
-      "productCount": 111,
+      "productCount": 112,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-08T16:20:38.320Z"
+      "updatedAt": "2026-11-11T13:17:39.398Z"
     },
     {
       "slug": "productivity",
@@ -119,13 +119,13 @@
       "name": "Social",
       "description": "Explore products for social media management, scheduling, engagement and audience growth.",
       "url": "https://harpd.com/rank/category/social/",
-      "productCount": 10,
+      "productCount": 11,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-11-03T04:05:45.308Z"
+      "updatedAt": "2026-11-11T13:16:44.099Z"
     },
     {
       "slug": "writing",
@@ -158,13 +158,13 @@
       "name": "Business",
       "description": "Discover operations, finance, legal and admin products that run the back office.",
       "url": "https://harpd.com/rank/category/business/",
-      "productCount": 31,
+      "productCount": 32,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-09T02:16:37.112Z"
+      "updatedAt": "2026-11-11T13:18:19.101Z"
     },
     {
       "slug": "games",
@@ -197,13 +197,13 @@
       "name": "Health",
       "description": "Explore fitness, wellness, mental health and personal health tracking products.",
       "url": "https://harpd.com/rank/category/health/",
-      "productCount": 21,
+      "productCount": 22,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-09T02:18:16.081Z"
+      "updatedAt": "2026-11-11T00:20:47.657Z"
     },
     {
       "slug": "ecommerce",
@@ -288,13 +288,13 @@
       "name": "Security",
       "description": "Discover vulnerability scanning, monitoring, identity and privacy-protection products.",
       "url": "https://harpd.com/rank/category/security/",
-      "productCount": 7,
+      "productCount": 8,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-03T04:00:12.849Z"
+      "updatedAt": "2026-11-10T23:34:28.938Z"
     },
     {
       "slug": "travel",
