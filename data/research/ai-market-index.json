@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-11T17:14:48.992Z",
+  "generatedAt": "2026-11-12T17:38:23.640Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "scope": "market-index",
-  "totalProducts": 972,
+  "totalProducts": 979,
   "totalRankPoints": 368,
   "categoryCount": 28,
-  "lastUpdated": "2026-11-11T13:18:19.101Z",
+  "lastUpdated": "2026-11-12T13:43:15.435Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 246,
       "totalRankPoints": 0,
-      "productShare": 25.3,
+      "productShare": 25.1,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -28,9 +28,24 @@
       "boardUrl": "https://harpd.com/rank/category/other/"
     },
     {
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "productCount": 113,
+      "totalRankPoints": 368,
+      "productShare": 11.5,
+      "pointsShare": 100,
+      "topProduct": {
+        "name": "imgkit",
+        "slug": "imgkit-86d32f3e",
+        "url": "https://harpd.com/rank/imgkit-86d32f3e/",
+        "rankPoints": 368
+      },
+      "boardUrl": "https://harpd.com/rank/category/ai-media/"
+    },
+    {
       "category": "developer",
       "categoryName": "Developer",
-      "productCount": 112,
+      "productCount": 113,
       "totalRankPoints": 0,
       "productShare": 11.5,
       "pointsShare": 0,
@@ -43,26 +58,11 @@
       "boardUrl": "https://harpd.com/rank/category/developer/"
     },
     {
-      "category": "ai-media",
-      "categoryName": "AI Media",
-      "productCount": 109,
-      "totalRankPoints": 368,
-      "productShare": 11.2,
-      "pointsShare": 100,
-      "topProduct": {
-        "name": "imgkit",
-        "slug": "imgkit-86d32f3e",
-        "url": "https://harpd.com/rank/imgkit-86d32f3e/",
-        "rankPoints": 368
-      },
-      "boardUrl": "https://harpd.com/rank/category/ai-media/"
-    },
-    {
       "category": "agents",
       "categoryName": "Agents",
       "productCount": 66,
       "totalRankPoints": 0,
-      "productShare": 6.8,
+      "productShare": 6.7,
       "pointsShare": 0,
       "topProduct": {
         "name": "Claude",
@@ -120,9 +120,9 @@
     {
       "category": "audio",
       "categoryName": "Audio",
-      "productCount": 40,
+      "productCount": 41,
       "totalRankPoints": 0,
-      "productShare": 4.1,
+      "productShare": 4.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "15Minutes",
@@ -167,7 +167,7 @@
       "categoryName": "Hiring",
       "productCount": 23,
       "totalRankPoints": 0,
-      "productShare": 2.4,
+      "productShare": 2.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "LATAMHire",
@@ -182,7 +182,7 @@
       "categoryName": "Health",
       "productCount": 22,
       "totalRankPoints": 0,
-      "productShare": 2.3,
+      "productShare": 2.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "Fuel Log",
@@ -197,7 +197,7 @@
       "categoryName": "Education",
       "productCount": 22,
       "totalRankPoints": 0,
-      "productShare": 2.3,
+      "productShare": 2.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "1001 Record",
@@ -212,7 +212,7 @@
       "categoryName": "Writing",
       "productCount": 18,
       "totalRankPoints": 0,
-      "productShare": 1.9,
+      "productShare": 1.8,
       "pointsShare": 0,
       "topProduct": {
         "name": "1Transcribe",
@@ -345,9 +345,9 @@
     {
       "category": "crypto",
       "categoryName": "Crypto",
-      "productCount": 6,
+      "productCount": 7,
       "totalRankPoints": 0,
-      "productShare": 0.6,
+      "productShare": 0.7,
       "pointsShare": 0,
       "topProduct": {
         "name": "Orynth",

@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-11T17:14:47.981Z",
+  "generatedAt": "2026-11-12T17:38:23.294Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 972,
+  "count": 979,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-11-01T00:00:00.000Z",
@@ -14,7 +14,7 @@
     "monthKey": "2026-11",
     "weekKey": "2026-W46"
   },
-  "lastUpdated": "2026-11-11T13:18:19.101Z",
+  "lastUpdated": "2026-11-12T13:43:15.435Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -11680,6 +11680,90 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-11T13:18:19.101Z"
+    },
+    {
+      "id": "bicep-heart-ai-6cd887d8",
+      "name": "Bicep Heart AI",
+      "slug": "bicep-heart-ai-6cd887d8",
+      "url": "https://harpd.com/rank/bicep-heart-ai-6cd887d8/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 973,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-11T17:54:48.127Z"
+    },
+    {
+      "id": "datacircle-9b117a77",
+      "name": "Datacircle",
+      "slug": "datacircle-9b117a77",
+      "url": "https://harpd.com/rank/datacircle-9b117a77/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 974,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-11T19:54:18.434Z"
+    },
+    {
+      "id": "remove-watermark-from-video-e023d23d",
+      "name": "Remove Watermark from Video",
+      "slug": "remove-watermark-from-video-e023d23d",
+      "url": "https://harpd.com/rank/remove-watermark-from-video-e023d23d/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 975,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-11T20:09:57.464Z"
+    },
+    {
+      "id": "flying-car-ai-0eec1527",
+      "name": "Flying Car AI",
+      "slug": "flying-car-ai-0eec1527",
+      "url": "https://harpd.com/rank/flying-car-ai-0eec1527/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 976,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-11T20:38:59.935Z"
+    },
+    {
+      "id": "outstanding-tiny-desk-f7dd7489",
+      "name": "Outstanding Tiny Desk",
+      "slug": "outstanding-tiny-desk-f7dd7489",
+      "url": "https://harpd.com/rank/outstanding-tiny-desk-f7dd7489/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 977,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-11T21:11:08.682Z"
+    },
+    {
+      "id": "background-noise-remover-40ce2b78",
+      "name": "Background Noise Remover",
+      "slug": "background-noise-remover-40ce2b78",
+      "url": "https://harpd.com/rank/background-noise-remover-40ce2b78/",
+      "category": "audio",
+      "categoryName": "Audio",
+      "rank": 978,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-11T21:41:19.680Z"
+    },
+    {
+      "id": "247111-xyz-b294140b",
+      "name": "247111.XYZ",
+      "slug": "247111-xyz-b294140b",
+      "url": "https://harpd.com/rank/247111-xyz-b294140b/",
+      "category": "crypto",
+      "categoryName": "Crypto",
+      "rank": 979,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-12T13:43:15.435Z"
     }
   ]
 }

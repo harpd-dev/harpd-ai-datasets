@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-11T17:14:48.233Z",
+  "generatedAt": "2026-11-12T17:38:23.491Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 28,
-  "totalProducts": 972,
-  "lastUpdated": "2026-11-11T13:18:19.101Z",
+  "totalProducts": 979,
+  "lastUpdated": "2026-11-12T13:43:15.435Z",
   "categories": [
     {
       "slug": "seo",
@@ -41,13 +41,13 @@
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 109,
+      "productCount": 113,
       "rankedProductCount": 1,
       "totalRankPoints": 368,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-10T04:04:01.855Z"
+      "updatedAt": "2026-11-11T21:11:08.682Z"
     },
     {
       "slug": "marketing",
@@ -67,13 +67,13 @@
       "name": "Developer",
       "description": "Discover APIs, infrastructure, testing and productivity tools built for software teams.",
       "url": "https://harpd.com/rank/category/developer/",
-      "productCount": 112,
+      "productCount": 113,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-11T13:17:39.398Z"
+      "updatedAt": "2026-11-11T19:54:18.434Z"
     },
     {
       "slug": "productivity",
@@ -249,26 +249,26 @@
       "name": "Audio",
       "description": "Explore music, podcasting, voice and sound production tools.",
       "url": "https://harpd.com/rank/category/audio/",
-      "productCount": 40,
+      "productCount": 41,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-11-06T14:52:22.164Z"
+      "updatedAt": "2026-11-11T21:41:19.680Z"
     },
     {
       "slug": "crypto",
       "name": "Crypto",
       "description": "Discover wallets, trading, on-chain analytics and web3 infrastructure products.",
       "url": "https://harpd.com/rank/category/crypto/",
-      "productCount": 6,
+      "productCount": 7,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-04T08:18:19.357Z"
+      "updatedAt": "2026-11-12T13:43:15.435Z"
     },
     {
       "slug": "agencies",
