@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-12T17:38:22.986Z",
+  "generatedAt": "2026-11-13T17:15:39.584Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 979,
-  "lastUpdated": "2026-11-12T13:43:15.435Z",
+  "count": 983,
+  "lastUpdated": "2026-11-13T13:49:01.088Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -14691,6 +14691,66 @@
       "updatedAt": "2026-11-12T13:43:15.435Z",
       "website": "https://247111.xyz/",
       "description": "247111.XYZ puts crypto prices, market movements and trading calculators in one browser-based dashboard. Check market data, then use your own numbers to work through position size, trading fees or average entry without connecting a wallet.",
+      "productType": null
+    },
+    {
+      "id": "prop-firm-consistency-calculator-check-your-rule-af614b22",
+      "name": "Prop Firm Consistency Calculator - Check Your Rule",
+      "slug": "prop-firm-consistency-calculator-check-your-rule-af614b22",
+      "url": "https://harpd.com/rank/prop-firm-consistency-calculator-check-your-rule-af614b22/",
+      "category": "business",
+      "categoryName": "Business",
+      "rank": 980,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-13T00:18:03.885Z",
+      "website": "https://propfirmconsistency.com/",
+      "description": "Free prop firm consistency rule calculator: check your best-day percentage, required profit and remaining gap with plan-specific, source-linked presets.",
+      "productType": null
+    },
+    {
+      "id": "3pl-listing-directory-of-3pl-fulfillment-warehouses-c1484451",
+      "name": "3PL Listing - Directory of 3PL & Fulfillment Warehouses",
+      "slug": "3pl-listing-directory-of-3pl-fulfillment-warehouses-c1484451",
+      "url": "https://harpd.com/rank/3pl-listing-directory-of-3pl-fulfillment-warehouses-c1484451/",
+      "category": "ecommerce",
+      "categoryName": "Ecommerce",
+      "rank": 981,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-13T00:20:28.922Z",
+      "website": "https://3pllisting.com/",
+      "description": "Searchable directory of 3PL companies and fulfillment warehouses: compare locations, services and specialties to find the right logistics partner.",
+      "productType": null
+    },
+    {
+      "id": "adnetworkrank-65ff4333",
+      "name": "AdNetworkRank",
+      "slug": "adnetworkrank-65ff4333",
+      "url": "https://harpd.com/rank/adnetworkrank-65ff4333/",
+      "category": "marketing",
+      "categoryName": "Marketing",
+      "rank": 982,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-13T00:48:14.690Z",
+      "website": "https://adnetworkrank.com/",
+      "description": "Compare advertising networks by niche, geo, traffic type and payout model so media buyers can shortlist a network before signing up.",
+      "productType": null
+    },
+    {
+      "id": "creati-ai-042b4a73",
+      "name": "Creati.ai",
+      "slug": "creati-ai-042b4a73",
+      "url": "https://harpd.com/rank/creati-ai-042b4a73/",
+      "category": "directories",
+      "categoryName": "Directories",
+      "rank": 983,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-13T13:49:01.088Z",
+      "website": "https://creati.ai/",
+      "description": "Discover and compare AI tools with detailed listings, categories, and practical product information.",
       "productType": null
     }
   ]

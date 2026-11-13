@@ -10,8 +10,8 @@
     "periodKey": "2026-W46",
     "periodStart": "2026-11-09T00:00:00.000Z",
     "periodEnd": "2026-11-16T00:00:00.000Z",
-    "generatedAt": "2026-11-12T17:38:23.294Z",
-    "recordCount": 979,
+    "generatedAt": "2026-11-13T17:15:39.894Z",
+    "recordCount": 983,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -11762,6 +11762,54 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-11-12T13:43:15.435Z"
+    },
+    {
+      "id": "prop-firm-consistency-calculator-check-your-rule-af614b22",
+      "name": "Prop Firm Consistency Calculator - Check Your Rule",
+      "slug": "prop-firm-consistency-calculator-check-your-rule-af614b22",
+      "url": "https://harpd.com/rank/prop-firm-consistency-calculator-check-your-rule-af614b22/",
+      "category": "business",
+      "categoryName": "Business",
+      "rank": 980,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-13T00:18:03.885Z"
+    },
+    {
+      "id": "3pl-listing-directory-of-3pl-fulfillment-warehouses-c1484451",
+      "name": "3PL Listing - Directory of 3PL & Fulfillment Warehouses",
+      "slug": "3pl-listing-directory-of-3pl-fulfillment-warehouses-c1484451",
+      "url": "https://harpd.com/rank/3pl-listing-directory-of-3pl-fulfillment-warehouses-c1484451/",
+      "category": "ecommerce",
+      "categoryName": "Ecommerce",
+      "rank": 981,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-13T00:20:28.922Z"
+    },
+    {
+      "id": "adnetworkrank-65ff4333",
+      "name": "AdNetworkRank",
+      "slug": "adnetworkrank-65ff4333",
+      "url": "https://harpd.com/rank/adnetworkrank-65ff4333/",
+      "category": "marketing",
+      "categoryName": "Marketing",
+      "rank": 982,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-13T00:48:14.690Z"
+    },
+    {
+      "id": "creati-ai-042b4a73",
+      "name": "Creati.ai",
+      "slug": "creati-ai-042b4a73",
+      "url": "https://harpd.com/rank/creati-ai-042b4a73/",
+      "category": "directories",
+      "categoryName": "Directories",
+      "rank": 983,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-13T13:49:01.088Z"
     }
   ]
 }

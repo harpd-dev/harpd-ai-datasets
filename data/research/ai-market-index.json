@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-12T17:38:23.640Z",
+  "generatedAt": "2026-11-13T17:15:40.201Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "scope": "market-index",
-  "totalProducts": 979,
+  "totalProducts": 983,
   "totalRankPoints": 368,
   "categoryCount": 28,
-  "lastUpdated": "2026-11-12T13:43:15.435Z",
+  "lastUpdated": "2026-11-13T13:49:01.088Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 246,
       "totalRankPoints": 0,
-      "productShare": 25.1,
+      "productShare": 25,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -75,9 +75,9 @@
     {
       "category": "marketing",
       "categoryName": "Marketing",
-      "productCount": 49,
+      "productCount": 50,
       "totalRankPoints": 0,
-      "productShare": 5,
+      "productShare": 5.1,
       "pointsShare": 0,
       "topProduct": {
         "name": "EVO Marketing",
@@ -135,9 +135,9 @@
     {
       "category": "business",
       "categoryName": "Business",
-      "productCount": 32,
+      "productCount": 33,
       "totalRankPoints": 0,
-      "productShare": 3.3,
+      "productShare": 3.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "Klover",
@@ -152,7 +152,7 @@
       "categoryName": "Design",
       "productCount": 27,
       "totalRankPoints": 0,
-      "productShare": 2.8,
+      "productShare": 2.7,
       "pointsShare": 0,
       "topProduct": {
         "name": "NeoCam",
@@ -225,9 +225,9 @@
     {
       "category": "directories",
       "categoryName": "Directories",
-      "productCount": 17,
+      "productCount": 18,
       "totalRankPoints": 0,
-      "productShare": 1.7,
+      "productShare": 1.8,
       "pointsShare": 0,
       "topProduct": {
         "name": "Neeed",
@@ -300,9 +300,9 @@
     {
       "category": "ecommerce",
       "categoryName": "Ecommerce",
-      "productCount": 9,
+      "productCount": 10,
       "totalRankPoints": 0,
-      "productShare": 0.9,
+      "productShare": 1,
       "pointsShare": 0,
       "topProduct": {
         "name": "Four",

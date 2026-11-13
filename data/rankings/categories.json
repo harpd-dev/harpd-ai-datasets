@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-12T17:38:23.491Z",
+  "generatedAt": "2026-11-13T17:15:40.077Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 28,
-  "totalProducts": 979,
-  "lastUpdated": "2026-11-12T13:43:15.435Z",
+  "totalProducts": 983,
+  "lastUpdated": "2026-11-13T13:49:01.088Z",
   "categories": [
     {
       "slug": "seo",
@@ -54,13 +54,13 @@
       "name": "Marketing",
       "description": "Explore products for campaigns, growth, analytics, attribution and customer communication.",
       "url": "https://harpd.com/rank/category/marketing/",
-      "productCount": 49,
+      "productCount": 50,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-10T11:37:37.022Z"
+      "updatedAt": "2026-11-13T00:48:14.690Z"
     },
     {
       "slug": "developer",
@@ -158,13 +158,13 @@
       "name": "Business",
       "description": "Discover operations, finance, legal and admin products that run the back office.",
       "url": "https://harpd.com/rank/category/business/",
-      "productCount": 32,
+      "productCount": 33,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-11T13:18:19.101Z"
+      "updatedAt": "2026-11-13T00:18:03.885Z"
     },
     {
       "slug": "games",
@@ -210,26 +210,26 @@
       "name": "Ecommerce",
       "description": "Discover storefronts, product feeds, checkout and merchandising tools for online sellers.",
       "url": "https://harpd.com/rank/category/ecommerce/",
-      "productCount": 9,
+      "productCount": 10,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-03T04:00:12.849Z"
+      "updatedAt": "2026-11-13T00:20:28.922Z"
     },
     {
       "slug": "directories",
       "name": "Directories",
       "description": "Explore directories, catalogues and curated lists that organize products or information.",
       "url": "https://harpd.com/rank/category/directories/",
-      "productCount": 17,
+      "productCount": 18,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-11-03T09:09:06.912Z"
+      "updatedAt": "2026-11-13T13:49:01.088Z"
     },
     {
       "slug": "hiring",
