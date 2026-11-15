@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-14T15:51:57.517Z",
+  "generatedAt": "2026-11-15T16:26:01.570Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 983,
-  "lastUpdated": "2026-11-13T13:49:01.088Z",
+  "count": 986,
+  "lastUpdated": "2026-11-15T13:34:31.471Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -14751,6 +14751,51 @@
       "updatedAt": "2026-11-13T13:49:01.088Z",
       "website": "https://creati.ai/",
       "description": "Discover and compare AI tools with detailed listings, categories, and practical product information.",
+      "productType": null
+    },
+    {
+      "id": "imageditorai-c2eada87",
+      "name": "ImagEditorAI",
+      "slug": "imageditorai-c2eada87",
+      "url": "https://harpd.com/rank/imageditorai-c2eada87/",
+      "category": "design",
+      "categoryName": "Design",
+      "rank": 984,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-14T17:36:47.414Z",
+      "website": "https://imageditorai.com/",
+      "description": "Free online AI image editor that edits photos with plain-language prompts: remove objects, replace backgrounds, restore old photos, restyle portraits and product shots. No sign-up to start, free daily credits, no watermarks.",
+      "productType": null
+    },
+    {
+      "id": "aion-2-pets-efeb0035",
+      "name": "AION 2 Pets",
+      "slug": "aion-2-pets-efeb0035",
+      "url": "https://harpd.com/rank/aion-2-pets-efeb0035/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 985,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-15T10:49:08.419Z",
+      "website": "https://aion2pets.org/",
+      "description": "AION 2 Pets is a free companion for AION 2 players who collect pets. Browse the pet atlas with stats and sources, check regional spawn maps, and track which pets you have collected; your progress stays in your browser. Fan-made reference site; not a playable game and not affiliat",
+      "productType": null
+    },
+    {
+      "id": "nowah-c8ae8d62",
+      "name": "Nowah",
+      "slug": "nowah-c8ae8d62",
+      "url": "https://harpd.com/rank/nowah-c8ae8d62/",
+      "category": "travel",
+      "categoryName": "Travel",
+      "rank": 986,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-15T13:34:31.471Z",
+      "website": "https://nowah.xyz/",
+      "description": "Nowah is an AI travel app that helps you plan and book trips in one conversation. Build personalized itineraries, search and book live flights, and turn travel reels into mapped plans. Available on the web, iPhone and Android, with a free plan to get started.",
       "productType": null
     }
   ]

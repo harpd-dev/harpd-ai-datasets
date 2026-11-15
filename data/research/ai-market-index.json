@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-14T15:51:58.124Z",
+  "generatedAt": "2026-11-15T16:26:02.107Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "scope": "market-index",
-  "totalProducts": 983,
+  "totalProducts": 986,
   "totalRankPoints": 368,
   "categoryCount": 28,
-  "lastUpdated": "2026-11-13T13:49:01.088Z",
+  "lastUpdated": "2026-11-15T13:34:31.471Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 246,
       "totalRankPoints": 0,
-      "productShare": 25,
+      "productShare": 24.9,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -137,7 +137,7 @@
       "categoryName": "Business",
       "productCount": 33,
       "totalRankPoints": 0,
-      "productShare": 3.4,
+      "productShare": 3.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "Klover",
@@ -150,9 +150,9 @@
     {
       "category": "design",
       "categoryName": "Design",
-      "productCount": 27,
+      "productCount": 28,
       "totalRankPoints": 0,
-      "productShare": 2.7,
+      "productShare": 2.8,
       "pointsShare": 0,
       "topProduct": {
         "name": "NeoCam",
@@ -255,9 +255,9 @@
     {
       "category": "games",
       "categoryName": "Games",
-      "productCount": 13,
+      "productCount": 14,
       "totalRankPoints": 0,
-      "productShare": 1.3,
+      "productShare": 1.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "Degen Idle",
@@ -270,9 +270,9 @@
     {
       "category": "travel",
       "categoryName": "Travel",
-      "productCount": 11,
+      "productCount": 12,
       "totalRankPoints": 0,
-      "productShare": 1.1,
+      "productShare": 1.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "Wento",
