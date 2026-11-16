@@ -1,20 +1,20 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-15T16:26:01.818Z",
+  "generatedAt": "2026-11-16T19:40:54.022Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 986,
+  "count": 995,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-11-01T00:00:00.000Z",
     "monthEnd": "2026-12-01T00:00:00.000Z",
-    "weekStart": "2026-11-09T00:00:00.000Z",
-    "weekEnd": "2026-11-16T00:00:00.000Z",
+    "weekStart": "2026-11-16T00:00:00.000Z",
+    "weekEnd": "2026-11-23T00:00:00.000Z",
     "monthKey": "2026-11",
-    "weekKey": "2026-W46"
+    "weekKey": "2026-W47"
   },
-  "lastUpdated": "2026-11-15T13:34:31.471Z",
+  "lastUpdated": "2026-11-16T11:18:43.562Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -11848,6 +11848,114 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-11-15T13:34:31.471Z"
+    },
+    {
+      "id": "tagyourbeat-09c0dc25",
+      "name": "TagYourBeat",
+      "slug": "tagyourbeat-09c0dc25",
+      "url": "https://harpd.com/rank/tagyourbeat-09c0dc25/",
+      "category": "audio",
+      "categoryName": "Audio",
+      "rank": 987,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-15T18:11:40.128Z"
+    },
+    {
+      "id": "toonderly-4610d183",
+      "name": "Toonderly",
+      "slug": "toonderly-4610d183",
+      "url": "https://harpd.com/rank/toonderly-4610d183/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 988,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-15T19:39:50.879Z"
+    },
+    {
+      "id": "stage-tour-guide-f1137249",
+      "name": "Stage Tour Guide",
+      "slug": "stage-tour-guide-f1137249",
+      "url": "https://harpd.com/rank/stage-tour-guide-f1137249/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 989,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-16T05:13:41.169Z"
+    },
+    {
+      "id": "contador-de-palabras-ad12da1d",
+      "name": "Contador de Palabras",
+      "slug": "contador-de-palabras-ad12da1d",
+      "url": "https://harpd.com/rank/contador-de-palabras-ad12da1d/",
+      "category": "writing",
+      "categoryName": "Writing",
+      "rank": 990,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-16T05:26:24.138Z"
+    },
+    {
+      "id": "patchwork-tattoos-120760fb",
+      "name": "Patchwork Tattoos",
+      "slug": "patchwork-tattoos-120760fb",
+      "url": "https://harpd.com/rank/patchwork-tattoos-120760fb/",
+      "category": "design",
+      "categoryName": "Design",
+      "rank": 991,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-16T05:28:07.193Z"
+    },
+    {
+      "id": "mojisuu-527e5fc4",
+      "name": "Mojisuu",
+      "slug": "mojisuu-527e5fc4",
+      "url": "https://harpd.com/rank/mojisuu-527e5fc4/",
+      "category": "writing",
+      "categoryName": "Writing",
+      "rank": 992,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-16T05:29:26.106Z"
+    },
+    {
+      "id": "gta-6-map-38f42fc3",
+      "name": "GTA 6 Map",
+      "slug": "gta-6-map-38f42fc3",
+      "url": "https://harpd.com/rank/gta-6-map-38f42fc3/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 993,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-16T05:29:53.301Z"
+    },
+    {
+      "id": "rob-run-wiki-4095926b",
+      "name": "ROB RUN Wiki",
+      "slug": "rob-run-wiki-4095926b",
+      "url": "https://harpd.com/rank/rob-run-wiki-4095926b/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 994,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-16T06:24:16.410Z"
+    },
+    {
+      "id": "football-krillion-56b5dfa3",
+      "name": "Football Krillion",
+      "slug": "football-krillion-56b5dfa3",
+      "url": "https://harpd.com/rank/football-krillion-56b5dfa3/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 995,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-16T11:18:43.562Z"
     }
   ]
 }
