@@ -10,8 +10,8 @@
     "periodKey": "2026-W47",
     "periodStart": "2026-11-16T00:00:00.000Z",
     "periodEnd": "2026-11-23T00:00:00.000Z",
-    "generatedAt": "2026-11-16T19:40:54.022Z",
-    "recordCount": 995,
+    "generatedAt": "2026-11-17T18:38:29.013Z",
+    "recordCount": 1002,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -11954,6 +11954,90 @@
       "rankPoints": 0,
       "verified": true,
       "updatedAt": "2026-11-16T11:18:43.562Z"
+    },
+    {
+      "id": "tinycommand-4619f19c",
+      "name": "TinyCommand",
+      "slug": "tinycommand-4619f19c",
+      "url": "https://harpd.com/rank/tinycommand-4619f19c/",
+      "category": "agents",
+      "categoryName": "Agents",
+      "rank": 996,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-17T07:36:12.513Z"
+    },
+    {
+      "id": "agentseo-681b7fe8",
+      "name": "AgentSEO",
+      "slug": "agentseo-681b7fe8",
+      "url": "https://harpd.com/rank/agentseo-681b7fe8/",
+      "category": "seo",
+      "categoryName": "SEO",
+      "rank": 997,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-17T07:47:35.511Z"
+    },
+    {
+      "id": "letra-cursiva-eecb969b",
+      "name": "Letra Cursiva",
+      "slug": "letra-cursiva-eecb969b",
+      "url": "https://harpd.com/rank/letra-cursiva-eecb969b/",
+      "category": "writing",
+      "categoryName": "Writing",
+      "rank": 998,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-17T07:54:41.821Z"
+    },
+    {
+      "id": "dot-symbol-bfa64ade",
+      "name": "Dot Symbol",
+      "slug": "dot-symbol-bfa64ade",
+      "url": "https://harpd.com/rank/dot-symbol-bfa64ade/",
+      "category": "writing",
+      "categoryName": "Writing",
+      "rank": 999,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-17T08:10:38.581Z"
+    },
+    {
+      "id": "rare-dive-4f0b4dc4",
+      "name": "Rare Dive",
+      "slug": "rare-dive-4f0b4dc4",
+      "url": "https://harpd.com/rank/rare-dive-4f0b4dc4/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 1000,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-17T10:01:35.914Z"
+    },
+    {
+      "id": "therefor-13d67804",
+      "name": "Therefor",
+      "slug": "therefor-13d67804",
+      "url": "https://harpd.com/rank/therefor-13d67804/",
+      "category": "audio",
+      "categoryName": "Audio",
+      "rank": 1001,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-17T12:45:40.806Z"
+    },
+    {
+      "id": "random-topic-generator-7fc1a257",
+      "name": "Random Topic Generator",
+      "slug": "random-topic-generator-7fc1a257",
+      "url": "https://harpd.com/rank/random-topic-generator-7fc1a257/",
+      "category": "education",
+      "categoryName": "Education",
+      "rank": 1002,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-17T15:34:49.649Z"
     }
   ]
 }

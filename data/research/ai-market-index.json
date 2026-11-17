@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-16T19:40:54.347Z",
+  "generatedAt": "2026-11-17T18:38:29.688Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "scope": "market-index",
-  "totalProducts": 995,
+  "totalProducts": 1002,
   "totalRankPoints": 368,
   "categoryCount": 28,
-  "lastUpdated": "2026-11-16T11:18:43.562Z",
+  "lastUpdated": "2026-11-17T15:34:49.649Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 246,
       "totalRankPoints": 0,
-      "productShare": 24.7,
+      "productShare": 24.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -32,7 +32,7 @@
       "categoryName": "AI Media",
       "productCount": 114,
       "totalRankPoints": 368,
-      "productShare": 11.5,
+      "productShare": 11.4,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
@@ -47,7 +47,7 @@
       "categoryName": "Developer",
       "productCount": 113,
       "totalRankPoints": 0,
-      "productShare": 11.4,
+      "productShare": 11.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "Cursor",
@@ -60,9 +60,9 @@
     {
       "category": "agents",
       "categoryName": "Agents",
-      "productCount": 66,
+      "productCount": 67,
       "totalRankPoints": 0,
-      "productShare": 6.6,
+      "productShare": 6.7,
       "pointsShare": 0,
       "topProduct": {
         "name": "Claude",
@@ -90,9 +90,9 @@
     {
       "category": "seo",
       "categoryName": "SEO",
-      "productCount": 45,
+      "productCount": 46,
       "totalRankPoints": 0,
-      "productShare": 4.5,
+      "productShare": 4.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "Semrush",
@@ -120,9 +120,9 @@
     {
       "category": "audio",
       "categoryName": "Audio",
-      "productCount": 42,
+      "productCount": 43,
       "totalRankPoints": 0,
-      "productShare": 4.2,
+      "productShare": 4.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "15Minutes",
@@ -178,6 +178,21 @@
       "boardUrl": "https://harpd.com/rank/category/hiring/"
     },
     {
+      "category": "education",
+      "categoryName": "Education",
+      "productCount": 23,
+      "totalRankPoints": 0,
+      "productShare": 2.3,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "1001 Record",
+        "slug": "1001-record",
+        "url": "https://harpd.com/rank/1001-record/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/education/"
+    },
+    {
       "category": "health",
       "categoryName": "Health",
       "productCount": 22,
@@ -193,26 +208,11 @@
       "boardUrl": "https://harpd.com/rank/category/health/"
     },
     {
-      "category": "education",
-      "categoryName": "Education",
+      "category": "writing",
+      "categoryName": "Writing",
       "productCount": 22,
       "totalRankPoints": 0,
       "productShare": 2.2,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "1001 Record",
-        "slug": "1001-record",
-        "url": "https://harpd.com/rank/1001-record/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/education/"
-    },
-    {
-      "category": "writing",
-      "categoryName": "Writing",
-      "productCount": 20,
-      "totalRankPoints": 0,
-      "productShare": 2,
       "pointsShare": 0,
       "topProduct": {
         "name": "1Transcribe",
@@ -225,9 +225,9 @@
     {
       "category": "games",
       "categoryName": "Games",
-      "productCount": 18,
+      "productCount": 19,
       "totalRankPoints": 0,
-      "productShare": 1.8,
+      "productShare": 1.9,
       "pointsShare": 0,
       "topProduct": {
         "name": "Degen Idle",
