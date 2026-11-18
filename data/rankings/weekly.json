@@ -7,11 +7,11 @@
     "sourceUrl": "https://harpd.com/rank/",
     "citationUrl": "https://harpd.com/data/",
     "canonicalUrl": "https://harpd.com/rank/",
-    "periodKey": "2026-W47",
+    "periodKey": null,
     "periodStart": "2026-11-16T00:00:00.000Z",
     "periodEnd": "2026-11-23T00:00:00.000Z",
-    "generatedAt": "2026-11-17T18:38:29.013Z",
-    "recordCount": 1002,
+    "generatedAt": "2026-11-18T18:10:17.653Z",
+    "recordCount": 975,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -1636,30 +1636,6 @@
       "updatedAt": "2026-09-15T00:44:54.170Z"
     },
     {
-      "id": "acumbamail",
-      "name": "Acumbamail",
-      "slug": "acumbamail",
-      "url": "https://harpd.com/rank/acumbamail/",
-      "category": "marketing",
-      "categoryName": "Marketing",
-      "rank": 136,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T00:44:54.170Z"
-    },
-    {
-      "id": "acurio",
-      "name": "Acurio",
-      "slug": "acurio",
-      "url": "https://harpd.com/rank/acurio/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 137,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T00:44:54.170Z"
-    },
-    {
       "id": "ad-swipe-file",
       "name": "Ad Swipe File",
       "slug": "ad-swipe-file",
@@ -1840,18 +1816,6 @@
       "updatedAt": "2026-09-15T00:44:54.170Z"
     },
     {
-      "id": "adminvps",
-      "name": "AdminVPS",
-      "slug": "adminvps",
-      "url": "https://harpd.com/rank/adminvps/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 153,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T00:44:54.170Z"
-    },
-    {
       "id": "admissionsos",
       "name": "AdmissionsOS",
       "slug": "admissionsos",
@@ -1970,18 +1934,6 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-15T00:44:54.170Z"
-    },
-    {
-      "id": "adspolar",
-      "name": "AdsPolar｜跨境电商广告投流工具",
-      "slug": "adspolar",
-      "url": "https://harpd.com/rank/adspolar/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 164,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z"
     },
     {
       "id": "adspyder",
@@ -2320,18 +2272,6 @@
       "updatedAt": "2026-11-03T04:05:45.308Z"
     },
     {
-      "id": "catalizadora",
-      "name": "Catalizadora",
-      "slug": "catalizadora",
-      "url": "https://harpd.com/rank/catalizadora/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 193,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T00:44:54.170Z"
-    },
-    {
       "id": "catempire",
       "name": "CatEmpire",
       "slug": "catempire",
@@ -2543,18 +2483,6 @@
       "category": "developer",
       "categoryName": "Developer",
       "rank": 211,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z"
-    },
-    {
-      "id": "flo-w-notion",
-      "name": "FLO.W Notion",
-      "slug": "flo-w-notion",
-      "url": "https://harpd.com/rank/flo-w-notion/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 212,
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-03T04:00:12.849Z"
@@ -2944,18 +2872,6 @@
       "updatedAt": "2026-11-03T04:00:12.849Z"
     },
     {
-      "id": "laskuri-bitcoinin-ja-kryptovaluuttojen-verotukseen",
-      "name": "Laskuri bitcoinin ja kryptovaluuttojen verotukseen",
-      "slug": "laskuri-bitcoinin-ja-kryptovaluuttojen-verotukseen",
-      "url": "https://harpd.com/rank/laskuri-bitcoinin-ja-kryptovaluuttojen-verotukseen/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 245,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z"
-    },
-    {
       "id": "lastspot",
       "name": "LastSpot",
       "slug": "lastspot",
@@ -3107,18 +3023,6 @@
       "category": "travel",
       "categoryName": "Travel",
       "rank": 258,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z"
-    },
-    {
-      "id": "mathias-onea",
-      "name": "Mathias Onea",
-      "slug": "mathias-onea",
-      "url": "https://harpd.com/rank/mathias-onea/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 259,
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-03T04:00:12.849Z"
@@ -3760,18 +3664,6 @@
       "updatedAt": "2026-09-15T00:44:54.170Z"
     },
     {
-      "id": "silent-expanse-strife",
-      "name": "Silent Expanse: Strife",
-      "slug": "silent-expanse-strife",
-      "url": "https://harpd.com/rank/silent-expanse-strife/",
-      "category": "agents",
-      "categoryName": "Agents",
-      "rank": 313,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z"
-    },
-    {
       "id": "slidedrift",
       "name": "SlideDrift",
       "slug": "slidedrift",
@@ -4120,18 +4012,6 @@
       "updatedAt": "2026-11-03T04:00:12.849Z"
     },
     {
-      "id": "trysawt-com",
-      "name": "صوت",
-      "slug": "trysawt-com",
-      "url": "https://harpd.com/rank/trysawt-com/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 343,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T00:44:54.170Z"
-    },
-    {
       "id": "twitr-sh",
       "name": "twitr.sh",
       "slug": "twitr-sh",
@@ -4178,18 +4058,6 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-15T00:44:54.170Z"
-    },
-    {
-      "id": "vavada-casino",
-      "name": "vavada casino",
-      "slug": "vavada-casino",
-      "url": "https://harpd.com/rank/vavada-casino/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 348,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z"
     },
     {
       "id": "vectorizer-studio",
@@ -4898,18 +4766,6 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-15T03:58:43.395Z"
-    },
-    {
-      "id": "ai-brother-ai",
-      "name": "AI Brother 在看着你：AI 浏览器专注工具",
-      "slug": "ai-brother-ai",
-      "url": "https://harpd.com/rank/ai-brother-ai/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 408,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z"
     },
     {
       "id": "ai-business",
@@ -5884,18 +5740,6 @@
       "updatedAt": "2026-11-03T04:00:12.849Z"
     },
     {
-      "id": "aidive",
-      "name": "AIDive",
-      "slug": "aidive",
-      "url": "https://harpd.com/rank/aidive/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 490,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z"
-    },
-    {
       "id": "aifeed-dev",
       "name": "aifeed.dev",
       "slug": "aifeed-dev",
@@ -6050,18 +5894,6 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-15T03:58:43.395Z"
-    },
-    {
-      "id": "ainude",
-      "name": "AINude",
-      "slug": "ainude",
-      "url": "https://harpd.com/rank/ainude/",
-      "category": "business",
-      "categoryName": "Business",
-      "rank": 504,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z"
     },
     {
       "id": "aipassportphoto",
@@ -6676,18 +6508,6 @@
       "updatedAt": "2026-09-15T03:58:43.395Z"
     },
     {
-      "id": "alquilame-io",
-      "name": "Alquilame.io",
-      "slug": "alquilame-io",
-      "url": "https://harpd.com/rank/alquilame-io/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 556,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z"
-    },
-    {
       "id": "altcaption",
       "name": "AltCaption",
       "slug": "altcaption",
@@ -7252,18 +7072,6 @@
       "updatedAt": "2026-09-15T03:58:43.395Z"
     },
     {
-      "id": "antm-solutions",
-      "name": "ANTM Solutions",
-      "slug": "antm-solutions",
-      "url": "https://harpd.com/rank/antm-solutions/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 604,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z"
-    },
-    {
       "id": "antwork",
       "name": "Antwork",
       "slug": "antwork",
@@ -7624,18 +7432,6 @@
       "updatedAt": "2026-11-03T04:00:12.849Z"
     },
     {
-      "id": "apostrophe",
-      "name": "Apostrophe·",
-      "slug": "apostrophe",
-      "url": "https://harpd.com/rank/apostrophe/",
-      "category": "audio",
-      "categoryName": "Audio",
-      "rank": 635,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z"
-    },
-    {
       "id": "app-showcase",
       "name": "App Showcase",
       "slug": "app-showcase",
@@ -7876,18 +7672,6 @@
       "updatedAt": "2026-09-15T03:58:43.395Z"
     },
     {
-      "id": "aprobare",
-      "name": "Aprobaré",
-      "slug": "aprobare",
-      "url": "https://harpd.com/rank/aprobare/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 656,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z"
-    },
-    {
       "id": "ar-button",
       "name": "AR Button",
       "slug": "ar-button",
@@ -7919,18 +7703,6 @@
       "category": "design",
       "categoryName": "Design",
       "rank": 659,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z"
-    },
-    {
-      "id": "arcookie",
-      "name": "ARCOOKIE",
-      "slug": "arcookie",
-      "url": "https://harpd.com/rank/arcookie/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 660,
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-15T03:58:43.395Z"
@@ -8044,18 +7816,6 @@
       "updatedAt": "2026-09-15T03:58:43.395Z"
     },
     {
-      "id": "artemion",
-      "name": "Artemion",
-      "slug": "artemion",
-      "url": "https://harpd.com/rank/artemion/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 670,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z"
-    },
-    {
       "id": "artemis-leads",
       "name": "Artemis Leads",
       "slug": "artemis-leads",
@@ -8087,18 +7847,6 @@
       "category": "audio",
       "categoryName": "Audio",
       "rank": 673,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z"
-    },
-    {
-      "id": "artikelschreiber-com",
-      "name": "ArtikelSchreiber.com",
-      "slug": "artikelschreiber-com",
-      "url": "https://harpd.com/rank/artikelschreiber-com/",
-      "category": "seo",
-      "categoryName": "SEO",
-      "rank": 674,
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-15T03:58:43.395Z"
@@ -8171,18 +7919,6 @@
       "category": "agents",
       "categoryName": "Agents",
       "rank": 680,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z"
-    },
-    {
-      "id": "ascends-life",
-      "name": "Ascends Life",
-      "slug": "ascends-life",
-      "url": "https://harpd.com/rank/ascends-life/",
-      "category": "audio",
-      "categoryName": "Audio",
-      "rank": 681,
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-15T03:58:43.395Z"
@@ -8510,18 +8246,6 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-15T03:58:43.395Z"
-    },
-    {
-      "id": "ativos-pt",
-      "name": "Ativos.pt",
-      "slug": "ativos-pt",
-      "url": "https://harpd.com/rank/ativos-pt/",
-      "category": "business",
-      "categoryName": "Business",
-      "rank": 709,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:05:45.308Z"
     },
     {
       "id": "atlas",
@@ -8920,18 +8644,6 @@
       "updatedAt": "2026-09-15T03:58:43.395Z"
     },
     {
-      "id": "automatisation-dev",
-      "name": "Automatisation.dev",
-      "slug": "automatisation-dev",
-      "url": "https://harpd.com/rank/automatisation-dev/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 743,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z"
-    },
-    {
       "id": "automemes-ai",
       "name": "AutoMemes.ai",
       "slug": "automemes-ai",
@@ -9122,18 +8834,6 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-03T04:00:12.849Z"
-    },
-    {
-      "id": "fotos-profesionales-con-ia",
-      "name": "Fotos Profesionales con IA",
-      "slug": "fotos-profesionales-con-ia",
-      "url": "https://harpd.com/rank/fotos-profesionales-con-ia/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 760,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z"
     },
     {
       "id": "free-ai-article-summarizer",
@@ -9364,18 +9064,6 @@
       "updatedAt": "2026-11-03T04:00:12.849Z"
     },
     {
-      "id": "macau328",
-      "name": "Macau328",
-      "slug": "macau328",
-      "url": "https://harpd.com/rank/macau328/",
-      "category": "agents",
-      "categoryName": "Agents",
-      "rank": 780,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:05:45.308Z"
-    },
-    {
       "id": "magic-animal-creator",
       "name": "Magic Animal Creator",
       "slug": "magic-animal-creator",
@@ -9446,18 +9134,6 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-03T04:00:12.849Z"
-    },
-    {
-      "id": "nettoyage-premium",
-      "name": "Nettoyage premium",
-      "slug": "nettoyage-premium",
-      "url": "https://harpd.com/rank/nettoyage-premium/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 787,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z"
     },
     {
       "id": "official-edimakor-ai-web-online-dashboard-create-ai-images-ai-videos",
@@ -9616,18 +9292,6 @@
       "updatedAt": "2026-09-15T03:58:43.395Z"
     },
     {
-      "id": "snaptik",
-      "name": "Snaptik",
-      "slug": "snaptik",
-      "url": "https://harpd.com/rank/snaptik/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 801,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z"
-    },
-    {
       "id": "somebody-is-being-recommended-find-out-who",
       "name": "Somebody is being recommended. Find out who.",
       "slug": "somebody-is-being-recommended-find-out-who",
@@ -9722,18 +9386,6 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-15T03:58:43.395Z"
-    },
-    {
-      "id": "teepublic",
-      "name": "TeePublic",
-      "slug": "teepublic",
-      "url": "https://harpd.com/rank/teepublic/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 810,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z"
     },
     {
       "id": "the-best-anti-phishing-for-inbox-security-in-2024",
@@ -9916,18 +9568,6 @@
       "updatedAt": "2026-09-24T14:25:23.056Z"
     },
     {
-      "id": "product-9b2931ff",
-      "name": "مترجم مانجا بالذكاء الاصطناعي",
-      "slug": "product-9b2931ff",
-      "url": "https://harpd.com/rank/product-9b2931ff/",
-      "category": "ai-media",
-      "categoryName": "AI Media",
-      "rank": 826,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-28T16:40:37.272Z"
-    },
-    {
       "id": "call24-1143720d",
       "name": "Call24",
       "slug": "call24-1143720d",
@@ -9974,18 +9614,6 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-10-09T04:37:33.610Z"
-    },
-    {
-      "id": "codexhot-com-d5587f18",
-      "name": "热核算力 (codexhot.com)",
-      "slug": "codexhot-com-d5587f18",
-      "url": "https://harpd.com/rank/codexhot-com-d5587f18/",
-      "category": "developer",
-      "categoryName": "Developer",
-      "rank": 831,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-10-09T06:25:40.080Z"
     },
     {
       "id": "venusx-1db52e7b",
@@ -10586,18 +10214,6 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-10-22T16:39:28.047Z"
-    },
-    {
-      "id": "80-18504944",
-      "name": "80億分之一",
-      "slug": "80-18504944",
-      "url": "https://harpd.com/rank/80-18504944/",
-      "category": "games",
-      "categoryName": "Games",
-      "rank": 882,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-10-22T21:50:49.950Z"
     },
     {
       "id": "cadcraft-0f111a9b",
@@ -12038,6 +11654,66 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-17T15:34:49.649Z"
+    },
+    {
+      "id": "vocalremoverapp-f020e4c7",
+      "name": "VocalRemoverApp",
+      "slug": "vocalremoverapp-f020e4c7",
+      "url": "https://harpd.com/rank/vocalremoverapp-f020e4c7/",
+      "category": "audio",
+      "categoryName": "Audio",
+      "rank": 1003,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-17T22:14:13.767Z"
+    },
+    {
+      "id": "sunset-today-d3733702",
+      "name": "Sunset Today",
+      "slug": "sunset-today-d3733702",
+      "url": "https://harpd.com/rank/sunset-today-d3733702/",
+      "category": "productivity",
+      "categoryName": "Productivity",
+      "rank": 1004,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-18T02:55:06.426Z"
+    },
+    {
+      "id": "seedance-2-5-66a05505",
+      "name": "Seedance 2.5",
+      "slug": "seedance-2-5-66a05505",
+      "url": "https://harpd.com/rank/seedance-2-5-66a05505/",
+      "category": "other",
+      "categoryName": "Other",
+      "rank": 1005,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-18T07:15:36.081Z"
+    },
+    {
+      "id": "ordogrid-3ac08ac2",
+      "name": "OrdoGrid",
+      "slug": "ordogrid-3ac08ac2",
+      "url": "https://harpd.com/rank/ordogrid-3ac08ac2/",
+      "category": "business",
+      "categoryName": "Business",
+      "rank": 1006,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-18T08:11:21.141Z"
+    },
+    {
+      "id": "proxylite-47bef12b",
+      "name": "ProxyLite",
+      "slug": "proxylite-47bef12b",
+      "url": "https://harpd.com/rank/proxylite-47bef12b/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1007,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-18T14:20:19.250Z"
     }
   ]
 }

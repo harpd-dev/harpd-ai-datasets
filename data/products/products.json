@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-17T18:38:28.404Z",
+  "generatedAt": "2026-11-18T18:10:17.123Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1002,
-  "lastUpdated": "2026-11-17T15:34:49.649Z",
+  "count": 975,
+  "lastUpdated": "2026-11-18T14:20:19.250Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -2034,36 +2034,6 @@
       "productType": null
     },
     {
-      "id": "acumbamail",
-      "name": "Acumbamail",
-      "slug": "acumbamail",
-      "url": "https://harpd.com/rank/acumbamail/",
-      "category": "marketing",
-      "categoryName": "Marketing",
-      "rank": 136,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T00:44:54.170Z",
-      "website": "https://acumbamail.com/",
-      "description": "Campañas de email marketing, SMS y landing pages efectivas en pocos minutos con la mejor plataforma de marketing.",
-      "productType": null
-    },
-    {
-      "id": "acurio",
-      "name": "Acurio",
-      "slug": "acurio",
-      "url": "https://harpd.com/rank/acurio/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 137,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T00:44:54.170Z",
-      "website": "https://acurio.ch/",
-      "description": "Bachelorarbeit oder Masterarbeit prüfen lassen: Acurio liest jedes Zitat Wort für Wort gegen deine Quell-PDFs. Für Arbeiten als Word, PDF oder LaTeX. Tiefer als ein KI-Lektorat, sicherer als jede manuelle Kontrolle. DSGVO-konform, aus der Schweiz.",
-      "productType": null
-    },
-    {
       "id": "ad-swipe-file",
       "name": "Ad Swipe File",
       "slug": "ad-swipe-file",
@@ -2289,21 +2259,6 @@
       "productType": null
     },
     {
-      "id": "adminvps",
-      "name": "AdminVPS",
-      "slug": "adminvps",
-      "url": "https://harpd.com/rank/adminvps/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 153,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T00:44:54.170Z",
-      "website": "https://adminvps.ru/",
-      "description": "Аренда VPS и VDS серверов по всему миру. NVMe, 24/7 поддержка, тестовый период 7 дней. Дата-центры в РФ, Европе и Азии. Мгновенная активация.",
-      "productType": null
-    },
-    {
       "id": "admissionsos",
       "name": "AdmissionsOS",
       "slug": "admissionsos",
@@ -2451,21 +2406,6 @@
       "updatedAt": "2026-09-15T00:44:54.170Z",
       "website": "https://adspoke.ai/",
       "description": "Create scroll-stopping UGC video ads with AI actors in minutes. Test faster, scale better. No filming, no actors needed. Start creating today.",
-      "productType": null
-    },
-    {
-      "id": "adspolar",
-      "name": "AdsPolar｜跨境电商广告投流工具",
-      "slug": "adspolar",
-      "url": "https://harpd.com/rank/adspolar/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 164,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z",
-      "website": "https://adspolar.com/cn",
-      "description": "AdsPolar｜跨境电商广告投流工具",
       "productType": null
     },
     {
@@ -2889,21 +2829,6 @@
       "productType": null
     },
     {
-      "id": "catalizadora",
-      "name": "Catalizadora",
-      "slug": "catalizadora",
-      "url": "https://harpd.com/rank/catalizadora/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 193,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T00:44:54.170Z",
-      "website": "https://catalizadora.ai/",
-      "description": "Construimos software empresarial con inteligencia artificial hecho a tu nombre. Metodología MAGIA: entrega en 12 semanas, tú conservas el 100% del código. Desde $4,500 USD.",
-      "productType": null
-    },
-    {
       "id": "catempire",
       "name": "CatEmpire",
       "slug": "catempire",
@@ -3171,21 +3096,6 @@
       "updatedAt": "2026-11-03T04:00:12.849Z",
       "website": "https://feedbackjar.com/",
       "description": "FeedbackJar gives your coding agent the context it needs. You ship the fix. Users get notified automatically.",
-      "productType": null
-    },
-    {
-      "id": "flo-w-notion",
-      "name": "FLO.W Notion",
-      "slug": "flo-w-notion",
-      "url": "https://harpd.com/rank/flo-w-notion/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 212,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z",
-      "website": "https://21notion.com/",
-      "description": "FLO.W 思流是专业的 Notion 模板和教程平台，为 Notion 新手提供入门指导、GTD 任务管理与 PARA 知识管理工作流。包含 Notion 剪藏、项目管理、笔记管理等效率工具技巧，助你打造高效的个人第二大脑系统。",
       "productType": null
     },
     {
@@ -3669,21 +3579,6 @@
       "productType": null
     },
     {
-      "id": "laskuri-bitcoinin-ja-kryptovaluuttojen-verotukseen",
-      "name": "Laskuri bitcoinin ja kryptovaluuttojen verotukseen",
-      "slug": "laskuri-bitcoinin-ja-kryptovaluuttojen-verotukseen",
-      "url": "https://harpd.com/rank/laskuri-bitcoinin-ja-kryptovaluuttojen-verotukseen/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 245,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z",
-      "website": "https://kryptoverotus.fi/",
-      "description": "Älä stressaa kryptojen verotusta. Kryptoverotuksen avulla teet kryptovaluutta-veroilmoituksen oikein hetkessä.",
-      "productType": null
-    },
-    {
       "id": "lastspot",
       "name": "LastSpot",
       "slug": "lastspot",
@@ -3876,21 +3771,6 @@
       "updatedAt": "2026-11-03T04:00:12.849Z",
       "website": "https://roomradr.com/",
       "description": "Track Marriott Bonvoy hotel rates 24/7, get instant alerts when prices drop, and rebook to save hundreds. Try Pro free for 7 days.",
-      "productType": null
-    },
-    {
-      "id": "mathias-onea",
-      "name": "Mathias Onea",
-      "slug": "mathias-onea",
-      "url": "https://harpd.com/rank/mathias-onea/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 259,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z",
-      "website": "https://mathiasonea.com/de",
-      "description": "Senior Laravel Freelancer für Analysen, Projekte, eingebettete Umsetzung, Integrationen, Upgrades, Modernisierung und laufende Unterstützung.",
       "productType": null
     },
     {
@@ -4689,21 +4569,6 @@
       "productType": null
     },
     {
-      "id": "silent-expanse-strife",
-      "name": "Silent Expanse: Strife",
-      "slug": "silent-expanse-strife",
-      "url": "https://harpd.com/rank/silent-expanse-strife/",
-      "category": "agents",
-      "categoryName": "Agents",
-      "rank": 313,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z",
-      "website": "https://strifelabs.com/",
-      "description": "沉寂引擎已启动。先驱者已去。最后的文明将继承一切。— 完全链上星际文明策略游戏，由 Strife Protocol 驱动。BNB Chain 全链上 3D MMO SLG，支持 AI Agent 自动驾驶。",
-      "productType": null
-    },
-    {
       "id": "slidedrift",
       "name": "SlideDrift",
       "slug": "slidedrift",
@@ -5139,21 +5004,6 @@
       "productType": null
     },
     {
-      "id": "trysawt-com",
-      "name": "صوت",
-      "slug": "trysawt-com",
-      "url": "https://harpd.com/rank/trysawt-com/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 343,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T00:44:54.170Z",
-      "website": "https://trysawt.com/",
-      "description": "أدوات ذكية للنص والصوت العربي في مكان واحد: تحويل النص إلى صوت (180+ صوتاً و17 لهجة)، مؤثرات صوتية، تحويل الصوت إلى نص، تشكيل النصوص وإزالة التشكيل، ترجمة، إعراب، استخراج النصوص من الصور وPDF، تلخيص، تصحيح لغوي، إعادة صياغة، توليد النصوص، تحويل اللهجات، وتعبيرات صوتية.",
-      "productType": null
-    },
-    {
       "id": "twitr-sh",
       "name": "twitr.sh",
       "slug": "twitr-sh",
@@ -5211,21 +5061,6 @@
       "updatedAt": "2026-09-15T00:44:54.170Z",
       "website": "https://upscayl.app/",
       "description": "Enhance blurry, pixelated, or low-resolution photos online with AI-powered upscaling. Choose an enhancement mode, preview the result, and download a sharper image in your preferred format.",
-      "productType": null
-    },
-    {
-      "id": "vavada-casino",
-      "name": "vavada casino",
-      "slug": "vavada-casino",
-      "url": "https://harpd.com/rank/vavada-casino/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 348,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z",
-      "website": "https://2quiet2market.com/",
-      "description": "Vavada kazino ceļvedis par spēļu izvēli, reģistrāciju, profilu, bonusiem, live galdiem, maksājumiem un sesijas kontroli.",
       "productType": null
     },
     {
@@ -6111,21 +5946,6 @@
       "updatedAt": "2026-09-15T03:58:43.395Z",
       "website": "https://aiblueprintapps.com/",
       "description": "Describe your idea in plain English and get an instant AI tool pipeline. See which tools to use, step-by-step implementation details, and expert reasoning.",
-      "productType": null
-    },
-    {
-      "id": "ai-brother-ai",
-      "name": "AI Brother 在看着你：AI 浏览器专注工具",
-      "slug": "ai-brother-ai",
-      "url": "https://harpd.com/rank/ai-brother-ai/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 408,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z",
-      "website": "https://aibrotherwatch.com/zh-CN",
-      "description": "超越基础网站拦截器。AI Brother 浏览器扩展使用情境感知 AI 来拦截干扰。只需设置主题，让我们的 AI 守护您的专注力！",
       "productType": null
     },
     {
@@ -7344,21 +7164,6 @@
       "productType": null
     },
     {
-      "id": "aidive",
-      "name": "AIDive",
-      "slug": "aidive",
-      "url": "https://harpd.com/rank/aidive/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 490,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z",
-      "website": "https://aidive.org/",
-      "description": "10 000+ нейросетей и 200+ категорий: AI-инструменты для текста, фото, видео, кода, учебы, бизнеса и творчества. Поиск, рейтинги и подборки.",
-      "productType": null
-    },
-    {
       "id": "aifeed-dev",
       "name": "aifeed.dev",
       "slug": "aifeed-dev",
@@ -7551,21 +7356,6 @@
       "updatedAt": "2026-09-15T03:58:43.395Z",
       "website": "https://aimixup.com/",
       "description": "AiMixup is the AI workspace where your team and the best AI agents work as one — shared spaces, chat, calls and Kanban, with 50+ models on one subscription.",
-      "productType": null
-    },
-    {
-      "id": "ainude",
-      "name": "AINude",
-      "slug": "ainude",
-      "url": "https://harpd.com/rank/ainude/",
-      "category": "business",
-      "categoryName": "Business",
-      "rank": 504,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z",
-      "website": "https://ainude.pl/",
-      "description": "Twórz legalne obrazy AI Nude i NSFW za pomocą promptów po polsku. AINude to generator 18+ z większą swobodą promptów, edycją zdjęć i animacją.",
       "productType": null
     },
     {
@@ -8334,21 +8124,6 @@
       "productType": null
     },
     {
-      "id": "alquilame-io",
-      "name": "Alquilame.io",
-      "slug": "alquilame-io",
-      "url": "https://harpd.com/rank/alquilame-io/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 556,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z",
-      "website": "https://alquilame.io/",
-      "description": "Software completo para gestión de alquileres y rentas. Administra inventario, reservaciones y clientes. Perfecto para renta de equipos, fiestas y eventos.",
-      "productType": null
-    },
-    {
       "id": "altcaption",
       "name": "AltCaption",
       "slug": "altcaption",
@@ -9054,21 +8829,6 @@
       "productType": null
     },
     {
-      "id": "antm-solutions",
-      "name": "ANTM Solutions",
-      "slug": "antm-solutions",
-      "url": "https://harpd.com/rank/antm-solutions/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 604,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z",
-      "website": "https://antmsolutions.com/",
-      "description": "Studio de création de sites internet et d'applications web sur mesure. Tableaux de bord, portails clients et automatisations pour PME en France, Belgique, Suisse et Luxembourg.",
-      "productType": null
-    },
-    {
       "id": "antwork",
       "name": "Antwork",
       "slug": "antwork",
@@ -9519,21 +9279,6 @@
       "productType": null
     },
     {
-      "id": "apostrophe",
-      "name": "Apostrophe·",
-      "slug": "apostrophe",
-      "url": "https://harpd.com/rank/apostrophe/",
-      "category": "audio",
-      "categoryName": "Audio",
-      "rank": 635,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z",
-      "website": "https://apostrophe-app.fr/",
-      "description": "App de dictée et orthographe française. Dictées audio corrigées mot à mot, 80 règles de grammaire. Du CE2 au concours, prépare le brevet, le bac ou le TCF. Gratuit pour commencer.",
-      "productType": null
-    },
-    {
       "id": "app-showcase",
       "name": "App Showcase",
       "slug": "app-showcase",
@@ -9834,21 +9579,6 @@
       "productType": null
     },
     {
-      "id": "aprobare",
-      "name": "Aprobaré",
-      "slug": "aprobare",
-      "url": "https://harpd.com/rank/aprobare/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 656,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z",
-      "website": "https://aprobare.es/",
-      "description": "Comprar trabajos universitarios en Aprobaré 🎓, Nuestros escritores cualificados y experimentados en más de 60 disciplinas te ayudarán. ¡Calidad y entrega rápida garantizadas! 🚀 Obtén ayuda inmediata",
-      "productType": null
-    },
-    {
       "id": "ar-button",
       "name": "AR Button",
       "slug": "ar-button",
@@ -9891,21 +9621,6 @@
       "updatedAt": "2026-09-15T03:58:43.395Z",
       "website": "https://arca.directory/",
       "description": "Find and share the best tools for developers, designers and entrepreneurs. Discover the latest trends for AI, Design, UI Components, and more.",
-      "productType": null
-    },
-    {
-      "id": "arcookie",
-      "name": "ARCOOKIE",
-      "slug": "arcookie",
-      "url": "https://harpd.com/rank/arcookie/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 660,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z",
-      "website": "https://arcookie.com/",
-      "description": "에이알쿠키(ARCOOKIE)는 이미지나 텍스트로 AI 3D 콘텐츠를 생성하고 스마트폰과 Meta Quest에서 바로 증강현실로 체험할 수 있는 AR 콘텐츠 제작 플랫폼입니다.",
       "productType": null
     },
     {
@@ -10044,21 +9759,6 @@
       "productType": null
     },
     {
-      "id": "artemion",
-      "name": "Artemion",
-      "slug": "artemion",
-      "url": "https://harpd.com/rank/artemion/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 670,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z",
-      "website": "https://artemion.com/",
-      "description": "İş arayanların doğru rolleri seçmesine, CV'lerini hazırlamasına ve başvurularını takip etmesine yardımcı olan çalışma alanı",
-      "productType": null
-    },
-    {
       "id": "artemis-leads",
       "name": "Artemis Leads",
       "slug": "artemis-leads",
@@ -10101,21 +9801,6 @@
       "updatedAt": "2026-09-15T03:58:43.395Z",
       "website": "https://artificialstudio.ai/",
       "description": "60+ AI tools for video, image, music, 3D and design — in one platform. Replace Runway, Midjourney, Freepik and ElevenLabs. Built for agencies and creators.",
-      "productType": null
-    },
-    {
-      "id": "artikelschreiber-com",
-      "name": "ArtikelSchreiber.com",
-      "slug": "artikelschreiber-com",
-      "url": "https://harpd.com/rank/artikelschreiber-com/",
-      "category": "seo",
-      "categoryName": "SEO",
-      "rank": 674,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z",
-      "website": "https://artikelschreiber.com/",
-      "description": "Text Generator mit emotionaler Intelligenz - Kostenlose SEO-Artikel für Schule, Studium & Beruf. Mehrsprachig, ohne Anmeldung.",
       "productType": null
     },
     {
@@ -10206,21 +9891,6 @@
       "updatedAt": "2026-09-15T03:58:43.395Z",
       "website": "https://asantebot.com/",
       "description": "Asante Bot brings employee recognition to Slack — turn emojis into reward points your team redeems for real perks. Free plan, 2-minute setup.",
-      "productType": null
-    },
-    {
-      "id": "ascends-life",
-      "name": "Ascends Life",
-      "slug": "ascends-life",
-      "url": "https://harpd.com/rank/ascends-life/",
-      "category": "audio",
-      "categoryName": "Audio",
-      "rank": 681,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z",
-      "website": "https://ascends.life/",
-      "description": "Plan personalizado de 28 días para ayudarte a crear más orden con lectura, audio, PDF y notas en 5 a 20 minutos al día. Empieza gratis con tus primeros libros.",
       "productType": null
     },
     {
@@ -10626,21 +10296,6 @@
       "updatedAt": "2026-09-15T03:58:43.395Z",
       "website": "https://atiskel.com/",
       "description": "Atiskel helps you grow your Bluesky presence with powerful analytics, engagement insights, and smart scheduling. Track followers, analyze trends, and optimize your content.",
-      "productType": null
-    },
-    {
-      "id": "ativos-pt",
-      "name": "Ativos.pt",
-      "slug": "ativos-pt",
-      "url": "https://harpd.com/rank/ativos-pt/",
-      "category": "business",
-      "categoryName": "Business",
-      "rank": 709,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:05:45.308Z",
-      "website": "https://ativos.pt/",
-      "description": "O Dashboard Financeiro de Portugal: dados de mercado, observatórios, simuladores e guias práticos para investir com confiança.",
       "productType": null
     },
     {
@@ -11139,21 +10794,6 @@
       "productType": null
     },
     {
-      "id": "automatisation-dev",
-      "name": "Automatisation.dev",
-      "slug": "automatisation-dev",
-      "url": "https://harpd.com/rank/automatisation-dev/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 743,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z",
-      "website": "https://automatisation.dev/",
-      "description": "Nous automatisons vos process et installons votre Cockpit IA. Formation, audit gratuit et compétences IA prêtes à l'emploi pour faire gagner du temps à vos équipes.",
-      "productType": null
-    },
-    {
       "id": "automemes-ai",
       "name": "AutoMemes.ai",
       "slug": "automemes-ai",
@@ -11391,21 +11031,6 @@
       "updatedAt": "2026-11-03T04:00:12.849Z",
       "website": "https://aifoodgenerator.net/",
       "description": "Free AI food generator helps restaurant owners create professional food photos and videos. Generate stunning food images with AI-powered technology.",
-      "productType": null
-    },
-    {
-      "id": "fotos-profesionales-con-ia",
-      "name": "Fotos Profesionales con IA",
-      "slug": "fotos-profesionales-con-ia",
-      "url": "https://harpd.com/rank/fotos-profesionales-con-ia/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 760,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z",
-      "website": "https://aiselfi.es/",
-      "description": "Sube tus selfies y obtén fotos profesionales con IA en minutos. Ahorra dinero y tiempo sin sesiones de fotos. Prueba ahora y transforma tu imagen.",
       "productType": null
     },
     {
@@ -11694,21 +11319,6 @@
       "productType": null
     },
     {
-      "id": "macau328",
-      "name": "Macau328",
-      "slug": "macau328",
-      "url": "https://harpd.com/rank/macau328/",
-      "category": "agents",
-      "categoryName": "Agents",
-      "rank": 780,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:05:45.308Z",
-      "website": "https://aichatbot.support/",
-      "description": "Macau328 merupakan link resmi layanan AI Chatbot Support untuk menghadirkan customer service otomatis, respons cepat, bantuan 24 jam, dan solusi komunikasi digital terbaik bagi bisnis Anda.",
-      "productType": null
-    },
-    {
       "id": "magic-animal-creator",
       "name": "Magic Animal Creator",
       "slug": "magic-animal-creator",
@@ -11796,21 +11406,6 @@
       "updatedAt": "2026-11-03T04:00:12.849Z",
       "website": "https://applebanana.pro/",
       "description": "AI image editor taking LMArena by storm. Superior character consistency, 8x faster, zero sign-up. Edit photos with natural language in seconds.",
-      "productType": null
-    },
-    {
-      "id": "nettoyage-premium",
-      "name": "Nettoyage premium",
-      "slug": "nettoyage-premium",
-      "url": "https://harpd.com/rank/nettoyage-premium/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 787,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z",
-      "website": "https://alpinet-services.fr/",
-      "description": "Nettoyage haut de gamme pour chalets, résidences et commerces Chamonix, Megève et Sallanches. Spécialiste vitres et textiles. Prestations soignées, discrètes et éco-responsables.",
       "productType": null
     },
     {
@@ -12009,21 +11604,6 @@
       "productType": null
     },
     {
-      "id": "snaptik",
-      "name": "Snaptik",
-      "slug": "snaptik",
-      "url": "https://harpd.com/rank/snaptik/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 801,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z",
-      "website": "https://phatpoly.ie/",
-      "description": "SnapTik giúp bạn tải video TikTok không có logo (watermark), tải ảnh TikTok chất lượng cao hoàn toàn miễn phí. Hỗ trợ tải nhanh, không cần cài đặt phần mềm, hoạt động trên mọi thiết bị.",
-      "productType": null
-    },
-    {
       "id": "somebody-is-being-recommended-find-out-who",
       "name": "Somebody is being recommended. Find out who.",
       "slug": "somebody-is-being-recommended-find-out-who",
@@ -12141,21 +11721,6 @@
       "updatedAt": "2026-09-15T03:58:43.395Z",
       "website": "https://apply-mate.com/",
       "description": "Tailor your resume or CV to any job description in 60 seconds. AI rewrites your real experience, never invents it. ATS-ready, free cover letter, no subscription.",
-      "productType": null
-    },
-    {
-      "id": "teepublic",
-      "name": "TeePublic",
-      "slug": "teepublic",
-      "url": "https://harpd.com/rank/teepublic/",
-      "category": "other",
-      "categoryName": "Other",
-      "rank": 810,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-11-03T04:00:12.849Z",
-      "website": "https://anynamegenerators.com/",
-      "description": "Temukan Slot Online resmi IDN89 dengan akses terkini dan link alternatif terbaru. Dirancang untuk kemudahan akses dan pembaruan informasi harian.",
       "productType": null
     },
     {
@@ -12384,21 +11949,6 @@
       "productType": null
     },
     {
-      "id": "product-9b2931ff",
-      "name": "مترجم مانجا بالذكاء الاصطناعي",
-      "slug": "product-9b2931ff",
-      "url": "https://harpd.com/rank/product-9b2931ff/",
-      "category": "ai-media",
-      "categoryName": "AI Media",
-      "rank": 826,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-28T16:40:37.272Z",
-      "website": "https://mangatranslate.com/ar/ai-manga-translator",
-      "description": "مترجم مانجا بالذكاء الاصطناعي يترجم صفحات القصص المصورة إلى لغات متعددة. يعالج القارئ عدة صور دفعة واحدة ويخصص النص، ويحرر الاستوديو النص والصورة في محرر بصري عبر الإنترنت، ويربط المطور واجهة API بسير عمله. تقدم Ficory LLC المنتج للأفراد والفرق.",
-      "productType": null
-    },
-    {
       "id": "call24-1143720d",
       "name": "Call24",
       "slug": "call24-1143720d",
@@ -12456,21 +12006,6 @@
       "updatedAt": "2026-10-09T04:37:33.610Z",
       "website": "https://loretypes.com/",
       "description": "Free self-discovery quizzes: aura color, archetype, moral alignment, color season, spirit animal and past life. No sign-up, instant results.",
-      "productType": null
-    },
-    {
-      "id": "codexhot-com-d5587f18",
-      "name": "热核算力 (codexhot.com)",
-      "slug": "codexhot-com-d5587f18",
-      "url": "https://harpd.com/rank/codexhot-com-d5587f18/",
-      "category": "developer",
-      "categoryName": "Developer",
-      "rank": 831,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-10-09T06:25:40.080Z",
-      "website": "https://codexhot.com/",
-      "description": "热核算力 is a paid OpenAI-compatible GPT API for developers. GO, PLUS and PRO groups bill at 0.02x, 0.07x and 0.10x of each model base price on our site. Pay per usage with prepaid vouchers from CNY 5 (voucher denomination, not request price). No free tier or trial.",
       "productType": null
     },
     {
@@ -13221,21 +12756,6 @@
       "updatedAt": "2026-10-22T16:39:28.047Z",
       "website": "https://alittleloveforyou.app/",
       "description": "A Little Love for You is a free virtual gift box maker. Write a love letter, draw a sticker, add a short melody, and share it in one link. No sign-up.",
-      "productType": null
-    },
-    {
-      "id": "80-18504944",
-      "name": "80億分之一",
-      "slug": "80-18504944",
-      "url": "https://harpd.com/rank/80-18504944/",
-      "category": "games",
-      "categoryName": "Games",
-      "rank": 882,
-      "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-10-22T21:50:49.950Z",
-      "website": "https://xn--80-wu2cnl73jixb.com/",
-      "description": "A free life simulation game where your birthplace and family are randomized. Make decisions about education, work, relationships, and migration, then live one life to its end.",
       "productType": null
     },
     {
@@ -15036,6 +14556,81 @@
       "updatedAt": "2026-11-17T15:34:49.649Z",
       "website": "https://randomtopicgenerator.net/",
       "description": "Free random topic generator for speaking practice. Pick 1, 3 or 5 topics in one click, then practice impromptu speaking with a built-in 1-minute timer. No sign-up required.",
+      "productType": null
+    },
+    {
+      "id": "vocalremoverapp-f020e4c7",
+      "name": "VocalRemoverApp",
+      "slug": "vocalremoverapp-f020e4c7",
+      "url": "https://harpd.com/rank/vocalremoverapp-f020e4c7/",
+      "category": "audio",
+      "categoryName": "Audio",
+      "rank": 1003,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-17T22:14:13.767Z",
+      "website": "https://vocalremoverapp.com/",
+      "description": "VocalRemoverApp splits a song into vocals (acapella) and an instrumental. The free mode runs in your browser with no upload, no account and no daily limit; an HQ cloud mode works on phones and adds WAV.",
+      "productType": null
+    },
+    {
+      "id": "sunset-today-d3733702",
+      "name": "Sunset Today",
+      "slug": "sunset-today-d3733702",
+      "url": "https://harpd.com/rank/sunset-today-d3733702/",
+      "category": "productivity",
+      "categoryName": "Productivity",
+      "rank": 1004,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-18T02:55:06.426Z",
+      "website": "https://sunsettoday.app/",
+      "description": "Sunset Today shows today’s sunset and sunrise times plus golden and blue hour windows for any city, with multi-city comparison and a countdown to golden hour. Free in the browser, no account needed.",
+      "productType": null
+    },
+    {
+      "id": "seedance-2-5-66a05505",
+      "name": "Seedance 2.5",
+      "slug": "seedance-2-5-66a05505",
+      "url": "https://harpd.com/rank/seedance-2-5-66a05505/",
+      "category": "other",
+      "categoryName": "Other",
+      "rank": 1005,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-18T07:15:36.081Z",
+      "website": "https://seedance25ai.cc/",
+      "description": "Seedance 2.5 is an advanced video generation model noted for coherent long shots. It reduces flicker and subject distortion, supports image references and interprets complex camera prompts. Compatible with multiple aspect ratios, it serves story shorts, product promos, storyboard",
+      "productType": null
+    },
+    {
+      "id": "ordogrid-3ac08ac2",
+      "name": "OrdoGrid",
+      "slug": "ordogrid-3ac08ac2",
+      "url": "https://harpd.com/rank/ordogrid-3ac08ac2/",
+      "category": "business",
+      "categoryName": "Business",
+      "rank": 1006,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-18T08:11:21.141Z",
+      "website": "https://ordogrid.com/en",
+      "description": "OrdoGrid connects quotes, Peppol invoices and payment follow-up for Belgian small businesses. Starter adds unlimited sending and recurring invoices; Business adds projects/time, reviewed bank-file reconciliation, Stripe links, teams and API. Free plan available.",
+      "productType": null
+    },
+    {
+      "id": "proxylite-47bef12b",
+      "name": "ProxyLite",
+      "slug": "proxylite-47bef12b",
+      "url": "https://harpd.com/rank/proxylite-47bef12b/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1007,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-18T14:20:19.250Z",
+      "website": "https://proxylite.com/",
+      "description": "ProxyLite provides residential proxies and web scraping infrastructure for data collection and extraction.",
       "productType": null
     }
   ]

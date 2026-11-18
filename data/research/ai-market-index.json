@@ -1,23 +1,23 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-17T18:38:29.688Z",
+  "generatedAt": "2026-11-18T18:10:18.191Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "scope": "market-index",
-  "totalProducts": 1002,
+  "totalProducts": 975,
   "totalRankPoints": 368,
   "categoryCount": 28,
-  "lastUpdated": "2026-11-17T15:34:49.649Z",
+  "lastUpdated": "2026-11-18T14:20:19.250Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
       "category": "other",
       "categoryName": "Other",
-      "productCount": 246,
+      "productCount": 226,
       "totalRankPoints": 0,
-      "productShare": 24.6,
+      "productShare": 23.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -30,9 +30,9 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 114,
+      "productCount": 113,
       "totalRankPoints": 368,
-      "productShare": 11.4,
+      "productShare": 11.6,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
@@ -47,7 +47,7 @@
       "categoryName": "Developer",
       "productCount": 113,
       "totalRankPoints": 0,
-      "productShare": 11.3,
+      "productShare": 11.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "Cursor",
@@ -60,7 +60,7 @@
     {
       "category": "agents",
       "categoryName": "Agents",
-      "productCount": 67,
+      "productCount": 65,
       "totalRankPoints": 0,
       "productShare": 6.7,
       "pointsShare": 0,
@@ -75,7 +75,7 @@
     {
       "category": "marketing",
       "categoryName": "Marketing",
-      "productCount": 50,
+      "productCount": 49,
       "totalRankPoints": 0,
       "productShare": 5,
       "pointsShare": 0,
@@ -90,7 +90,7 @@
     {
       "category": "seo",
       "categoryName": "SEO",
-      "productCount": 46,
+      "productCount": 45,
       "totalRankPoints": 0,
       "productShare": 4.6,
       "pointsShare": 0,
@@ -105,9 +105,9 @@
     {
       "category": "productivity",
       "categoryName": "Productivity",
-      "productCount": 44,
+      "productCount": 45,
       "totalRankPoints": 0,
-      "productShare": 4.4,
+      "productShare": 4.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "Notion",
@@ -120,7 +120,7 @@
     {
       "category": "audio",
       "categoryName": "Audio",
-      "productCount": 43,
+      "productCount": 42,
       "totalRankPoints": 0,
       "productShare": 4.3,
       "pointsShare": 0,
@@ -135,7 +135,7 @@
     {
       "category": "business",
       "categoryName": "Business",
-      "productCount": 33,
+      "productCount": 32,
       "totalRankPoints": 0,
       "productShare": 3.3,
       "pointsShare": 0,
@@ -152,7 +152,7 @@
       "categoryName": "Design",
       "productCount": 29,
       "totalRankPoints": 0,
-      "productShare": 2.9,
+      "productShare": 3,
       "pointsShare": 0,
       "topProduct": {
         "name": "NeoCam",
@@ -167,7 +167,7 @@
       "categoryName": "Hiring",
       "productCount": 23,
       "totalRankPoints": 0,
-      "productShare": 2.3,
+      "productShare": 2.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "LATAMHire",
@@ -182,7 +182,7 @@
       "categoryName": "Education",
       "productCount": 23,
       "totalRankPoints": 0,
-      "productShare": 2.3,
+      "productShare": 2.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "1001 Record",
@@ -197,7 +197,7 @@
       "categoryName": "Health",
       "productCount": 22,
       "totalRankPoints": 0,
-      "productShare": 2.2,
+      "productShare": 2.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "Fuel Log",
@@ -212,7 +212,7 @@
       "categoryName": "Writing",
       "productCount": 22,
       "totalRankPoints": 0,
-      "productShare": 2.2,
+      "productShare": 2.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "1Transcribe",
@@ -225,9 +225,9 @@
     {
       "category": "games",
       "categoryName": "Games",
-      "productCount": 19,
+      "productCount": 18,
       "totalRankPoints": 0,
-      "productShare": 1.9,
+      "productShare": 1.8,
       "pointsShare": 0,
       "topProduct": {
         "name": "Degen Idle",
