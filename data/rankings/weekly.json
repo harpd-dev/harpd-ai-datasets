@@ -7,11 +7,11 @@
     "sourceUrl": "https://harpd.com/rank/",
     "citationUrl": "https://harpd.com/data/",
     "canonicalUrl": "https://harpd.com/rank/",
-    "periodKey": null,
+    "periodKey": "2026-W47",
     "periodStart": "2026-11-16T00:00:00.000Z",
     "periodEnd": "2026-11-23T00:00:00.000Z",
-    "generatedAt": "2026-11-18T18:10:17.653Z",
-    "recordCount": 975,
+    "generatedAt": "2026-11-19T18:22:17.227Z",
+    "recordCount": 980,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -11714,6 +11714,66 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-18T14:20:19.250Z"
+    },
+    {
+      "id": "travelibook-31a76988",
+      "name": "TraveliBook",
+      "slug": "travelibook-31a76988",
+      "url": "https://harpd.com/rank/travelibook-31a76988/",
+      "category": "travel",
+      "categoryName": "Travel",
+      "rank": 1008,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-18T18:47:06.364Z"
+    },
+    {
+      "id": "hackaigc-6d8ffb36",
+      "name": "HackAIGC",
+      "slug": "hackaigc-6d8ffb36",
+      "url": "https://harpd.com/rank/hackaigc-6d8ffb36/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1009,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-19T03:41:09.276Z"
+    },
+    {
+      "id": "rob-run-wiki-looty-bay-map-and-guides-c641eb62",
+      "name": "ROB RUN Wiki Looty Bay Map and Guides",
+      "slug": "rob-run-wiki-looty-bay-map-and-guides-c641eb62",
+      "url": "https://harpd.com/rank/rob-run-wiki-looty-bay-map-and-guides-c641eb62/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 1010,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-19T03:56:42.854Z"
+    },
+    {
+      "id": "sheet-music-to-midi-aa6f6b1e",
+      "name": "Sheet Music to MIDI",
+      "slug": "sheet-music-to-midi-aa6f6b1e",
+      "url": "https://harpd.com/rank/sheet-music-to-midi-aa6f6b1e/",
+      "category": "audio",
+      "categoryName": "Audio",
+      "rank": 1011,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-19T14:43:02.041Z"
+    },
+    {
+      "id": "mandylucia-4c9d6de7",
+      "name": "MandyLucia",
+      "slug": "mandylucia-4c9d6de7",
+      "url": "https://harpd.com/rank/mandylucia-4c9d6de7/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 1012,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-19T17:40:12.723Z"
     }
   ]
 }
