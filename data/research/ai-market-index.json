@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-19T18:22:17.550Z",
+  "generatedAt": "2026-11-20T17:52:25.866Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "scope": "market-index",
-  "totalProducts": 980,
+  "totalProducts": 975,
   "totalRankPoints": 368,
   "categoryCount": 28,
-  "lastUpdated": "2026-11-19T17:40:12.723Z",
+  "lastUpdated": "2026-11-18T14:20:19.250Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 226,
       "totalRankPoints": 0,
-      "productShare": 23.1,
+      "productShare": 23.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -30,7 +30,7 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 114,
+      "productCount": 113,
       "totalRankPoints": 368,
       "productShare": 11.6,
       "pointsShare": 100,
@@ -47,7 +47,7 @@
       "categoryName": "Developer",
       "productCount": 113,
       "totalRankPoints": 0,
-      "productShare": 11.5,
+      "productShare": 11.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "Cursor",
@@ -62,7 +62,7 @@
       "categoryName": "Agents",
       "productCount": 65,
       "totalRankPoints": 0,
-      "productShare": 6.6,
+      "productShare": 6.7,
       "pointsShare": 0,
       "topProduct": {
         "name": "Claude",
@@ -120,9 +120,9 @@
     {
       "category": "audio",
       "categoryName": "Audio",
-      "productCount": 43,
+      "productCount": 42,
       "totalRankPoints": 0,
-      "productShare": 4.4,
+      "productShare": 4.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "15Minutes",
@@ -167,7 +167,7 @@
       "categoryName": "Hiring",
       "productCount": 23,
       "totalRankPoints": 0,
-      "productShare": 2.3,
+      "productShare": 2.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "LATAMHire",
@@ -182,7 +182,7 @@
       "categoryName": "Education",
       "productCount": 23,
       "totalRankPoints": 0,
-      "productShare": 2.3,
+      "productShare": 2.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "1001 Record",
@@ -197,7 +197,7 @@
       "categoryName": "Health",
       "productCount": 22,
       "totalRankPoints": 0,
-      "productShare": 2.2,
+      "productShare": 2.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "Fuel Log",
@@ -212,7 +212,7 @@
       "categoryName": "Writing",
       "productCount": 22,
       "totalRankPoints": 0,
-      "productShare": 2.2,
+      "productShare": 2.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "1Transcribe",
@@ -225,9 +225,9 @@
     {
       "category": "games",
       "categoryName": "Games",
-      "productCount": 20,
+      "productCount": 18,
       "totalRankPoints": 0,
-      "productShare": 2,
+      "productShare": 1.8,
       "pointsShare": 0,
       "topProduct": {
         "name": "Degen Idle",
@@ -270,9 +270,9 @@
     {
       "category": "travel",
       "categoryName": "Travel",
-      "productCount": 13,
+      "productCount": 12,
       "totalRankPoints": 0,
-      "productShare": 1.3,
+      "productShare": 1.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "Wento",

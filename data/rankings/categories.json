@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-19T18:22:17.445Z",
+  "generatedAt": "2026-11-20T17:52:25.771Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 28,
-  "totalProducts": 980,
-  "lastUpdated": "2026-11-19T17:40:12.723Z",
+  "totalProducts": 975,
+  "lastUpdated": "2026-11-18T14:20:19.250Z",
   "categories": [
     {
       "slug": "seo",
@@ -41,13 +41,13 @@
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 114,
+      "productCount": 113,
       "rankedProductCount": 1,
       "totalRankPoints": 368,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-19T03:41:09.276Z"
+      "updatedAt": "2026-11-15T19:39:50.879Z"
     },
     {
       "slug": "marketing",
@@ -171,13 +171,13 @@
       "name": "Games",
       "description": "Explore games, interactive experiences and tools for making or playing them.",
       "url": "https://harpd.com/rank/category/games/",
-      "productCount": 20,
+      "productCount": 18,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-11-19T17:40:12.723Z"
+      "updatedAt": "2026-11-17T10:01:35.914Z"
     },
     {
       "slug": "education",
@@ -249,13 +249,13 @@
       "name": "Audio",
       "description": "Explore music, podcasting, voice and sound production tools.",
       "url": "https://harpd.com/rank/category/audio/",
-      "productCount": 43,
+      "productCount": 42,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-11-19T14:43:02.041Z"
+      "updatedAt": "2026-11-17T22:14:13.767Z"
     },
     {
       "slug": "crypto",
@@ -301,13 +301,13 @@
       "name": "Travel",
       "description": "Explore booking, itinerary, mapping and travel-planning products.",
       "url": "https://harpd.com/rank/category/travel/",
-      "productCount": 13,
+      "productCount": 12,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-09T07:06:40.831Z",
-      "updatedAt": "2026-11-18T18:47:06.364Z"
+      "updatedAt": "2026-11-15T13:34:31.471Z"
     },
     {
       "slug": "news",
