@@ -1,27 +1,27 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-20T17:52:25.771Z",
+  "generatedAt": "2026-11-21T16:50:18.930Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 28,
-  "totalProducts": 975,
-  "lastUpdated": "2026-11-18T14:20:19.250Z",
+  "totalProducts": 985,
+  "lastUpdated": "2026-11-21T13:43:25.904Z",
   "categories": [
     {
       "slug": "seo",
       "name": "SEO",
       "description": "Discover products for search visibility, technical SEO, content optimization and answer-engine discovery.",
       "url": "https://harpd.com/rank/category/seo/",
-      "productCount": 45,
+      "productCount": 46,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-17T07:47:35.511Z"
+      "updatedAt": "2026-11-19T21:40:32.813Z"
     },
     {
       "slug": "agents",
@@ -41,13 +41,13 @@
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 113,
+      "productCount": 115,
       "rankedProductCount": 1,
       "totalRankPoints": 368,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-15T19:39:50.879Z"
+      "updatedAt": "2026-11-21T12:25:58.093Z"
     },
     {
       "slug": "marketing",
@@ -80,13 +80,13 @@
       "name": "Productivity",
       "description": "Explore focused products that help people organize, automate and finish work.",
       "url": "https://harpd.com/rank/category/productivity/",
-      "productCount": 45,
+      "productCount": 46,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-18T02:55:06.426Z"
+      "updatedAt": "2026-11-21T13:37:06.422Z"
     },
     {
       "slug": "people",
@@ -171,13 +171,13 @@
       "name": "Games",
       "description": "Explore games, interactive experiences and tools for making or playing them.",
       "url": "https://harpd.com/rank/category/games/",
-      "productCount": 18,
+      "productCount": 21,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-11-17T10:01:35.914Z"
+      "updatedAt": "2026-11-21T01:25:02.159Z"
     },
     {
       "slug": "education",
@@ -249,13 +249,13 @@
       "name": "Audio",
       "description": "Explore music, podcasting, voice and sound production tools.",
       "url": "https://harpd.com/rank/category/audio/",
-      "productCount": 42,
+      "productCount": 43,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-11-17T22:14:13.767Z"
+      "updatedAt": "2026-11-19T14:43:02.041Z"
     },
     {
       "slug": "crypto",
@@ -301,13 +301,13 @@
       "name": "Travel",
       "description": "Explore booking, itinerary, mapping and travel-planning products.",
       "url": "https://harpd.com/rank/category/travel/",
-      "productCount": 12,
+      "productCount": 13,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-09T07:06:40.831Z",
-      "updatedAt": "2026-11-15T13:34:31.471Z"
+      "updatedAt": "2026-11-18T18:47:06.364Z"
     },
     {
       "slug": "news",
@@ -366,13 +366,13 @@
       "name": "Other",
       "description": "Explore the products that do not yet fit a defined Harpd category.",
       "url": "https://harpd.com/rank/category/other/",
-      "productCount": 226,
+      "productCount": 227,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-09T07:06:40.831Z",
-      "updatedAt": "2026-11-18T07:15:36.081Z"
+      "updatedAt": "2026-11-21T13:43:25.904Z"
     }
   ]
 }
