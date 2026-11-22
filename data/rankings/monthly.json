@@ -10,8 +10,8 @@
     "periodKey": "2026-11",
     "periodStart": "2026-11-01T00:00:00.000Z",
     "periodEnd": "2026-12-01T00:00:00.000Z",
-    "generatedAt": "2026-11-21T16:50:18.833Z",
-    "recordCount": 985,
+    "generatedAt": "2026-11-22T17:13:06.144Z",
+    "recordCount": 990,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -11834,6 +11834,66 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-21T13:43:25.904Z"
+    },
+    {
+      "id": "onetwo-resume-5e6ec6fa",
+      "name": "OneTwo Resume",
+      "slug": "onetwo-resume-5e6ec6fa",
+      "url": "https://harpd.com/rank/onetwo-resume-5e6ec6fa/",
+      "category": "writing",
+      "categoryName": "Writing",
+      "rank": 1018,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-21T18:55:35.977Z"
+    },
+    {
+      "id": "qoves-dir-3ce21ea4",
+      "name": "Qoves dir",
+      "slug": "qoves-dir-3ce21ea4",
+      "url": "https://harpd.com/rank/qoves-dir-3ce21ea4/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1019,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-22T06:41:29.658Z"
+    },
+    {
+      "id": "ai-game-makers-986e02a5",
+      "name": "AI Game Makers",
+      "slug": "ai-game-makers-986e02a5",
+      "url": "https://harpd.com/rank/ai-game-makers-986e02a5/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 1020,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-22T09:52:42.063Z"
+    },
+    {
+      "id": "knit-chart-maker-2d5e79e0",
+      "name": "Knit Chart Maker",
+      "slug": "knit-chart-maker-2d5e79e0",
+      "url": "https://harpd.com/rank/knit-chart-maker-2d5e79e0/",
+      "category": "design",
+      "categoryName": "Design",
+      "rank": 1021,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-22T16:59:13.884Z"
+    },
+    {
+      "id": "what-district-am-i-a7bb3b85",
+      "name": "What District Am I",
+      "slug": "what-district-am-i-a7bb3b85",
+      "url": "https://harpd.com/rank/what-district-am-i-a7bb3b85/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 1022,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-22T17:06:13.728Z"
     }
   ]
 }

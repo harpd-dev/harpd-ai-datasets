@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-21T16:50:19.027Z",
+  "generatedAt": "2026-11-22T17:13:06.305Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "scope": "market-index",
-  "totalProducts": 985,
+  "totalProducts": 990,
   "totalRankPoints": 368,
   "categoryCount": 28,
-  "lastUpdated": "2026-11-21T13:43:25.904Z",
+  "lastUpdated": "2026-11-22T17:06:13.728Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 227,
       "totalRankPoints": 0,
-      "productShare": 23,
+      "productShare": 22.9,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -30,7 +30,7 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 115,
+      "productCount": 116,
       "totalRankPoints": 368,
       "productShare": 11.7,
       "pointsShare": 100,
@@ -47,7 +47,7 @@
       "categoryName": "Developer",
       "productCount": 113,
       "totalRankPoints": 0,
-      "productShare": 11.5,
+      "productShare": 11.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "Cursor",
@@ -77,7 +77,7 @@
       "categoryName": "Marketing",
       "productCount": 49,
       "totalRankPoints": 0,
-      "productShare": 5,
+      "productShare": 4.9,
       "pointsShare": 0,
       "topProduct": {
         "name": "EVO Marketing",
@@ -92,7 +92,7 @@
       "categoryName": "SEO",
       "productCount": 46,
       "totalRankPoints": 0,
-      "productShare": 4.7,
+      "productShare": 4.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "Semrush",
@@ -107,7 +107,7 @@
       "categoryName": "Productivity",
       "productCount": 46,
       "totalRankPoints": 0,
-      "productShare": 4.7,
+      "productShare": 4.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "Notion",
@@ -122,7 +122,7 @@
       "categoryName": "Audio",
       "productCount": 43,
       "totalRankPoints": 0,
-      "productShare": 4.4,
+      "productShare": 4.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "15Minutes",
@@ -150,9 +150,9 @@
     {
       "category": "design",
       "categoryName": "Design",
-      "productCount": 29,
+      "productCount": 30,
       "totalRankPoints": 0,
-      "productShare": 2.9,
+      "productShare": 3,
       "pointsShare": 0,
       "topProduct": {
         "name": "NeoCam",
@@ -193,6 +193,36 @@
       "boardUrl": "https://harpd.com/rank/category/education/"
     },
     {
+      "category": "writing",
+      "categoryName": "Writing",
+      "productCount": 23,
+      "totalRankPoints": 0,
+      "productShare": 2.3,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "1Transcribe",
+        "slug": "1transcribe",
+        "url": "https://harpd.com/rank/1transcribe/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/writing/"
+    },
+    {
+      "category": "games",
+      "categoryName": "Games",
+      "productCount": 23,
+      "totalRankPoints": 0,
+      "productShare": 2.3,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "Degen Idle",
+        "slug": "degen-idle",
+        "url": "https://harpd.com/rank/degen-idle/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/games/"
+    },
+    {
       "category": "health",
       "categoryName": "Health",
       "productCount": 22,
@@ -206,36 +236,6 @@
         "rankPoints": 0
       },
       "boardUrl": "https://harpd.com/rank/category/health/"
-    },
-    {
-      "category": "writing",
-      "categoryName": "Writing",
-      "productCount": 22,
-      "totalRankPoints": 0,
-      "productShare": 2.2,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "1Transcribe",
-        "slug": "1transcribe",
-        "url": "https://harpd.com/rank/1transcribe/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/writing/"
-    },
-    {
-      "category": "games",
-      "categoryName": "Games",
-      "productCount": 21,
-      "totalRankPoints": 0,
-      "productShare": 2.1,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "Degen Idle",
-        "slug": "degen-idle",
-        "url": "https://harpd.com/rank/degen-idle/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/games/"
     },
     {
       "category": "directories",
