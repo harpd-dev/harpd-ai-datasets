@@ -1,23 +1,23 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-24T20:13:23.790Z",
+  "generatedAt": "2026-11-25T19:23:55.834Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "scope": "market-index",
-  "totalProducts": 1002,
+  "totalProducts": 1011,
   "totalRankPoints": 368,
   "categoryCount": 28,
-  "lastUpdated": "2026-11-24T17:30:59.944Z",
+  "lastUpdated": "2026-11-25T19:14:29.298Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
       "category": "other",
       "categoryName": "Other",
-      "productCount": 227,
+      "productCount": 228,
       "totalRankPoints": 0,
-      "productShare": 22.7,
+      "productShare": 22.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -30,9 +30,9 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 117,
+      "productCount": 120,
       "totalRankPoints": 368,
-      "productShare": 11.7,
+      "productShare": 11.9,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
@@ -45,9 +45,9 @@
     {
       "category": "developer",
       "categoryName": "Developer",
-      "productCount": 114,
+      "productCount": 116,
       "totalRankPoints": 0,
-      "productShare": 11.4,
+      "productShare": 11.5,
       "pointsShare": 0,
       "topProduct": {
         "name": "Cursor",
@@ -62,7 +62,7 @@
       "categoryName": "Agents",
       "productCount": 65,
       "totalRankPoints": 0,
-      "productShare": 6.5,
+      "productShare": 6.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "Claude",
@@ -77,7 +77,7 @@
       "categoryName": "Marketing",
       "productCount": 50,
       "totalRankPoints": 0,
-      "productShare": 5,
+      "productShare": 4.9,
       "pointsShare": 0,
       "topProduct": {
         "name": "EVO Marketing",
@@ -92,7 +92,7 @@
       "categoryName": "SEO",
       "productCount": 48,
       "totalRankPoints": 0,
-      "productShare": 4.8,
+      "productShare": 4.7,
       "pointsShare": 0,
       "topProduct": {
         "name": "Semrush",
@@ -107,7 +107,7 @@
       "categoryName": "Productivity",
       "productCount": 46,
       "totalRankPoints": 0,
-      "productShare": 4.6,
+      "productShare": 4.5,
       "pointsShare": 0,
       "topProduct": {
         "name": "Notion",
@@ -135,9 +135,9 @@
     {
       "category": "business",
       "categoryName": "Business",
-      "productCount": 32,
+      "productCount": 33,
       "totalRankPoints": 0,
-      "productShare": 3.2,
+      "productShare": 3.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "Klover",
@@ -180,9 +180,9 @@
     {
       "category": "games",
       "categoryName": "Games",
-      "productCount": 24,
+      "productCount": 25,
       "totalRankPoints": 0,
-      "productShare": 2.4,
+      "productShare": 2.5,
       "pointsShare": 0,
       "topProduct": {
         "name": "Degen Idle",
@@ -283,6 +283,21 @@
       "boardUrl": "https://harpd.com/rank/category/travel/"
     },
     {
+      "category": "ecommerce",
+      "categoryName": "Ecommerce",
+      "productCount": 11,
+      "totalRankPoints": 0,
+      "productShare": 1.1,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "Four",
+        "slug": "four",
+        "url": "https://harpd.com/rank/four/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/ecommerce/"
+    },
+    {
       "category": "social",
       "categoryName": "Social",
       "productCount": 11,
@@ -296,21 +311,6 @@
         "rankPoints": 0
       },
       "boardUrl": "https://harpd.com/rank/category/social/"
-    },
-    {
-      "category": "ecommerce",
-      "categoryName": "Ecommerce",
-      "productCount": 10,
-      "totalRankPoints": 0,
-      "productShare": 1,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "Four",
-        "slug": "four",
-        "url": "https://harpd.com/rank/four/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/ecommerce/"
     },
     {
       "category": "security",

@@ -10,8 +10,8 @@
     "periodKey": "2026-11",
     "periodStart": "2026-11-01T00:00:00.000Z",
     "periodEnd": "2026-12-01T00:00:00.000Z",
-    "generatedAt": "2026-11-24T20:13:23.538Z",
-    "recordCount": 1002,
+    "generatedAt": "2026-11-25T19:23:55.615Z",
+    "recordCount": 1011,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -12038,6 +12038,114 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-24T17:30:59.944Z"
+    },
+    {
+      "id": "pika-h3-flex-b6a89228",
+      "name": "Pika H3 Flex",
+      "slug": "pika-h3-flex-b6a89228",
+      "url": "https://harpd.com/rank/pika-h3-flex-b6a89228/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1035,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-25T00:14:40.465Z"
+    },
+    {
+      "id": "the-video-creation-tool-on-kling-4-art-b775881b",
+      "name": "the video creation tool on kling-4.art",
+      "slug": "the-video-creation-tool-on-kling-4-art-b775881b",
+      "url": "https://harpd.com/rank/the-video-creation-tool-on-kling-4-art-b775881b/",
+      "category": "other",
+      "categoryName": "Other",
+      "rank": 1036,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-25T06:17:16.900Z"
+    },
+    {
+      "id": "minimax-h3-image-b6bf67e7",
+      "name": "minimax h3 image",
+      "slug": "minimax-h3-image-b6bf67e7",
+      "url": "https://harpd.com/rank/minimax-h3-image-b6bf67e7/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1037,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-25T11:35:38.177Z"
+    },
+    {
+      "id": "jev-ai-d5c3e597",
+      "name": "Jev AI",
+      "slug": "jev-ai-d5c3e597",
+      "url": "https://harpd.com/rank/jev-ai-d5c3e597/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1038,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-25T13:10:08.228Z"
+    },
+    {
+      "id": "puzlio-3debc39a",
+      "name": "Puzlio",
+      "slug": "puzlio-3debc39a",
+      "url": "https://harpd.com/rank/puzlio-3debc39a/",
+      "category": "games",
+      "categoryName": "Games",
+      "rank": 1039,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-25T18:18:25.284Z"
+    },
+    {
+      "id": "amz-do-25d39e76",
+      "name": "amz.do",
+      "slug": "amz-do-25d39e76",
+      "url": "https://harpd.com/rank/amz-do-25d39e76/",
+      "category": "ecommerce",
+      "categoryName": "Ecommerce",
+      "rank": 1040,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-25T18:24:51.201Z"
+    },
+    {
+      "id": "sandboxer-4d0c8d6e",
+      "name": "Sandboxer",
+      "slug": "sandboxer-4d0c8d6e",
+      "url": "https://harpd.com/rank/sandboxer-4d0c8d6e/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1041,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-25T18:28:10.111Z"
+    },
+    {
+      "id": "shenzhen-sourcing-agent-fffe7345",
+      "name": "Shenzhen Sourcing Agent",
+      "slug": "shenzhen-sourcing-agent-fffe7345",
+      "url": "https://harpd.com/rank/shenzhen-sourcing-agent-fffe7345/",
+      "category": "business",
+      "categoryName": "Business",
+      "rank": 1042,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-25T18:28:28.233Z"
+    },
+    {
+      "id": "posewear-b22e9252",
+      "name": "Posewear",
+      "slug": "posewear-b22e9252",
+      "url": "https://harpd.com/rank/posewear-b22e9252/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1043,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-25T19:14:29.298Z"
     }
   ]
 }
