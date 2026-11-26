@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-25T19:23:55.834Z",
+  "generatedAt": "2026-11-26T19:07:11.531Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "scope": "market-index",
-  "totalProducts": 1011,
+  "totalProducts": 1017,
   "totalRankPoints": 368,
   "categoryCount": 28,
-  "lastUpdated": "2026-11-25T19:14:29.298Z",
+  "lastUpdated": "2026-11-26T11:12:33.130Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 228,
       "totalRankPoints": 0,
-      "productShare": 22.6,
+      "productShare": 22.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -30,9 +30,9 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 120,
+      "productCount": 122,
       "totalRankPoints": 368,
-      "productShare": 11.9,
+      "productShare": 12,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
@@ -47,7 +47,7 @@
       "categoryName": "Developer",
       "productCount": 116,
       "totalRankPoints": 0,
-      "productShare": 11.5,
+      "productShare": 11.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "Cursor",
@@ -75,9 +75,9 @@
     {
       "category": "marketing",
       "categoryName": "Marketing",
-      "productCount": 50,
+      "productCount": 51,
       "totalRankPoints": 0,
-      "productShare": 4.9,
+      "productShare": 5,
       "pointsShare": 0,
       "topProduct": {
         "name": "EVO Marketing",
@@ -120,7 +120,7 @@
     {
       "category": "audio",
       "categoryName": "Audio",
-      "productCount": 44,
+      "productCount": 45,
       "totalRankPoints": 0,
       "productShare": 4.4,
       "pointsShare": 0,
@@ -137,7 +137,7 @@
       "categoryName": "Business",
       "productCount": 33,
       "totalRankPoints": 0,
-      "productShare": 3.3,
+      "productShare": 3.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "Klover",
@@ -152,7 +152,7 @@
       "categoryName": "Design",
       "productCount": 31,
       "totalRankPoints": 0,
-      "productShare": 3.1,
+      "productShare": 3,
       "pointsShare": 0,
       "topProduct": {
         "name": "NeoCam",
@@ -208,6 +208,21 @@
       "boardUrl": "https://harpd.com/rank/category/hiring/"
     },
     {
+      "category": "health",
+      "categoryName": "Health",
+      "productCount": 23,
+      "totalRankPoints": 0,
+      "productShare": 2.3,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "Fuel Log",
+        "slug": "fuel-log",
+        "url": "https://harpd.com/rank/fuel-log/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/health/"
+    },
+    {
       "category": "writing",
       "categoryName": "Writing",
       "productCount": 23,
@@ -221,21 +236,6 @@
         "rankPoints": 0
       },
       "boardUrl": "https://harpd.com/rank/category/writing/"
-    },
-    {
-      "category": "health",
-      "categoryName": "Health",
-      "productCount": 22,
-      "totalRankPoints": 0,
-      "productShare": 2.2,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "Fuel Log",
-        "slug": "fuel-log",
-        "url": "https://harpd.com/rank/fuel-log/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/health/"
     },
     {
       "category": "directories",
@@ -313,6 +313,21 @@
       "boardUrl": "https://harpd.com/rank/category/social/"
     },
     {
+      "category": "crypto",
+      "categoryName": "Crypto",
+      "productCount": 8,
+      "totalRankPoints": 0,
+      "productShare": 0.8,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "Orynth",
+        "slug": "orynth",
+        "url": "https://harpd.com/rank/orynth/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/crypto/"
+    },
+    {
       "category": "security",
       "categoryName": "Security",
       "productCount": 8,
@@ -341,21 +356,6 @@
         "rankPoints": 0
       },
       "boardUrl": "https://harpd.com/rank/category/leaderboards/"
-    },
-    {
-      "category": "crypto",
-      "categoryName": "Crypto",
-      "productCount": 7,
-      "totalRankPoints": 0,
-      "productShare": 0.7,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "Orynth",
-        "slug": "orynth",
-        "url": "https://harpd.com/rank/orynth/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/crypto/"
     },
     {
       "category": "news",

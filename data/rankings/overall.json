@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-25T19:23:55.615Z",
+  "generatedAt": "2026-11-26T19:07:11.266Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1011,
+  "count": 1017,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-11-01T00:00:00.000Z",
@@ -14,7 +14,7 @@
     "monthKey": "2026-11",
     "weekKey": "2026-W48"
   },
-  "lastUpdated": "2026-11-25T19:14:29.298Z",
+  "lastUpdated": "2026-11-26T11:12:33.130Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -12148,6 +12148,78 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-25T19:14:29.298Z"
+    },
+    {
+      "id": "get-ai-rap-video-9d47617a",
+      "name": "Get AI Rap Video",
+      "slug": "get-ai-rap-video-9d47617a",
+      "url": "https://harpd.com/rank/get-ai-rap-video-9d47617a/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1044,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-25T19:45:00.636Z"
+    },
+    {
+      "id": "remove-text-from-video-6caa222c",
+      "name": "Remove Text From Video",
+      "slug": "remove-text-from-video-6caa222c",
+      "url": "https://harpd.com/rank/remove-text-from-video-6caa222c/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1045,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-26T03:45:53.251Z"
+    },
+    {
+      "id": "buhgalter-0982c04f",
+      "name": "Buhgalter",
+      "slug": "buhgalter-0982c04f",
+      "url": "https://harpd.com/rank/buhgalter-0982c04f/",
+      "category": "crypto",
+      "categoryName": "Crypto",
+      "rank": 1046,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-26T06:34:47.682Z"
+    },
+    {
+      "id": "background-audio-remover-ca652454",
+      "name": "Background Audio Remover",
+      "slug": "background-audio-remover-ca652454",
+      "url": "https://harpd.com/rank/background-audio-remover-ca652454/",
+      "category": "audio",
+      "categoryName": "Audio",
+      "rank": 1047,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-11-26T09:41:34.006Z"
+    },
+    {
+      "id": "pageree-6ee04e29",
+      "name": "Pageree",
+      "slug": "pageree-6ee04e29",
+      "url": "https://harpd.com/rank/pageree-6ee04e29/",
+      "category": "marketing",
+      "categoryName": "Marketing",
+      "rank": 1048,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-26T10:38:45.406Z"
+    },
+    {
+      "id": "china-care-atlas-da100360",
+      "name": "China Care Atlas",
+      "slug": "china-care-atlas-da100360",
+      "url": "https://harpd.com/rank/china-care-atlas-da100360/",
+      "category": "health",
+      "categoryName": "Health",
+      "rank": 1049,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-26T11:12:33.130Z"
     }
   ]
 }
