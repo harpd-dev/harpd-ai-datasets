@@ -1,6 +1,6 @@
 category,categoryName,productCount,totalRankPoints,productShare,pointsShare,topProduct,boardUrl
 other,Other,228,0,22.4,0,"{""name"":""BuildAI.Space"",""slug"":""buildai-space"",""url"":""https://harpd.com/rank/buildai-space/"",""rankPoints"":0}",https://harpd.com/rank/category/other/
-ai-media,AI Media,122,368,12,100,"{""name"":""imgkit"",""slug"":""imgkit-86d32f3e"",""url"":""https://harpd.com/rank/imgkit-86d32f3e/"",""rankPoints"":368}",https://harpd.com/rank/category/ai-media/
+ai-media,AI Media,123,368,12.1,100,"{""name"":""imgkit"",""slug"":""imgkit-86d32f3e"",""url"":""https://harpd.com/rank/imgkit-86d32f3e/"",""rankPoints"":368}",https://harpd.com/rank/category/ai-media/
 developer,Developer,116,0,11.4,0,"{""name"":""Cursor"",""slug"":""cursor"",""url"":""https://harpd.com/rank/cursor/"",""rankPoints"":0}",https://harpd.com/rank/category/developer/
 agents,Agents,65,0,6.4,0,"{""name"":""Claude"",""slug"":""claude"",""url"":""https://harpd.com/rank/claude/"",""rankPoints"":0}",https://harpd.com/rank/category/agents/
 marketing,Marketing,51,0,5,0,"{""name"":""EVO Marketing"",""slug"":""evo-marketing"",""url"":""https://harpd.com/rank/evo-marketing/"",""rankPoints"":0}",https://harpd.com/rank/category/marketing/

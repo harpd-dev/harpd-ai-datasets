@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-26T19:07:11.266Z",
+  "generatedAt": "2026-11-27T19:03:03.832Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1017,
+  "count": 1018,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-11-01T00:00:00.000Z",
@@ -14,7 +14,7 @@
     "monthKey": "2026-11",
     "weekKey": "2026-W48"
   },
-  "lastUpdated": "2026-11-26T11:12:33.130Z",
+  "lastUpdated": "2026-11-27T12:05:31.453Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -12220,6 +12220,18 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-26T11:12:33.130Z"
+    },
+    {
+      "id": "ainsfw-tools-e9c281e8",
+      "name": "ainsfw.tools",
+      "slug": "ainsfw-tools-e9c281e8",
+      "url": "https://harpd.com/rank/ainsfw-tools-e9c281e8/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1050,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-27T12:05:31.453Z"
     }
   ]
 }

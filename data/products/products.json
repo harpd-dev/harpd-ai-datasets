@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-26T19:07:11.020Z",
+  "generatedAt": "2026-11-27T19:03:03.625Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1017,
-  "lastUpdated": "2026-11-26T11:12:33.130Z",
+  "count": 1018,
+  "lastUpdated": "2026-11-27T12:05:31.453Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -15261,6 +15261,21 @@
       "updatedAt": "2026-11-26T11:12:33.130Z",
       "website": "https://chinacareatlas.com/",
       "description": "China Care Atlas is a curated bilingual English-Chinese medical directory helping expats, travelers, and international families find verified hospitals, English-speaking clinics, and pharmacies across China.",
+      "productType": null
+    },
+    {
+      "id": "ainsfw-tools-e9c281e8",
+      "name": "ainsfw.tools",
+      "slug": "ainsfw-tools-e9c281e8",
+      "url": "https://harpd.com/rank/ainsfw-tools-e9c281e8/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1050,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-27T12:05:31.453Z",
+      "website": "https://ainsfw.tools/",
+      "description": "Independent 18+ reviews of AI chat and companion platforms",
       "productType": null
     }
   ]

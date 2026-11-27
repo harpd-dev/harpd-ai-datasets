@@ -10,8 +10,8 @@
     "periodKey": "2026-11",
     "periodStart": "2026-11-01T00:00:00.000Z",
     "periodEnd": "2026-12-01T00:00:00.000Z",
-    "generatedAt": "2026-11-26T19:07:11.266Z",
-    "recordCount": 1017,
+    "generatedAt": "2026-11-27T19:03:03.832Z",
+    "recordCount": 1018,
     "note": "Live Harpd Rank board scoped to the current period window. Historical archives: https://harpd.com/rank/history/"
   },
   "products": [
@@ -12218,6 +12218,18 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-11-26T11:12:33.130Z"
+    },
+    {
+      "id": "ainsfw-tools-e9c281e8",
+      "name": "ainsfw.tools",
+      "slug": "ainsfw-tools-e9c281e8",
+      "url": "https://harpd.com/rank/ainsfw-tools-e9c281e8/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1050,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-11-27T12:05:31.453Z"
     }
   ]
 }
