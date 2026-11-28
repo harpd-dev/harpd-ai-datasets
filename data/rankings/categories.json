@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-27T19:03:03.963Z",
+  "generatedAt": "2026-11-28T17:38:04.154Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 28,
-  "totalProducts": 1018,
-  "lastUpdated": "2026-11-27T12:05:31.453Z",
+  "totalProducts": 1026,
+  "lastUpdated": "2026-11-28T17:21:23.684Z",
   "categories": [
     {
       "slug": "seo",
@@ -28,52 +28,52 @@
       "name": "Agents",
       "description": "Explore agent platforms, autonomous workflows, orchestration tools and practical AI agent products.",
       "url": "https://harpd.com/rank/category/agents/",
-      "productCount": 65,
+      "productCount": 66,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-17T07:36:12.513Z"
+      "updatedAt": "2026-11-28T17:15:18.583Z"
     },
     {
       "slug": "ai-media",
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 123,
+      "productCount": 126,
       "rankedProductCount": 1,
       "totalRankPoints": 368,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-27T12:05:31.453Z"
+      "updatedAt": "2026-11-28T16:10:54.943Z"
     },
     {
       "slug": "marketing",
       "name": "Marketing",
       "description": "Explore products for campaigns, growth, analytics, attribution and customer communication.",
       "url": "https://harpd.com/rank/category/marketing/",
-      "productCount": 51,
+      "productCount": 53,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-26T10:38:45.406Z"
+      "updatedAt": "2026-11-28T17:18:30.933Z"
     },
     {
       "slug": "developer",
       "name": "Developer",
       "description": "Discover APIs, infrastructure, testing and productivity tools built for software teams.",
       "url": "https://harpd.com/rank/category/developer/",
-      "productCount": 116,
+      "productCount": 117,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-25T18:28:10.111Z"
+      "updatedAt": "2026-11-28T13:44:43.668Z"
     },
     {
       "slug": "productivity",
@@ -210,13 +210,13 @@
       "name": "Ecommerce",
       "description": "Discover storefronts, product feeds, checkout and merchandising tools for online sellers.",
       "url": "https://harpd.com/rank/category/ecommerce/",
-      "productCount": 11,
+      "productCount": 12,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-11-25T18:24:51.201Z"
+      "updatedAt": "2026-11-28T17:21:23.684Z"
     },
     {
       "slug": "directories",

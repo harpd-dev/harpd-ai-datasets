@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-27T19:03:04.053Z",
+  "generatedAt": "2026-11-28T17:38:04.202Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "scope": "market-index",
-  "totalProducts": 1018,
+  "totalProducts": 1026,
   "totalRankPoints": 368,
   "categoryCount": 28,
-  "lastUpdated": "2026-11-27T12:05:31.453Z",
+  "lastUpdated": "2026-11-28T17:21:23.684Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 228,
       "totalRankPoints": 0,
-      "productShare": 22.4,
+      "productShare": 22.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -30,9 +30,9 @@
     {
       "category": "ai-media",
       "categoryName": "AI Media",
-      "productCount": 123,
+      "productCount": 126,
       "totalRankPoints": 368,
-      "productShare": 12.1,
+      "productShare": 12.3,
       "pointsShare": 100,
       "topProduct": {
         "name": "imgkit",
@@ -45,7 +45,7 @@
     {
       "category": "developer",
       "categoryName": "Developer",
-      "productCount": 116,
+      "productCount": 117,
       "totalRankPoints": 0,
       "productShare": 11.4,
       "pointsShare": 0,
@@ -60,7 +60,7 @@
     {
       "category": "agents",
       "categoryName": "Agents",
-      "productCount": 65,
+      "productCount": 66,
       "totalRankPoints": 0,
       "productShare": 6.4,
       "pointsShare": 0,
@@ -75,9 +75,9 @@
     {
       "category": "marketing",
       "categoryName": "Marketing",
-      "productCount": 51,
+      "productCount": 53,
       "totalRankPoints": 0,
-      "productShare": 5,
+      "productShare": 5.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "EVO Marketing",
@@ -167,7 +167,7 @@
       "categoryName": "Education",
       "productCount": 27,
       "totalRankPoints": 0,
-      "productShare": 2.7,
+      "productShare": 2.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "1001 Record",
@@ -182,7 +182,7 @@
       "categoryName": "Games",
       "productCount": 25,
       "totalRankPoints": 0,
-      "productShare": 2.5,
+      "productShare": 2.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "Degen Idle",
@@ -197,7 +197,7 @@
       "categoryName": "Hiring",
       "productCount": 23,
       "totalRankPoints": 0,
-      "productShare": 2.3,
+      "productShare": 2.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "LATAMHire",
@@ -212,7 +212,7 @@
       "categoryName": "Health",
       "productCount": 23,
       "totalRankPoints": 0,
-      "productShare": 2.3,
+      "productShare": 2.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "Fuel Log",
@@ -227,7 +227,7 @@
       "categoryName": "Writing",
       "productCount": 23,
       "totalRankPoints": 0,
-      "productShare": 2.3,
+      "productShare": 2.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "1Transcribe",
@@ -285,9 +285,9 @@
     {
       "category": "ecommerce",
       "categoryName": "Ecommerce",
-      "productCount": 11,
+      "productCount": 12,
       "totalRankPoints": 0,
-      "productShare": 1.1,
+      "productShare": 1.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "Four",
